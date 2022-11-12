@@ -21,8 +21,6 @@ https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
 #EXTINF:-1 tvg-name="AlgÃ©rie TV6 (480p) [Not 24/7]" tvg-id="AlgerieTV6.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/HYqJY6y.png",AlgÃ©rie TV6 (480p) [Not 24/7]
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="Alhayat TV (720p)" tvg-id="AlhayatTV.lb" group-title="Unsorted" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png",Alhayat TV (720p)
-https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Arabic (720p)" tvg-id="BBCArabic.uk" group-title="Unsorted" tvg-logo="https://i.imgur.com/oFGPG9Y.png",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 tvg-name="Canal AlgÃ©rie (480p) [Not 24/7]" tvg-id="CanalAlgerie.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/FPmDhNH.png",Canal AlgÃ©rie (480p) [Not 24/7]
