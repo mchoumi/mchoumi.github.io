@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TV5_Monde.svg" tvg-name="TV5Monde Maghreb-Orient"  group-title="France",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8#EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="Entertainment" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE Français (720p) [Geo-blocked]
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
+#EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="Entertainment" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE Français (720p) [Geo-blocked]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1  tvg-id="C8.fr" group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png",C8 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
