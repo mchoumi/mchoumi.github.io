@@ -3,66 +3,14 @@
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates" tvg-id="AbuDhabiEmirates.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/5S2ci8p.png",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Ajyal TV" tvg-id="Ajyal TV ARB" group-title="Unsorted" tvg-logo="https://i.imgur.com/j1Xmygq.jpg",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya" tvg-id="AlArabiya.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/7OrfyOx.jpg",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-id="AlJazeeraArabic.qa" group-title="Unsorted" tvg-logo="https://i.imgur.com/x9TQYI3.jpg",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Documentary [Geo-blocked]" tvg-id="AlJazeeraDocumentary.qa" group-title="Unsorted" tvg-logo="https://i.imgur.com/El2hhYb.png",Al Jazeera Documentary [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-name="Alaraby TV" tvg-id="AlarabyTV.uk" group-title="Unsorted" tvg-logo="https://i.imgur.com/LNI1HNi.png",Alaraby TV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Algerie TV3 [Not 24/7]" tvg-id="AlgerieTV3.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/J6VmBuw.png",Algerie TV3 [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="Algerie TV4 [Not 24/7]" tvg-id="AlgerieTV4.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/n8httHt.png",Algerie TV4 [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
-#EXTINF:-1 tvg-name="Algerie TV5 [Not 24/7]" tvg-id="AlgerieTV5.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/gXG15AX.png",Algerie TV5 [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
-#EXTINF:-1 tvg-name="Algerie TV6 [Not 24/7]" tvg-id="AlgerieTV6.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/HYqJY6y.png",Algerie TV6 [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Arabic" tvg-id="BBCArabic.uk" group-title="Unsorted" tvg-logo="https://i.imgur.com/oFGPG9Y.png",BBC Arabic
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#EXTINF:-1 tvg-name="Canal Algerie [Not 24/7]" tvg-id="CanalAlgerie.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/FPmDhNH.png",Canal Algerie [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Arabic" tvg-id="CartoonNetwork.us" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png",Cartoon Network Arabic
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-name="CBC [Not 24/7]" tvg-id="CBC.eg" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/%D8%B3%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A.png",CBC [Not 24/7]
-https://linkastream.co/headless?url=https://www.youtube.com/c/cbcstream/live
-#EXTINF:-1 tvg-name="CBC Drama [Not 24/7]" tvg-id="CBCDrama.eg" group-title="Unsorted" tvg-logo="N/A",CBC Drama [Not 24/7]
-https://linkastream.co/headless?url=https://www.youtube.com/c/CBCDramaStream/live
-#EXTINF:-1 tvg-name="CBC Sofra [Not 24/7]" tvg-id="CBCSofra.eg" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Cbc_sofra_logo.png",CBC Sofra [Not 24/7]
-https://linkastream.co/headless?url=https://www.youtube.com/c/CBCSofraStream/live
-#EXTINF:-1 tvg-name="Dubai One" tvg-id="DubaiOne.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai TV" tvg-id="DubaiTV.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/dWueFIE.png",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai Zaman" tvg-id="DubaiZaman.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/F5U9qpf.png",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="DW Arabic" tvg-id="DWArabic.de" group-title="Unsorted" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-name="Echorouk News [Not 24/7]" tvg-id="EchoroukNews.dz" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png",Echorouk News [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1 tvg-name="Echorouk TV" tvg-id="EchoroukTV.dz" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Echourouk_TV_logo.svg",Echorouk TV
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="El Bilad [Not 24/7]" tvg-id="ElBilad.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/Bp00gMu.png",El Bilad [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
-#EXTINF:-1 tvg-name="El Djazair N1" tvg-id="ElDjazairN1.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/EoB4f6e.png",El Djazair N1
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
-#EXTINF:-1 tvg-name="El Djazairia One [Not 24/7]" tvg-id="ElDjazairiaOne.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/OhTioAg.png",El Djazairia One [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
-#EXTINF:-1 tvg-name="Ennahar TV [Not 24/7]" tvg-id="EnnaharTV.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/ta9o5qJ.png",Ennahar TV [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
-#EXTINF:-1 tvg-name="ENTV [Not 24/7]" tvg-id="ENTV.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/tFXvY71.png",ENTV [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24 Arabic" tvg-id="France24Arabic.fr" group-title="Unsorted" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-name="Gulli Bil Arabi" tvg-id="GulliBilArabi.fr" group-title="Unsorted" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png",Gulli Bil Arabi
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
-#EXTINF:-1 tvg-name="LBC [Geo-blocked]" tvg-id="LBC" group-title="Unsorted" tvg-logo="https://i.imgur.com/YLcmYCR.png",LBC [Geo-blocked]
-https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
-#EXTINF:-1 tvg-name="LBC International" tvg-id="LBCInternational.lb" group-title="Unsorted" tvg-logo="https://i.imgur.com/YPR45yP.png",LBC International
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 tvg-name="Dubai One" tvg-id="DubaiOne.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Noor Dubai" tvg-id="NoorDubai.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/FP2yHkl.png",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 1 KSA" tvg-id="MBC.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC 1 KSA
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 tvg-name="MBC 1 USA" tvg-id="MBC1USA.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC 1 USA
@@ -97,12 +45,68 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 #EXTINF:-1 tvg-name="MBC Plus Drama" tvg-id="MBCDramaPlus.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya" tvg-id="AlArabiya.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/7OrfyOx.jpg",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-id="AlJazeeraArabic.qa" group-title="Unsorted" tvg-logo="https://i.imgur.com/x9TQYI3.jpg",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Documentary [Geo-blocked]" tvg-id="AlJazeeraDocumentary.qa" group-title="Unsorted" tvg-logo="https://i.imgur.com/El2hhYb.png",Al Jazeera Documentary [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-name="Alaraby TV" tvg-id="AlarabyTV.uk" group-title="Unsorted" tvg-logo="https://i.imgur.com/LNI1HNi.png",Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="El Djazairia One [Not 24/7]" tvg-id="ElDjazairiaOne.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/OhTioAg.png",El Djazairia One [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="Ennahar TV [Not 24/7]" tvg-id="EnnaharTV.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/ta9o5qJ.png",Ennahar TV [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ENTV [Not 24/7]" tvg-id="ENTV.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/tFXvY71.png",ENTV [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie TV3 [Not 24/7]" tvg-id="AlgerieTV3.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/J6VmBuw.png",Algerie TV3 [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie TV4 [Not 24/7]" tvg-id="AlgerieTV4.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/n8httHt.png",Algerie TV4 [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie TV5 [Not 24/7]" tvg-id="AlgerieTV5.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/gXG15AX.png",Algerie TV5 [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie TV6 [Not 24/7]" tvg-id="AlgerieTV6.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/HYqJY6y.png",Algerie TV6 [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Algerie [Not 24/7]" tvg-id="CanalAlgerie.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/FPmDhNH.png",Canal Algerie [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-name="Echorouk TV" tvg-id="EchoroukTV.dz" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Echourouk_TV_logo.svg",Echorouk TV
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Echorouk News [Not 24/7]" tvg-id="EchoroukNews.dz" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png",Echorouk News [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:-1 tvg-name="Samira TV [Not 24/7]" tvg-id="SamiraTV.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/5C80xDT.png",Samira TV [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+#EXTINF:-1 tvg-name="El Bilad [Not 24/7]" tvg-id="ElBilad.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/Bp00gMu.png",El Bilad [Not 24/7]
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+#EXTINF:-1 tvg-name="El Djazair N1" tvg-id="ElDjazairN1.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/EoB4f6e.png",El Djazair N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Arabic" tvg-id="CartoonNetwork.us" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-name="Gulli Bil Arabi" tvg-id="GulliBilArabi.fr" group-title="Unsorted" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png",Gulli Bil Arabi
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
+#EXTINF:-1 tvg-name="Ajyal TV" tvg-id="Ajyal TV ARB" group-title="Unsorted" tvg-logo="https://i.imgur.com/j1Xmygq.jpg",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-name="Rotana Kids" tvg-id="RotanaKids.sa" group-title="Unsorted" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-name="CBC [Not 24/7]" tvg-id="CBC.eg" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/%D8%B3%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A.png",CBC [Not 24/7]
+https://linkastream.co/headless?url=https://www.youtube.com/c/cbcstream/live
+#EXTINF:-1 tvg-name="CBC Drama [Not 24/7]" tvg-id="CBCDrama.eg" group-title="Unsorted" tvg-logo="N/A",CBC Drama [Not 24/7]
+https://linkastream.co/headless?url=https://www.youtube.com/c/CBCDramaStream/live
+#EXTINF:-1 tvg-name="CBC Sofra [Not 24/7]" tvg-id="CBCSofra.eg" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Cbc_sofra_logo.png",CBC Sofra [Not 24/7]
+https://linkastream.co/headless?url=https://www.youtube.com/c/CBCSofraStream/live
+#EXTINF:-1 tvg-name="BBC Arabic" tvg-id="BBCArabic.uk" group-title="Unsorted" tvg-logo="https://i.imgur.com/oFGPG9Y.png",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 tvg-name="DW Arabic" tvg-id="DWArabic.de" group-title="Unsorted" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-name="France 24 Arabic" tvg-id="France24Arabic.fr" group-title="Unsorted" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-name="LBC [Geo-blocked]" tvg-id="LBC" group-title="Unsorted" tvg-logo="https://i.imgur.com/YLcmYCR.png",LBC [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+#EXTINF:-1 tvg-name="LBC International" tvg-id="LBCInternational.lb" group-title="Unsorted" tvg-logo="https://i.imgur.com/YPR45yP.png",LBC International
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic Abu Dhabi" tvg-id="NationalGeographicAbuDhabi.us" group-title="Unsorted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png",National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="National Geographic Abu Dhabi" tvg-id="NationalGeographicAbuDhabi.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/baXbWro.jpg",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Noor Dubai" tvg-id="NoorDubai.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/FP2yHkl.png",Noor Dubai
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD" tvg-id="RotanaCinemaHD.sa" group-title="Unsorted" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD [Geo-blocked]" tvg-id="Rotana Cinema ARB" group-title="Unsorted" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",Rotana Cinema HD [Geo-blocked]
@@ -113,14 +117,8 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 #EXTINF:-1 tvg-name="Rotana Drama HD" tvg-id="Rotana Drama" group-title="Unsorted" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png",Rotana Drama HD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Kids" tvg-id="RotanaKids.sa" group-title="Unsorted" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Music" tvg-id="RotanaMusic.sa" group-title="Unsorted" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png",Rotana Music
-https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
 #EXTINF:-1 tvg-name="RT Arabic" tvg-id="RTArabic.ru" group-title="Unsorted" tvg-logo="https://i.imgur.com/XYJEasM.png",RT Arabic
 http://rt-arab.secure.footprint.net:80/1104.m3u8
-#EXTINF:-1 tvg-name="Samira TV [Not 24/7]" tvg-id="SamiraTV.dz" group-title="Unsorted" tvg-logo="https://i.imgur.com/5C80xDT.png",Samira TV [Not 24/7]
-https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Sharjah 2" tvg-id="Sharjah2.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/ob1GhbC.jpg",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sharjah TV" tvg-id="SharjahTV.ae" group-title="Unsorted" tvg-logo="https://i.imgur.com/FAp0RtO.png",Sharjah TV
