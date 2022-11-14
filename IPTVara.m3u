@@ -14,7 +14,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTINF:-1 tvg-name="Noor Dubai"tvg-id="NoorDubai.ae"tvg-logo="https://i.imgur.com/FP2yHkl.png"group-title="Arabic",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 1 KSA"tvg-id="MBC.ae"tvg-logo="https://i.imgur.com/eKBXOKd.png"group-title="Arabic",MBC 1 KSA
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
 #EXTINF:-1 tvg-name="MBC 1 USA"tvg-id="MBC1USA.ae"tvg-logo="https://i.imgur.com/eKBXOKd.png"group-title="Arabic",MBC 1 USA
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Arabic",MBC 2
