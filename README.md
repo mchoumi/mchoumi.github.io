@@ -7,3 +7,6 @@ https://mchoumi.github.io/IPTVfr.m3u
 
 Kids
 https://mchoumi.github.io/IPTVkids.m3u
+
+Sport
+https://mchoumi.github.io/IPTVsports.m3u
