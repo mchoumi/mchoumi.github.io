@@ -19,12 +19,6 @@ https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Arabic",MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1 tvg-name="MBC 3"tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Arabic",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-name="MBC 3 EUR"tvg-id="MBC3EUR.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Arabic",MBC 3 EUR
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-name="MBC 3 USA"tvg-id="MBC3USA.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Arabic",MBC 3 USA
-https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
 #EXTINF:-1 tvg-name="MBC 4"tvg-id="MBC4.ae"tvg-logo="https://i.imgur.com/pfF61uH.png"group-title="Arabic",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-name="MBC 5"tvg-id="MBC5.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png"group-title="Arabic",MBC 5
