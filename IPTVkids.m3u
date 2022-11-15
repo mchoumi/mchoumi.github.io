@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Majid"tvg-id="Majid.ae"tvg-logo="https://i.imgur.com/9Bun2IX.png"group-title="Kids":http-user-agent="",Majid TV
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC 3"tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Arabic",MBC 3
+#EXTINF:-1 tvg-name="MBC 3"tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-name="MBC 3 EUR"tvg-id="MBC3EUR.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Arabic",MBC 3 EUR
+#EXTINF:-1 tvg-name="MBC 3 EUR"tvg-id="MBC3EUR.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Arabic"tvg-id="CartoonNetworkArabic.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png"group-title="Kids":http-user-agent="",Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
