@@ -1,4 +1,3 @@
-# 
 IPTV Playlist
 
 Upload the link on your m3u player
