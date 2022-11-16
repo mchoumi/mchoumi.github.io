@@ -1,12 +1,9 @@
 # IPTV Playlists
-ARABIC
-https://mchoumi.github.io/IPTVara.m3u
+Upload the link on your m3u player
 
-French
-https://mchoumi.github.io/IPTVfr.m3u
-
-Kids
-https://mchoumi.github.io/IPTVkids.m3u
-
-Sport
-https://mchoumi.github.io/IPTVsports.m3u
+|Playlist   |Link                                       |
+|-----------|-------------------------------------------|
+|Arabic     |https://mchoumi.github.io/IPTVara.m3u      |
+|French     |https://mchoumi.github.io/IPTVfr.m3u       |
+|Kids       |https://mchoumi.github.io/IPTVkids.m3u     |
+|Sport      |https://mchoumi.github.io/IPTVsports.m3u   |
