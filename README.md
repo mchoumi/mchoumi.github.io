@@ -1,7 +1,5 @@
 Date:   2022-03-24
 
-{% last_modified_at %}
-
 # IPTV Playlist
 
 Upload the link on your m3u player
