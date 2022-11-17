@@ -1,6 +1,6 @@
 # Build settings
 title: "My IPTVs"
-
+description: A direct m3u links for IPTV Players
 theme: minima
 minima:
   date_format: "%b %-d, %Y"
