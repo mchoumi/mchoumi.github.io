@@ -2,6 +2,7 @@
 title: "My IPTVs"
 theme: minima
 minima:
+  date_format: "%b %-d, %Y"
   skin: dark
 plugins:
   - jekyll-last-modified-at
