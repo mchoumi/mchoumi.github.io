@@ -1,3 +1,4 @@
 # Build settings
 theme: minima
+- jekyll-last-modified-at 
 date_format: "%b %-d, %Y"
