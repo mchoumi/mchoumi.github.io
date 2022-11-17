@@ -1,13 +1,17 @@
 # Build settings
 title: "My IPTVs"
 description: A direct m3u links for IPTV Players
+
 remote_theme: jekyll/minima
 minima:
   skin: dark  
 
 plugins:
   - jekyll-last-modified-at
-
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
     date-format: '%d-%b-%y'
