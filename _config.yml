@@ -1,6 +1,8 @@
 # Build settings
 title: "My IPTVs"
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-last-modified-at
 
