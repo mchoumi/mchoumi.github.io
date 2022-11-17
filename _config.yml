@@ -1,11 +1,10 @@
 # Build settings
 title: "My IPTVs"
 
+theme: minima
 minima:
   date_format: "%b %-d, %Y"
-  skin: dark
-  
-theme: minima
+  skin: dark  
 
 plugins:
   - jekyll-last-modified-at
