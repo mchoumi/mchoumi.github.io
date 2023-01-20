@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="France",M6 (1080p)
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1, tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TV5_Monde.svg" tvg-name="TV5Monde Maghreb-Orient"  group-title="France",TV5Monde Maghreb-Orient
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
 #EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE Français (720p) [Geo-blocked]
