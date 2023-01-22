@@ -3,6 +3,8 @@
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="AbuDhabiEmirates.ae"tvg-logo="https://i.imgur.com/5S2ci8p.png"group-title="Arabic",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi (1080p)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai TV"tvg-id="DubaiTV.ae"tvg-logo="https://i.imgur.com/dWueFIE.png"group-title="Arabic",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sama Dubai"tvg-id="SamaDubai.ae"tvg-logo="https://i.imgur.com/bF6I3N1.jpg"group-title="Arabic",Sama Dubai (1080p)
