@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="France",TV5 Style HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="France",M6 (1080p)
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1, tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TV5_Monde.svg" tvg-name="TV5Monde Maghreb-Orient"  group-title="France",TV5Monde Maghreb-Orient
