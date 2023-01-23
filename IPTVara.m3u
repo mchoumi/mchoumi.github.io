@@ -95,19 +95,19 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
 #EXTINF:-1 tvg-name="LBC International"tvg-id="LBCInternational.lb"tvg-logo="https://i.imgur.com/YPR45yP.png"group-title="Arabic",LBC International
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Abu Dhabi"tvg-id="NationalGeographicAbuDhabi.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png"group-title="Arabic",National Geographic Abu Dhabi
+#EXTINF:-1 tvg-name="National Geographic Abu Dhabi"tvg-id="NationalGeographicAbuDhabi.us"tvg-logo="https://i.imgur.com/fNA00VF.png"group-title="Arabic",National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="National Geographic Abu Dhabi"tvg-id="NationalGeographicAbuDhabi.ae"tvg-logo="https://i.imgur.com/baXbWro.jpg"group-title="Arabic",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png"group-title="Arabic",Rotana Cinema HD
+#EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD [Geo-blocked]"tvg-id="Rotana Cinema ARB"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png"group-title="Arabic",Rotana Cinema HD [Geo-blocked]
+#EXTINF:-1 tvg-name="Rotana Cinema HD [Geo-blocked]"tvg-id="Rotana Cinema ARB"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD [Geo-blocked]
 https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png"group-title="Arabic",Rotana Cinema HD KSA
+#EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD KSA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Comedy HD [Geo-blocked]"tvg-id="Rotana Comedy ARB"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png"group-title="Arabic",Rotana Comedy HD [Geo-blocked]
+#EXTINF:-1 tvg-name="Rotana Comedy HD [Geo-blocked]"tvg-id="Rotana Comedy ARB"tvg-logo="https://i.imgur.com/IlT8U6S.png"group-title="Arabic",Rotana Comedy HD [Geo-blocked]
 https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
-#EXTINF:-1 tvg-name="Rotana Drama HD"tvg-id="Rotana Drama"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png"group-title="Arabic",Rotana Drama HD
+#EXTINF:-1 tvg-name="Rotana Drama HD"tvg-id="Rotana Drama"tvg-logo="https://i.imgur.com/btnhPjZ.png"group-title="Arabic",Rotana Drama HD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 #EXTINF:-1 tvg-name="RT Arabic"tvg-id="RTArabic.ru"tvg-logo="https://i.imgur.com/XYJEasM.png"group-title="Arabic",RT Arabic
 http://rt-arab.secure.footprint.net:80/1104.m3u8
