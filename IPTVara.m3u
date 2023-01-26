@@ -25,7 +25,7 @@ https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/in
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-name="MBC 4"tvg-id="MBC4.ae"tvg-logo="https://i.imgur.com/pfF61uH.png"group-title="Arabic",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-name="MBC 5"tvg-id="MBC5.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png"group-title="Arabic",MBC 5
+#EXTINF:-1 tvg-name="MBC 5"tvg-id="MBC5.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png"group-title="Arabic",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-name="MBC Action"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Arabic",MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
@@ -69,9 +69,9 @@ https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Algerie [Not 24/7]"tvg-id="CanalAlgerie.dz"tvg-logo="https://i.imgur.com/FPmDhNH.png"group-title="Arabic",Canal Algerie [Not 24/7]
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
-#EXTINF:-1 tvg-name="Echorouk TV"tvg-id="EchoroukTV.dz"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Echourouk_TV_logo.svg"group-title="Arabic",Echorouk TV
+#EXTINF:-1 tvg-name="Echorouk TV"tvg-id="EchoroukTV.dz"tvg-logo="https://i.imgur.com/FtrSAqu.png"group-title="Arabic",Echorouk TV
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="Echorouk News [Not 24/7]"tvg-id="EchoroukNews.dz"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png"group-title="Arabic",Echorouk News [Not 24/7]
+#EXTINF:-1 tvg-name="Echorouk News [Not 24/7]"tvg-id="EchoroukNews.dz"tvg-logo="https://i.imgur.com/TNtjYcw.png"group-title="Arabic",Echorouk News [Not 24/7]
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
 #EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV (1080p)
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
@@ -79,11 +79,11 @@ https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/in
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:-1 tvg-name="El Djazair N1"tvg-id="ElDjazairN1.dz"tvg-logo="https://i.imgur.com/EoB4f6e.png"group-title="Arabic",El Djazair N1
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
-#EXTINF:-1 tvg-name="CBC [Not 24/7]"tvg-id="CBC.eg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/%D8%B3%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A.png"group-title="Arabic",CBC [Not 24/7]
+#EXTINF:-1 tvg-name="CBC [Not 24/7]"tvg-id="CBC.eg"tvg-logo="https://i.imgur.com/8apNaLP.png"group-title="Arabic",CBC [Not 24/7]
 https://linkastream.co/headless?url=https://www.youtube.com/c/cbcstream/live
 #EXTINF:-1 tvg-name="CBC Drama [Not 24/7]"tvg-id="CBCDrama.eg"tvg-logo="N/A"group-title="Arabic",CBC Drama [Not 24/7]
 https://linkastream.co/headless?url=https://www.youtube.com/c/CBCDramaStream/live
-#EXTINF:-1 tvg-name="CBC Sofra [Not 24/7]"tvg-id="CBCSofra.eg"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Cbc_sofra_logo.png"group-title="Arabic",CBC Sofra [Not 24/7]
+#EXTINF:-1 tvg-name="CBC Sofra [Not 24/7]"tvg-id="CBCSofra.eg"tvg-logo="https://i.imgur.com/YAdk2WR.png"group-title="Arabic",CBC Sofra [Not 24/7]
 https://linkastream.co/headless?url=https://www.youtube.com/c/CBCSofraStream/live
 #EXTINF:-1 tvg-name="BBC Arabic"tvg-id="BBCArabic.uk"tvg-logo="https://i.imgur.com/oFGPG9Y.png"group-title="Arabic",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
