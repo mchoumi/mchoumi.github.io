@@ -1,6 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml"
 #EXTINF:-1 tvg-id="Bein Sports"tvg-logo="https://i.imgur.com/Vtk2cGI.png"group-title="Sports":http-user-agent="",Bein Sports
-https://www.youtube.com/live/G8KVpVH6lvk?feature=share
+https://www.youtube.com/embed/G8KVpVH6lvk
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae"tvg-logo="https://i.imgur.com/lKl2wZH.png"group-title="Sports":http-user-agent="",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae"tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png"group-title="Sports":http-user-agent="",Abu Dhabi Sports 2 (1080p)
