@@ -17,7 +17,7 @@ https://list.iptvcat.com/my_list/s/5a68bff1352cc0b400233a0e62715e83.m3u8
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="AbuDhabiEmirates.ae"tvg-logo="https://i.imgur.com/5S2ci8p.png"group-title="Arabic",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Arabic",National Geographic Abu Dhabi (1080p)
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Arabic",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai TV"tvg-id="DubaiTV.ae"tvg-logo="https://i.imgur.com/dWueFIE.png"group-title="Arabic",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
@@ -111,10 +111,6 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
 #EXTINF:-1 tvg-name="LBC International"tvg-id="LBCInternational.lb"tvg-logo="https://i.imgur.com/YPR45yP.png"group-title="Arabic",LBC International
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Abu Dhabi"tvg-id="NationalGeographicAbuDhabi.us"tvg-logo="https://i.imgur.com/fNA00VF.png"group-title="Arabic",National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="National Geographic Abu Dhabi"tvg-id="NationalGeographicAbuDhabi.ae"tvg-logo="https://i.imgur.com/baXbWro.jpg"group-title="Arabic",National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD 1080"tvg-id="Rotana Cinema ARB"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD 1080
