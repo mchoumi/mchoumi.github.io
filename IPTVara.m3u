@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-logo="https://i.imgur.com/iwR2big.png" group-title="Movies",Tring Fantasy
+https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8
+#EXTINF:-1 tvg-id="Tring Collection" tvg-logo="https://i.imgur.com/04E1576.png" group-title="Movies",Tring Collection
+https://mfe01.tring.al/delta/106/out/u/1117_3.m3u8
 #EXTINF:-1 tvg-name="Bein Movies Action"tvg-id="BeinMoviesAction"tvg-logo="https://i.imgur.com/jMGd93V.png"group-title="Movies",Bein Movies Action
 https://list.iptvcat.com/my_list/s/dc6c0515bb061111a4dd190c3b17b12e.m3u8
 #EXTINF:-1 tvg-name="Bein Movies Family"tvg-id="BeinMoviesFamily"tvg-logo="https://i.imgur.com/CjFA3mj.png"group-title="Movies",Bein Movies Family
