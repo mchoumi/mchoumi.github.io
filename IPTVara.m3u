@@ -67,6 +67,8 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-name="Alaraby TV"tvg-id="AlarabyTV.uk"tvg-logo="https://i.imgur.com/LNI1HNi.png"group-title="Arabic",Alaraby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="AlarabyTV2"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="El Djazairia One [Not 24/7]"tvg-id="ElDjazairiaOne.dz"tvg-logo="https://i.imgur.com/OhTioAg.png"group-title="Arabic",El Djazairia One [Not 24/7]
 https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
 #EXTINF:-1 tvg-name="Ennahar TV [Not 24/7]"tvg-id="EnnaharTV.dz"tvg-logo="https://i.imgur.com/ta9o5qJ.png"group-title="Arabic",Ennahar TV [Not 24/7]
@@ -115,8 +117,8 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD [Geo-blocked]"tvg-id="Rotana Cinema ARB"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD [Geo-blocked]
-https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
+#EXTINF:-1 tvg-name="Rotana Cinema HD 1080"tvg-id="Rotana Cinema ARB"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD 1080
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD KSA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Comedy HD [Geo-blocked]"tvg-id="Rotana Comedy ARB"tvg-logo="https://i.imgur.com/IlT8U6S.png"group-title="Arabic",Rotana Comedy HD [Geo-blocked]
