@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tring Fantasy" tvg-logo="https://i.imgur.com/iwR2big.png" group-title="Movies",Tring Fantasy
-https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8
-#EXTINF:-1 tvg-id="Tring Collection" tvg-logo="https://i.imgur.com/04E1576.png" group-title="Movies",Tring Collection
-https://mfe01.tring.al/delta/106/out/u/1117_3.m3u8
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="France",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="France",TV5 Monde Europe
