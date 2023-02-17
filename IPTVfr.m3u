@@ -3,7 +3,7 @@
 https://s12.tntendirect.com/france2/live/chunks.m3u8
 #EXTINF:-1 tvg-id="FRANCE3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="France",FRANCE3
 https://s12.tntendirect.com/france3/live/chunks.m3u8
-INF:-1 tvg-id="FRANCE5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="France",FRANCE 5
+#EXTINF:-1 tvg-id="FRANCE5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="France",FRANCE5
 https://s12.tntendirect.com/france5/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="France",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
