@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="FRANCE2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="France",FRANCE2
+https://s12.tntendirect.com/france2/live/chunks.m3u8
+#EXTINF:-1 tvg-id="FRANCE3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="France",FRANCE3
+https://s12.tntendirect.com/france3/live/chunks.m3u8
+INF:-1 tvg-id="FRANCE5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="France",FRANCE5
+https://s12.tntendirect.com/france5/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="France",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="France",TV5 Monde Europe
@@ -12,7 +18,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1, tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TV5_Monde.svg" tvg-name="TV5Monde Maghreb-Orient"  group-title="France",TV5Monde Maghreb-Orient
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
 #EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE Français (720p) [Geo-blocked]
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+https://s13.tntendirect.com/arte/live/chunks.m3u8
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png",C8 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://i.imgur.com/7rYJaxj.png",Canal+ France
