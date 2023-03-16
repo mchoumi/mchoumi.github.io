@@ -13,33 +13,33 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="France",TV5 Style HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="France",M6 (1080p)
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="France",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1, tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TV5_Monde.svg" tvg-name="TV5Monde Maghreb-Orient"  group-title="France",TV5Monde Maghreb-Orient
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE Français
+#EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE
 https://s13.tntendirect.com/arte/live/chunks.m3u8
-#EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png",C8 (1080p)
+#EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png",C8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://i.imgur.com/7rYJaxj.png",Canal+ France
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CANALPLUS
 #EXTINF:-1  tvg-id="CNews.fr" group-title="France" tvg-logo="https://i.imgur.com/iWIjua3.png",CNews (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
-#EXTINF:-1  tvg-id="EuronewsFrench.fr" group-title="France" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews Français (720p)
+#EXTINF:-1  tvg-id="EuronewsFrench.fr" group-title="France" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="France24French.fr" group-title="France" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 French (1080p)
+#EXTINF:-1  tvg-id="France24French.fr" group-title="France" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
-#EXTINF:-1  tvg-id="FranceInter.fr" group-title="France" tvg-logo="https://i.imgur.com/PYqQyRv.png",France Inter (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="FranceInter.fr" group-title="France" tvg-logo="https://i.imgur.com/PYqQyRv.png",France Inter
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
-#EXTINF:-1  tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://i.imgur.com/eITXz6A.png",Franceinfo (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://i.imgur.com/eITXz6A.png",Franceinfo
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live
-#EXTINF:-1  tvg-id="M6.fr" group-title="France" tvg-logo="https://i.imgur.com/7GVp3fW.png",M6 (1080p)
+#EXTINF:-1  tvg-id="M6.fr" group-title="France" tvg-logo="https://i.imgur.com/7GVp3fW.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1  tvg-id="RTFrance.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",RT France (1080p) [Geo-blocked]
+#EXTINF:-1  tvg-id="RTFrance.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",RT France
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:-1  tvg-id="TiJi.fr" group-title="France" tvg-logo="https://i.imgur.com/vjGeVmX.png",Tiji (1080p)
+#EXTINF:-1  tvg-id="TiJi.fr" group-title="France" tvg-logo="https://i.imgur.com/vjGeVmX.png",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#EXTINF:-1 tvg-id="RTB.bf"tvg-logo="https://i.imgur.com/mVoXFUK.png"group-title="France":http-user-agent="",RTB (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTB.bf"tvg-logo="https://i.imgur.com/mVoXFUK.png"group-title="France":http-user-agent="",RTB
 https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/18/ca2f0180-7814-11ec-8fd5-c549a9b471b9_webp_original.png"group-title="France":http-user-agent="",TV5 Monde Asie (576p)
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/18/ca2f0180-7814-11ec-8fd5-c549a9b471b9_webp_original.png"group-title="France":http-user-agent="",TV5 Monde Asie
 http://210.210.155.37/dr9445/s/s24/index.m3u8
