@@ -17,8 +17,6 @@ https://list.iptvcat.com/my_list/s/5a68bff1352cc0b400233a0e62715e83.m3u8
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="AbuDhabiEmirates.ae"tvg-logo="https://i.imgur.com/5S2ci8p.png"group-title="Arabic",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Arabic",National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai TV"tvg-id="DubaiTV.ae"tvg-logo="https://i.imgur.com/dWueFIE.png"group-title="Arabic",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sama Dubai"tvg-id="SamaDubai.ae"tvg-logo="https://i.imgur.com/bF6I3N1.jpg"group-title="Arabic",Sama Dubai
@@ -63,16 +61,16 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 #EXTINF:-1 tvg-name="MBC Plus Drama"tvg-id="MBCDramaPlus.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya"tvg-id="AlArabiya.ae"tvg-logo="https://i.imgur.com/7OrfyOx.jpg"group-title="Arabic",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Arabic"tvg-id="AlJazeeraArabic.qa"tvg-logo="https://i.imgur.com/x9TQYI3.jpg"group-title="Arabic",Al Jazeera Arabic
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Arabic",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Documentary"tvg-id="AlJazeeraDocumentary.qa"tvg-logo="https://i.imgur.com/El2hhYb.png"group-title="Arabic",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-name="Alaraby TV"tvg-id="AlarabyTV.uk"tvg-logo="https://i.imgur.com/LNI1HNi.png"group-title="Arabic",Alaraby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="AlarabyTV2"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV
+https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1 tvg-name="El Djazairia One"tvg-id="ElDjazairiaOne.dz"tvg-logo="https://i.imgur.com/OhTioAg.png"group-title="Arabic",El Djazairia One
 https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
 #EXTINF:-1 tvg-name="Ennahar TV"tvg-id="EnnaharTV.dz"tvg-logo="https://i.imgur.com/ta9o5qJ.png"group-title="Arabic",Ennahar TV
@@ -93,12 +91,14 @@ https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
 #EXTINF:-1 tvg-name="Echorouk News"tvg-id="EchoroukNews.dz"tvg-logo="https://i.imgur.com/TNtjYcw.png"group-title="Arabic",Echorouk News
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV
-https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1 tvg-name="El Bilad"tvg-id="ElBilad.dz"tvg-logo="https://i.imgur.com/Bp00gMu.png"group-title="Arabic",El Bilad
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:-1 tvg-name="El Djazair N1"tvg-id="ElDjazairN1.dz"tvg-logo="https://i.imgur.com/EoB4f6e.png"group-title="Arabic",El Djazair N1
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya"tvg-id="AlArabiya.ae"tvg-logo="https://i.imgur.com/7OrfyOx.jpg"group-title="Arabic",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Arabic"tvg-id="AlJazeeraArabic.qa"tvg-logo="https://i.imgur.com/x9TQYI3.jpg"group-title="Arabic",Al Jazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-name="CBC"tvg-id="CBC.eg"tvg-logo="https://i.imgur.com/8apNaLP.png"group-title="Arabic",CBC
 https://linkastream.co/headless?url=https://www.youtube.com/c/cbcstream/live
 #EXTINF:-1 tvg-name="CBC Drama"tvg-id="CBCDrama.eg"tvg-logo="N/A"group-title="Arabic",CBC Drama
