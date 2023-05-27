@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Majid"tvg-id="Majid.ae"tvg-logo="https://i.imgur.com/9Bun2IX.png"group-title="Kids":http-user-agent="",Majid TV
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Jeem"tvg-id="Jeem.ae"tvg-logo="https://i.imgur.com/YfWrOGl.png"group-title="Kids":http-user-agent="",Jeem TV
+http://chimeratv.live:25461/live/arabstarbein1/kXVWbI1xFB/309.ts
 #EXTINF:-1 tvg-name="MBC 3"tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-name="MBC 3 EUR"tvg-id="MBC3EUR.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Kids",MBC 3 EUR
