@@ -30,7 +30,7 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai Zaman"tvg-id="DubaiZaman.ae"tvg-logo="https://i.imgur.com/F5U9qpf.png"group-title="Arabic",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai One"tvg-id="DubaiOne.ae"tvg-logo="https://i.imgur.com/WjJ8MHC.png"group-title="Movies",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Noor Dubai"tvg-id="NoorDubai.ae"tvg-logo="https://i.imgur.com/FP2yHkl.png"group-title="Arabic",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/ePBvFC8.png" group-title="Arabic",MBC 1
