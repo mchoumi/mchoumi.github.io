@@ -19,12 +19,16 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
 #EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE
 https://origin-fra01-cf.pzaz.tv/live/arte-hd/tracks-v2a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDIzIDEwOjU3OjU0IEFNJmhhc2hfdmFsdWU9RFZJN0pGcEE1dUNjNHQ5aTgyS0FiUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNmM2Q4ZjljLTY4YzEtNDY3MS05ZTNiLWFmNzJiNDQ4N2IyZQ==
+#EXTINF:-1 tvg-id="7Limoges" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="France",7Limoges
+https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="France",Paris Premiere
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png",C8
-https://stream-10.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOMI3USZ9f4Bl1a1jjco3QWp4_MAmOdhvZ859JBKz19TN)/p/dm/3/x5gv5rr/d/live-3.m3u8
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/C8.m3u8
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://i.imgur.com/7rYJaxj.png",Canal+ France
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CANALPLUS
+http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1  tvg-id="CNews.fr" group-title="France" tvg-logo="https://i.imgur.com/iWIjua3.png",CNews (1080p)
-https://stream-09.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gRMqsLCfCArf8xiW-WQ2YFA-ogHmff3WOftjnVEN5X3Y)/dm/3/x3b68jn/d/live-3.m3u8
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/CNEWS.m3u8
 #EXTINF:-1  tvg-id="EuronewsFrench.fr" group-title="France" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="France24French.fr" group-title="France" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24
@@ -32,7 +36,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:-1  tvg-id="FranceInter.fr" group-title="France" tvg-logo="https://i.imgur.com/PYqQyRv.png",France Inter
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
 #EXTINF:-1  tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://i.imgur.com/eITXz6A.png",Franceinfo
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInfo.m3u8
 #EXTINF:-1  tvg-id="M6.fr" group-title="France" tvg-logo="https://i.imgur.com/7GVp3fW.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1  tvg-id="RTFrance.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",RT France
