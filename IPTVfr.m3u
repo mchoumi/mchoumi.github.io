@@ -24,7 +24,7 @@ https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="France",Paris Premiere
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png",C8
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/C8.m3u8
+http://www.callofliberty.fr/stream/C8/master.m3u8
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://i.imgur.com/7rYJaxj.png",Canal+ France
 http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1  tvg-id="CNews.fr" group-title="France" tvg-logo="https://i.imgur.com/iWIjua3.png",CNews (1080p)
@@ -36,7 +36,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:-1  tvg-id="FranceInter.fr" group-title="France" tvg-logo="https://i.imgur.com/PYqQyRv.png",France Inter
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
 #EXTINF:-1  tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://i.imgur.com/eITXz6A.png",Franceinfo
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInfo.m3u8
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
 #EXTINF:-1  tvg-id="M6.fr" group-title="France" tvg-logo="https://i.imgur.com/7GVp3fW.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1  tvg-id="RTFrance.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",RT France
