@@ -7,16 +7,6 @@ https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/3.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/3.m3u8
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
-#EXTINF:-1 tvg-name="Bein Movies Action"tvg-id="BeinMoviesAction"tvg-logo="https://i.imgur.com/jMGd93V.png"group-title="Movies",Bein Movies Action
-https://list.iptvcat.com/my_list/s/dc6c0515bb061111a4dd190c3b17b12e.m3u8
-#EXTINF:-1 tvg-name="Bein Movies Family"tvg-id="BeinMoviesFamily"tvg-logo="https://i.imgur.com/CjFA3mj.png"group-title="Movies",Bein Movies Family
-https://list.iptvcat.com/my_list/s/3440cc30c954cd455ad0c68097ced5b4.m3u8
-#EXTINF:-1 tvg-name="Bein Movies Premiere"tvg-id="BeinMoviesPremiere"tvg-logo="https://i.imgur.com/SmAq8yM.png"group-title="Movies",Bein Movies Premiere
-https://list.iptvcat.com/my_list/s/ebb73a07966d4c5aa5fa96599b77b4f0.m3u8
-#EXTINF:-1 tvg-name="Bein Movies Premiere 2"tvg-id="BeinMoviesPremiere2"tvg-logo="https://i.imgur.com/SmAq8yM.png"group-title="Movies",Bein Movies Premiere 2
-https://list.iptvcat.com/my_list/s/33a59844ede72f45bc1105dd098edd9b.m3u8
-#EXTINF:-1 tvg-name="Bein Movies Action 2"tvg-id="BeinMoviesAction2"tvg-logo="https://i.imgur.com/jMGd93V.png"group-title="Movies",Bein Movies Action 2
-https://list.iptvcat.com/my_list/s/5a68bff1352cc0b400233a0e62715e83.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Aloula"tvg-id="AbuDhabiAloula.ae"tvg-logo="https://i.imgur.com/g7IRorO.jpeg"group-title="Arabic",Abu Dhabi Aloula
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="AbuDhabiEmirates.ae"tvg-logo="https://i.imgur.com/5S2ci8p.png"group-title="Arabic",Abu Dhabi Emirates
@@ -39,8 +29,6 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-name="MBC 1 KSA"tvg-id="MBC.ae"tvg-logo="https://i.imgur.com/eKBXOKd.png"group-title="Arabic",MBC 1 KSA
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
-#EXTINF:-1 tvg-name="MBC 1 USA"tvg-id="MBC1USA.ae"tvg-logo="https://i.imgur.com/eKBXOKd.png"group-title="Arabic",MBC 1 USA
-https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
 http://ipc.proipciptv.com:8000/live//res-ms/HOLdsuB57gT/1922.ts
 #EXTINF:-1 tvg-name="MBC 4"tvg-id="MBC4.ae"tvg-logo="https://i.imgur.com/pfF61uH.png"group-title="Arabic",MBC 4
@@ -106,8 +94,6 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 tvg-name="DW Arabic"tvg-id="DWArabic.de"tvg-logo="https://i.imgur.com/A1xzjOI.png"group-title="Arabic",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-name="France 24 Arabic"tvg-id="France24Arabic.fr"tvg-logo="https://i.imgur.com/61MSiq9.png"group-title="Arabic",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Movies",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-name="Rotana+ HD"tvg-id="Rotana+ HD"tvg-logo="https://i.imgur.com/0wxwMjs.png"group-title="Movies",Rotana+ HD
