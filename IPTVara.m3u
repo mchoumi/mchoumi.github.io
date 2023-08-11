@@ -26,8 +26,6 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 #EXTINF:-1 tvg-name="Sama Dubai"tvg-id="SamaDubai.ae"tvg-logo="https://i.imgur.com/bF6I3N1.jpg"group-title="Arabic",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sharjah TV"tvg-id="SharjahTV.ae"tvg-logo="https://i.imgur.com/FAp0RtO.png"group-title="Arabic",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1tv_360p/playlist.m3u8
-#EXTINF:-1 tvg-name="Sharjah TV"tvg-id="SharjahTV.ae"tvg-logo="https://i.imgur.com/FAp0RtO.png"group-title="Arabic",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sharjah 2"tvg-id="Sharjah2.ae"tvg-logo="https://i.imgur.com/ob1GhbC.jpg"group-title="Arabic",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
@@ -46,23 +44,19 @@ https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/in
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
 http://ipc.proipciptv.com:8000/live//res-ms/HOLdsuB57gT/1922.ts
 #EXTINF:-1 tvg-name="MBC 4"tvg-id="MBC4.ae"tvg-logo="https://i.imgur.com/pfF61uH.png"group-title="Arabic",MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
 #EXTINF:-1 tvg-name="MBC 5"tvg-id="MBC5.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png"group-title="Arabic",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-name="MBC Action"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
 http://ipc.proipciptv.com:8000/live/res-ms/HOLdsuB57gT/1915.ts
 #EXTINF:-1 tvg-name="MBC Bollywood"tvg-id="MBCBollywood.ae"tvg-logo="https://i.imgur.com/fMjhK06.png"group-title="Movies",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-name="MBC Drama KSA"tvg-id="MBCDrama.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Drama KSA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-name="MBC Drama USA"tvg-id="M.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Drama USA
-https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
+#EXTINF:-1 tvg-name="MBC Drama"tvg-id="MBCDrama.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Drama
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
 #EXTINF:-1 tvg-name="MBC Masr 1"tvg-id="MBCEgypt.ae"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png"group-title="Arabic",MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1 tvg-name="MBC Masr 1 USA"tvg-id="MBCMasr1USA.ae"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png"group-title="Arabic",MBC Masr 1 USA
-https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_21.m3u8
 #EXTINF:-1 tvg-name="MBC Masr 2"tvg-id="MBCMasr2.ae"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png"group-title="Arabic",MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 #EXTINF:-1 tvg-name="MBC Max"tvg-id="MBCMax.ae"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
 http://ipc.proipciptv.com:8000/live/res-ms/HOLdsuB57gT/1924.ts
 #EXTINF:-1 tvg-name="MBC Plus Drama"tvg-id="MBCDramaPlus.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Plus Drama
@@ -72,9 +66,9 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Documentary"tvg-id="AlJazeeraDocumentary.qa"tvg-logo="https://i.imgur.com/El2hhYb.png"group-title="Arabic",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-name="Alaraby TV"tvg-id="AlarabyTV.uk"tvg-logo="https://i.imgur.com/LNI1HNi.png"group-title="Arabic",Alaraby TV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="AlarabyTV2"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1 tvg-name="Echorouk TV"tvg-id="EchoroukTV.dz"tvg-logo="https://i.imgur.com/FtrSAqu.png"group-title="Arabic",Echorouk TV
@@ -108,29 +102,19 @@ https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic"tvg-id="AlJazeeraArabic.qa"tvg-logo="https://i.imgur.com/x9TQYI3.jpg"group-title="Arabic",Al Jazeera Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-name="CBC"tvg-id="CBC.eg"tvg-logo="https://i.imgur.com/8apNaLP.png"group-title="Arabic",CBC
-https://linkastream.co/headless?url=https://www.youtube.com/c/cbcstream/live
-#EXTINF:-1 tvg-name="CBC Drama"tvg-id="CBCDrama.eg"tvg-logo="N/A"group-title="Arabic",CBC Drama
-https://linkastream.co/headless?url=https://www.youtube.com/c/CBCDramaStream/live
-#EXTINF:-1 tvg-name="CBC Sofra"tvg-id="CBCSofra.eg"tvg-logo="https://i.imgur.com/YAdk2WR.png"group-title="Arabic",CBC Sofra
-https://linkastream.co/headless?url=https://www.youtube.com/c/CBCSofraStream/live
 #EXTINF:-1 tvg-name="BBC Arabic"tvg-id="BBCArabic.uk"tvg-logo="https://i.imgur.com/oFGPG9Y.png"group-title="Arabic",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 tvg-name="DW Arabic"tvg-id="DWArabic.de"tvg-logo="https://i.imgur.com/A1xzjOI.png"group-title="Arabic",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-name="France 24 Arabic"tvg-id="France24Arabic.fr"tvg-logo="https://i.imgur.com/61MSiq9.png"group-title="Arabic",France 24 Arabic
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-name="LBC [Geo-blocked]"tvg-id="LBC"tvg-logo="https://i.imgur.com/YLcmYCR.png"group-title="Arabic",LBC
-https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
-#EXTINF:-1 tvg-name="LBC International"tvg-id="LBCInternational.lb"tvg-logo="https://i.imgur.com/YPR45yP.png"group-title="Arabic",LBC International
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD
+#EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Movies",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD 1080"tvg-id="Rotana Cinema ARB"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD
-https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Arabic",Rotana Cinema HD KSA
+#EXTINF:-1 tvg-name="Rotana+ HD"tvg-id="Rotana+ HD"tvg-logo="https://i.imgur.com/0wxwMjs.png"group-title="Movies",Rotana+ HD
+https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
+#EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Movies",Rotana Cinema HD KSA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Comedy HD"tvg-id="Rotana Comedy ARB"tvg-logo="https://i.imgur.com/IlT8U6S.png"group-title="Arabic",Rotana Comedy HD
+#EXTINF:-1 tvg-name="Rotana Comedy HD"tvg-id="Rotana Comedy ARB"tvg-logo="https://i.imgur.com/IlT8U6S.png"group-title="Movies",Rotana Comedy HD
 https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 #EXTINF:-1 tvg-name="Rotana Drama HD"tvg-id="Rotana Drama"tvg-logo="https://i.imgur.com/btnhPjZ.png"group-title="Arabic",Rotana Drama HD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
