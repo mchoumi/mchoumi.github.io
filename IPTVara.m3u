@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.ts
+#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBCMax.ae"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
+http://ipc.proipciptv.com:8000/live/res-ms/HOLdsuB57gT/1924.ts
+#EXTINF:-1 tvg-name="MBC Action"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
+http://ipc.proipciptv.com:8000/live/res-ms/HOLdsuB57gT/1915.ts
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies Action
@@ -29,14 +35,10 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-name="MBC 1 KSA"tvg-id="MBC.ae"tvg-logo="https://i.imgur.com/eKBXOKd.png"group-title="Arabic",MBC 1 KSA
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
-#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
-http://ipc.proipciptv.com:8000/live//res-ms/HOLdsuB57gT/1922.ts
 #EXTINF:-1 tvg-name="MBC 4"tvg-id="MBC4.ae"tvg-logo="https://i.imgur.com/pfF61uH.png"group-title="Arabic",MBC 4
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
 #EXTINF:-1 tvg-name="MBC 5"tvg-id="MBC5.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png"group-title="Arabic",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-name="MBC Action"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
-http://ipc.proipciptv.com:8000/live/res-ms/HOLdsuB57gT/1915.ts
 #EXTINF:-1 tvg-name="MBC Bollywood"tvg-id="MBCBollywood.ae"tvg-logo="https://i.imgur.com/fMjhK06.png"group-title="Movies",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-name="MBC Drama"tvg-id="MBCDrama.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Drama
@@ -45,8 +47,6 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_21.m3u8
 #EXTINF:-1 tvg-name="MBC Masr 2"tvg-id="MBCMasr2.ae"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png"group-title="Arabic",MBC Masr 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBCMax.ae"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
-http://ipc.proipciptv.com:8000/live/res-ms/HOLdsuB57gT/1924.ts
 #EXTINF:-1 tvg-name="MBC Plus Drama"tvg-id="MBCDramaPlus.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Arabic",National Geographic Abu Dhabi
@@ -96,7 +96,7 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabi
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Movies",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-name="Rotana+ HD"tvg-id="Rotana+ HD"tvg-logo="https://i.imgur.com/0wxwMjs.png"group-title="Movies",Rotana+ HD
+#EXTINF:-1 tvg-name="Rotana+ HD"tvg-id="Rotana+ HD"tvg-logo="https://i.imgur.com/0wxwMjs.png"group-title="Arabic",Rotana+ HD
 https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Movies",Rotana Cinema HD KSA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
