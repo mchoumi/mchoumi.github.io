@@ -64,7 +64,7 @@ https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/in
 #EXTINF:-1 tvg-name="Echorouk TV"tvg-id="EchoroukTV.dz"tvg-logo="https://i.imgur.com/FtrSAqu.png"group-title="Arabic",Echorouk TV
 https://bledflix-echorouk-tv.b-cdn.net/master.m3u8?token=losmCRUIPuqlGHQtyljhkg&expires=1693682491
 #EXTINF:-1 tvg-name="Echorouk News"tvg-id="EchoroukNews.dz"tvg-logo="https://i.imgur.com/TNtjYcw.png"group-title="Arabic",Echorouk News
-https://bledflix-echorouk-news.b-cdn.net/master.m3u8?token=lhxZtLur8EVQhUeQC-LwgA&expires=1693682877
+https://bledflix-echorouk-news.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-name="Canal Algerie"tvg-id="CanalAlgerie.dz"tvg-logo="https://i.imgur.com/FPmDhNH.png"group-title="Arabic",Canal Algerie
 https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 #EXTINF:-1 tvg-name="El Bilad"tvg-id="ElBilad.dz"tvg-logo="https://i.imgur.com/Bp00gMu.png"group-title="Arabic",El Bilad
