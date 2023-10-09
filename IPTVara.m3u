@@ -87,8 +87,8 @@ https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic"tvg-id="AlJazeeraArabic.qa"tvg-logo="https://i.imgur.com/x9TQYI3.jpg"group-title="Arabic",Al Jazeera Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-name="Skynews Arabia"tvg-id="Skynews Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Arabic",TRT Arabi
-https://ythls.onrender.com/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
+#EXTINF:-1 tvg-name="Skynews Arabia"tvg-id="Skynews Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Arabic",Skynews Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-name="BBC Arabic"tvg-id="BBCArabic.uk"tvg-logo="https://i.imgur.com/oFGPG9Y.png"group-title="Arabic",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="DW Arabic"tvg-id="DWArabic.de"tvg-logo="https://i.imgur.com/A1xzjOI.png"group-title="Arabic",DW Arabic
