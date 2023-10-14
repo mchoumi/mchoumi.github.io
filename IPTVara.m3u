@@ -46,7 +46,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 tvg-name="MBC Drama"tvg-id="MBCDrama.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
 #EXTINF:-1 tvg-name="MBC Masr 1"tvg-id="MBCEgypt.ae"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png"group-title="Arabic",MBC Masr 1
-https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_30.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-name="MBC Masr 2"tvg-id="MBCMasr2.ae"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png"group-title="Arabic",MBC Masr 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 #EXTINF:-1 tvg-name="MBC Plus Drama"tvg-id="MBCDramaPlus.ae"tvg-logo="https://i.imgur.com/F5ER0we.png"group-title="Arabic",MBC Plus Drama
@@ -88,11 +88,11 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic"tvg-id="AlJazeeraArabic.qa"tvg-logo="https://i.imgur.com/x9TQYI3.jpg"group-title="Arabic",Al Jazeera Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-name="Skynews Arabia"tvg-id="Skynews Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Arabic",Skynews Arabia
-https://ythls.onrender.com/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-name="BBC Arabic"tvg-id="BBCArabic.uk"tvg-logo="https://i.imgur.com/oFGPG9Y.png"group-title="Arabic",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="DW Arabic"tvg-id="DWArabic.de"tvg-logo="https://i.imgur.com/A1xzjOI.png"group-title="Arabic",DW Arabic
-https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Movies",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-name="Rotana+ HD"tvg-id="Rotana+ HD"tvg-logo="https://i.imgur.com/0wxwMjs.png"group-title="Arabic",Rotana+ HD
