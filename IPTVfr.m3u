@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="France",TF1
-https://origin-fra14-cf.pzaz.tv/live/tf1/tracks-v2a1/mono.m3u8?token=c2VydmVyX3RpbWU9NC8yOC8yMDIzIDEwOjU1OjI4IEFNJmhhc2hfdmFsdWU9T3lBSVdCVDd5MTFtbUVPaEV6cjVqQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTYxYmM1OGE1LTViMmUtNGVmYy1iNGUwLWM5ODg0OTEwMzVlMg==
+http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id="FRANCE2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="France",FRANCE 2
-https://origin-fra01-cf.pzaz.tv/live/france-2-hd/tracks-v2a1/mono.m3u8?token=5551594-bb9eae92-8e5d-48cf-85ff-bc5b19f99ff6
+http://livetv.ktv.zone/104/play.m3u8
 #EXTINF:-1 tvg-id="FRANCE3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="France",FRANCE 3
-https://origin-fra14-cf.pzaz.tv/live/france-3-hd/playlist.m3u8?token=5551594-6d23f635-7504-4d57-9c55-7c148e3911d6
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="France",FRANCE 4
+http://livetv.ktv.zone/105/play.m3u8
 #EXTINF:-1 tvg-id="FRANCE5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="France",FRANCE 5
-https://origin-fra01-cf.pzaz.tv/live/france-5-hd/playlist.m3u8?token=5551594-be3bcaad-0c9c-4d04-aea7-221de1e9af7b
+http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="France",TV5 Style HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Maghreb" tvg-logo="https://i.imgur.com/tqz4M37.png" group-title="France",TV5 Monde Maghreb Orient
