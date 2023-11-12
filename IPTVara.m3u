@@ -60,7 +60,7 @@ https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b11
 #EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="AlarabyTV2"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV
-https://bledflix-samira-tv.b-cdn.net/media_0.m3u8
+https://thousands.yoo7.com/h2-page.m3u8
 #EXTINF:-1 tvg-name="Echorouk TV"tvg-id="EchoroukTV.dz"tvg-logo="https://i.imgur.com/FtrSAqu.png"group-title="Arabic",Echorouk TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/echorouktv.m3u8
 #EXTINF:-1 tvg-name="Echorouk News"tvg-id="EchoroukNews.dz"tvg-logo="https://i.imgur.com/TNtjYcw.png"group-title="Arabic",Echorouk News
