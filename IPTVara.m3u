@@ -60,9 +60,9 @@ https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b11
 #EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="AlarabyTV2"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV
-https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
 #EXTINF:-1 tvg-name="Echorouk TV"tvg-id="EchoroukTV.dz"tvg-logo="https://i.imgur.com/FtrSAqu.png"group-title="Arabic",Echorouk TV
-https://bledflix-echorouk-tv.b-cdn.net/master.m3u8?token=losmCRUIPuqlGHQtyljhkg&expires=1693682491
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/echorouktv.m3u8
 #EXTINF:-1 tvg-name="Echorouk News"tvg-id="EchoroukNews.dz"tvg-logo="https://i.imgur.com/TNtjYcw.png"group-title="Arabic",Echorouk News
 https://bledflix-echorouk-news.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-name="Canal Algerie"tvg-id="CanalAlgerie.dz"tvg-logo="https://i.imgur.com/FPmDhNH.png"group-title="Arabic",Canal Algerie
@@ -107,3 +107,5 @@ https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3
 http://rt-arab.secure.footprint.net:80/1104.m3u8
 #EXTINF:-1 tvg-name="TRT Arabi"tvg-id="TRT Arabi" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="Arabic",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Nature Time"tvg-id="Nature Time"tvg-logo="https://i.imgur.com/72JmyjM.png"group-title="Arabic",Nature Time
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
