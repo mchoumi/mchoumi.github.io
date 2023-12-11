@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.ts
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
-http://multies.xyz:80/live/C329CC0FE8134523F06B5253174DD42C/131.m3u8
+http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/131.m3u8
 #EXTINF:-1 tvg-name="MBC Max"tvg-id="MBCMax.ae"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
 http://multies.xyz:80/live/C329CC0FE8134523F06B5253174DD42C/135.m3u8
 #EXTINF:-1 tvg-name="MBC Action"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
@@ -30,7 +30,7 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai Zaman"tvg-id="DubaiZaman.ae"tvg-logo="https://i.imgur.com/F5U9qpf.png"group-title="Arabic",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai One"tvg-id="DubaiOne.ae"tvg-logo="https://i.imgur.com/WjJ8MHC.png"group-title="Movies",Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="Noor Dubai"tvg-id="NoorDubai.ae"tvg-logo="https://i.imgur.com/FP2yHkl.png"group-title="Arabic",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/ePBvFC8.png" group-title="Arabic",MBC 1
