@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="Bein Sports"tvg-logo="https://i.imgur.com/Vtk2cGI.png"group-title="Sports":http-user-agent="",Bein Sports
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675810104/ei/14DiY_mWN9yEvdIP5f6juA8/ip/2001%3A8f8%3A1923%3A21c1%3A3ddd%3A57d7%3Ab45a%3A8af4/id/G8KVpVH6lvk.1/source/yt_live_broadcast/requiressl/yes/tx/24416442/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ae/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDBG-iWugzb3sriIxrh2qltJOHZc2_CyU5eeAYpk_itoCIBmS4NkwayQd3D-s1HKIi95chNdojttmN4HHop7BNhbq/file/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae"tvg-logo="https://i.imgur.com/lKl2wZH.png"group-title="Sports":http-user-agent="",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae"tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png"group-title="Sports":http-user-agent="",Abu Dhabi Sports 2 (1080p)
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="BahrainSports1.bh"tvg-logo="https://i.imgur.com/pQ0QGGl.jpg"group-title="Sports":http-user-agent="",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh"tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png"group-title="Sports":http-user-agent="",Bahrain Sports 2
