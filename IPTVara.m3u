@@ -18,9 +18,9 @@ https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Aloula"tvg-id="AbuDhabiAloula.ae"tvg-logo="https://i.imgur.com/g7IRorO.jpeg"group-title="Arabic",Abu Dhabi Aloula
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="AbuDhabiEmirates.ae"tvg-logo="https://i.imgur.com/5S2ci8p.png"group-title="Arabic",Abu Dhabi Emirates
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Dubai TV"tvg-id="DubaiTV.ae"tvg-logo="https://i.imgur.com/dWueFIE.png"group-title="Arabic",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sama Dubai"tvg-id="SamaDubai.ae"tvg-logo="https://i.imgur.com/bF6I3N1.jpg"group-title="Arabic",Sama Dubai
