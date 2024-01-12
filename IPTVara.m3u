@@ -6,7 +6,7 @@ http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/131.m3u8
 #EXTINF:-1 tvg-name="MBC Max"tvg-id="MBCMax.ae"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
 http://multies.xyz:80/live/C329CC0FE8134523F06B5253174DD42C/135.m3u8
 #EXTINF:-1 tvg-name="MBC Action"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
-http://multies.xyz:80/live/C329CC0FE8134523F06B5253174DD42C/133.m3u8
+http://multies.xyz/live/68BA1E5E2B26F84339925A947BF1BBEB/133.m3u8
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies Action
@@ -17,6 +17,14 @@ https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index
 https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
+#EXTINF:-1 tvg-id="Multies Cinema" tvg-logo="http://live.multies.net/wp-content/uploads/2023/10/Multies-Cinema.png" group-title="Movies",Multies Cinema
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/792.m3u8
+#EXTINF:-1 tvg-id="Multies Comedy" tvg-logo="http://live.multies.net/wp-content/uploads/2023/09/Multies-Comedy-350x250.png" group-title="Movies",Multies Comedy
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
+#EXTINF:-1 tvg-id="Multies Aflam 1" tvg-logo="http://live.multies.net/wp-content/uploads/2023/08/Multies-Aflam-1-350x250.png" group-title="Movies",Multies Aflam 1
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
+#EXTINF:-1 tvg-id="Multies Aflam 2" tvg-logo="http://live.multies.net/wp-content/uploads/2023/08/Multies-Aflam-2-350x250.png" group-title="Movies",Multies Aflam 2
+http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Aloula"tvg-id="AbuDhabiAloula.ae"tvg-logo="https://i.imgur.com/g7IRorO.jpeg"group-title="Arabic",Abu Dhabi Aloula
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="AbuDhabiEmirates.ae"tvg-logo="https://i.imgur.com/5S2ci8p.png"group-title="Arabic",Abu Dhabi Emirates
