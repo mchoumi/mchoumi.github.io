@@ -9,6 +9,10 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Arabic"tvg-id="CartoonNetworkArabic.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png"group-title="Kids":http-user-agent="",Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1,|.AR.| BARAEM HD
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48041.ts
+#EXTINF:-1,|.AR.| DISNEY CHANNEL HD
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48032.ts
 #EXTINF:-1 tvg-name="Spacetoon Arabic"tvg-id="SpacetoonArabic.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png"group-title="Kids":http-user-agent="",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Kids"tvg-id="RotanaKids.sa"tvg-logo="https://i.imgur.com/GQnNjlu.png"group-title="Kids":http-user-agent="",Rotana Kids
