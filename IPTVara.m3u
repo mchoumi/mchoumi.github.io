@@ -11,6 +11,22 @@ https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_4.m3u8
+#EXTINF:-1,"group-title="Movies",MOVIES HD 1 PREMIERE
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48031.ts
+#EXTINF:-1,"group-title="Movies",MOVIES HD 2 ACTION
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48030.ts
+#EXTINF:-1,"group-title="Movies",MOVIES HD 3 DRAMA
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48029.ts
+#EXTINF:-1,"group-title="Movies",MOVIES HD 4 FAMILY
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48028.ts
+#EXTINF:-1,"group-title="Movies",SERIES 1 HD
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48026.ts
+#EXTINF:-1,"group-title="Movies",ON DRAMA HD
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48039.ts
+#EXTINF:-1,"group-title="Movies",FOX LIFE HD
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48036.ts
+#EXTINF:-1,"group-title="Arabic",FATAFEAT HD
+http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48011.ts
 #EXTINF:-1,"group-title="Movies",MOVIES HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67248.ts
 #EXTINF:-1,"group-title="Movies",MOVIES ACTION
@@ -45,7 +61,7 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
 #EXTINF:-1 tvg-id="Multies Aflam 2" tvg-logo="http://live.multies.net/wp-content/uploads/2023/08/Multies-Aflam-2-350x250.png" group-title="Movies",Multies Aflam 2
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi Aloula"tvg-id="AbuDhabiAloula.ae"tvg-logo="https://i.imgur.com/g7IRorO.jpeg"group-title="Arabic",Abu Dhabi Aloula
+#EXTINF:-1 tvg-name="AbuDhabiTV.ae"tvg-id="AbuDhabiAloula.ae"tvg-logo="https://i.imgur.com/g7IRorO.jpeg"group-title="Arabic",AbuDhabiTV.ae
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="AbuDhabiEmirates.ae"tvg-logo="https://i.imgur.com/5S2ci8p.png"group-title="Arabic",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
