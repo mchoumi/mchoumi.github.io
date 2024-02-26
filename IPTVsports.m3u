@@ -1,127 +1,127 @@
-﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/fr.xml"
 #EXTINF:-1,---??| BEIN SPORT |??---
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/22460.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 2 MAX FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 MAX FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124077.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS NEWS HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS NEWS HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9152.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS NEWS FHD 
+#EXTINF:-1,group-title="Sports",BEIN SPORTS NEWS FHD 
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/92512.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS GLOBAL
+#EXTINF:-1,group-title="Sports",BEIN SPORTS GLOBAL
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9156.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS GLOBAL HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS GLOBAL HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/30750.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS GLOBAL FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS GLOBAL FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/92511.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9146.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9131.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9147.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD HEVC
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 FHD HEVC
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/39224.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD 4K
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 FHD 4K
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/30756.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 2 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9148.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 2 FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9135.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 2 FHD 4K
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 FHD 4K
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/30751.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS  2 FHD 4K
+#EXTINF:-1,group-title="Sports",BEIN SPORTS  2 FHD 4K
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/30757.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 2 FHD HEVC
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 FHD HEVC
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/39225.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 3 SD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 3 SD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/32006.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 3 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 3 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9136.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 3 FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 3 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9151.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 4 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 4 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9138.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 4 FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 4 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/103764.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 5 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 5 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9140.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 5 FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 5 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9141.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 6 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 6 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9142.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 6 FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 6 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9143.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 7 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 7 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9144.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 7 FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 7 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9145.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 1 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS ENGLISH 1 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9153.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 2 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS ENGLISH 2 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9154.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 3 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS ENGLISH 3 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9155.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS XTRA 1 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS XTRA 1 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/119957.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS XTRA 2 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS XTRA 2 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/119958.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS FRENCH 1 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS FRENCH 1 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124099.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS FRENCH 2 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS FRENCH 2 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124097.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS FRENCH 3 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS FRENCH 3 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124098.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 8 HD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 8 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/279955.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS 8 FHD
+#EXTINF:-1,group-title="Sports",BEIN SPORTS 8 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/279956.ts
-#EXTINF:-1,|AR| AD SPORTS PREMIUM 1
+#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 1
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/138962.ts
-#EXTINF:-1,|AR| AD SPORTS PREMIUM 1 HD
+#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 1 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139007.ts
-#EXTINF:-1,|AR| AD SPORTS PREMIUM 1 FHD
+#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 1 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139008.ts
-#EXTINF:-1,|AR| AD SPORTS PREMIUM 2
+#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 2
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/138963.ts
-#EXTINF:-1,|AR| AD SPORTS PREMIUM 2 HD
+#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 2 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139009.ts
-#EXTINF:-1,|AR| AD SPORTS PREMIUM 2 FHD
+#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 2 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139010.ts
-#EXTINF:-1,|AR| AL KASS ONLINE
+#EXTINF:-1,group-title="Sports",AL KASS ONLINE
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139047.ts
-#EXTINF:-1,|AR| AL KASS ONE
+#EXTINF:-1,group-title="Sports",AL KASS ONE
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139048.ts
-#EXTINF:-1,|AR| AL KASS TWO
+#EXTINF:-1,group-title="Sports",AL KASS TWO
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139049.ts
-#EXTINF:-1,|AR| AL KASS THREE
+#EXTINF:-1,group-title="Sports",AL KASS THREE
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139050.ts
-#EXTINF:-1,|AR| AL KASS FOUR
+#EXTINF:-1,group-title="Sports",AL KASS FOUR
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139051.ts
-#EXTINF:-1,|AR| AL KASS FIVE
+#EXTINF:-1,group-title="Sports",AL KASS FIVE
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139052.ts
-#EXTINF:-1,|AR| AL KASS SIX
+#EXTINF:-1,group-title="Sports",AL KASS SIX
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139053.ts
-#EXTINF:-1,|AR| AL KASS SEVEN
+#EXTINF:-1,group-title="Sports",AL KASS SEVEN
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139054.ts
-#EXTINF:-1,|AR| SSC 1 FHD
+#EXTINF:-1,group-title="Sports",SSC 1 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139021.ts
-#EXTINF:-1,|AR| SSC 2 FHD
+#EXTINF:-1,group-title="Sports",SSC 2 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139024.ts
-#EXTINF:-1,|AR| SSC 3 FHD
+#EXTINF:-1,group-title="Sports",SSC 3 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139029.ts
-#EXTINF:-1,|AR| SSC 4 FHD
+#EXTINF:-1,group-title="Sports",SSC 4 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139030.ts
-#EXTINF:-1,|AR| SSC 5 FHD
+#EXTINF:-1,group-title="Sports",SSC 5 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139033.ts
-#EXTINF:-1,|AR| SSC 6 FHD
+#EXTINF:-1,group-title="Sports",SSC 6 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139036.ts
-#EXTINF:-1,|AR| SSC 7 FHD
+#EXTINF:-1,group-title="Sports",SSC 7 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139039.ts
-#EXTINF:-1,|AR| SSC 8 FHD
+#EXTINF:-1,group-title="Sports",SSC 8 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139043.ts
-#EXTINF:-1,|AR| SSC Extra 1 HD
+#EXTINF:-1,group-title="Sports",SSC Extra 1 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/259119.ts
-#EXTINF:-1,|AR| SSC Extra 2 HD
+#EXTINF:-1,group-title="Sports",SSC Extra 2 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/259120.ts
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae"tvg-logo="https://i.imgur.com/lKl2wZH.png"group-title="Sports":http-user-agent="",Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
