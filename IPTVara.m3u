@@ -5,7 +5,7 @@ http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67517.ts
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67525.ts
 #EXTINF:-1 tvg-name="MBC Action"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67520.ts
-#EXTINF:-1,|.AR.|"group-title="Movies" FOX LIFE
+#EXTINF:-1,"group-title="Movies",FOX LIFE
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67292.ts
 #EXTINF:-1,|.AR.|"group-title="Movies" FOX CRIME
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67293.ts
