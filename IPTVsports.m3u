@@ -1,9 +1,9 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml,https://github.com/iptv-org/epg/blob/master/sites/beinsports.com/beinsports.com_fr-fr.channels.xml"
 #EXTINF:-1,---??| BEIN SPORT |??---
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/22460.ts
 #EXTINF:-1,group-title="Sports",BEIN SPORTS 2 MAX FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124077.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS NEWS HD
+#EXTINF:-1,group-title="Sports",beIN SPORTS NEWS
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9152.ts
 #EXTINF:-1,group-title="Sports",BEIN SPORTS NEWS FHD 
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/92512.ts
