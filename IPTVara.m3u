@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/arabiapremium2.xml"
+#EXTM3U tvg-url="https://www.bevy.be/bevyfiles/arabiapremium2.xml"
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67517.ts
 #EXTINF:-1 tvg-name="MBC Max"tvg-id="MBCMax.ae"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
