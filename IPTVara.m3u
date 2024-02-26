@@ -61,7 +61,7 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
 #EXTINF:-1 tvg-id="Multies Aflam 2" tvg-logo="http://live.multies.net/wp-content/uploads/2023/08/Multies-Aflam-2-350x250.png" group-title="Movies",Multies Aflam 2
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi HD.ar"tvg-id="Abu Dhabi HD.ar"tvg-logo="https://i.imgur.com/g7IRorO.jpeg"group-title="Arabic",Abu Dhabi 1 HD
+#EXTINF:-1 tvg-name="Abu Dhabi HD.ar"tvg-id="Abu Dhabi HD.ar"tvg-logo="https://i.imgur.com/g7IRorO.jpeg"group-title="Arabic",Abu Dhabi Oula HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="AbuDhabiEmirates.ae"tvg-logo="https://i.imgur.com/5S2ci8p.png"group-title="Arabic",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
