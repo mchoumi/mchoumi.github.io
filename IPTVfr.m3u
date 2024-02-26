@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="France",TF1
-http://livetv.ktv.zone/3/play.m3u8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/192831
 #EXTINF:-1 tvg-id="FRANCE2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="France",FRANCE 2
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202465
 #EXTINF:-1 tvg-id="FRANCE3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="France",FRANCE 3
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202466
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="France",FRANCE 4
-http://livetv.ktv.zone/116/play.m3u8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202467
 #EXTINF:-1 tvg-id="FRANCE5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="France",FRANCE 5
-http://livetv.ktv.zone/107/play.m3u8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202468
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="France",TV5 Style HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Maghreb" tvg-logo="https://i.imgur.com/tqz4M37.png" group-title="France",TV5 Monde Maghreb Orient
@@ -20,11 +20,11 @@ https://ythlsgo.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="France",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",ARTE
-https://origin-fra01-cf.pzaz.tv/live/arte-hd/tracks-v2a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDIzIDEwOjU3OjU0IEFNJmhhc2hfdmFsdWU9RFZJN0pGcEE1dUNjNHQ5aTgyS0FiUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNmM2Q4ZjljLTY4YzEtNDY3MS05ZTNiLWFmNzJiNDQ4N2IyZQ==
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202629
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="France",Paris Premiere
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202638
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png",C8
-http://www.callofliberty.fr/stream/C8/master.m3u8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202491
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://i.imgur.com/7rYJaxj.png",Canal+ France
 http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1  tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://i.imgur.com/eITXz6A.png",Franceinfo
