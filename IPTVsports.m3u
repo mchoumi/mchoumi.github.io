@@ -1,80 +1,122 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml,https://github.com/iptv-org/epg/blob/master/sites/beinsports.com/beinsports.com_fr-fr.channels.xml"
-#EXTINF:-1,---??| BEIN SPORT |??---
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/22460.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 MAX FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124077.ts
-#EXTINF:-1,group-title="Sports",beIN SPORTS NEWS
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9152.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS NEWS FHD 
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/92512.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS GLOBAL
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9156.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS GLOBAL HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/30750.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS GLOBAL FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/92511.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9146.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9131.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9147.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 FHD HEVC
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/39224.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 1 FHD 4K
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/30756.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9148.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9135.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 FHD 4K
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/30751.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS  2 FHD 4K
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/30757.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 2 FHD HEVC
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/39225.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 3 SD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/32006.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 3 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9136.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 3 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9151.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 4 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9138.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 4 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/103764.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 5 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9140.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 5 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9141.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 6 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9142.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 6 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9143.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 7 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9144.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 7 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9145.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS ENGLISH 1 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9153.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS ENGLISH 2 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9154.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS ENGLISH 3 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/9155.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS XTRA 1 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/119957.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS XTRA 2 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/119958.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS FRENCH 1 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124099.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS FRENCH 2 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124097.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS FRENCH 3 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/124098.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 8 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/279955.ts
-#EXTINF:-1,group-title="Sports",BEIN SPORTS 8 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/279956.ts
+#EXTINF:-1 tvg-id="" tvg-name="---??| BEIN SPORT |??---" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="BEIN SPORTS MENA",---??| BEIN SPORT |??---
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/22460.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 MAX FHD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 MAX FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124077.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 MAX SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 4 MAX SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124085.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",BEIN SPORTS NEWS HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9152.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS FHD " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",BEIN SPORTS NEWS FHD 
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/92512.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",BEIN SPORTS GLOBAL
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9156.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",BEIN SPORTS GLOBAL HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30750.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",BEIN SPORTS GLOBAL FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/92511.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32008.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9146.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9131.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9147.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 FHD HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 FHD HEVC
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/39224.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 1 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30756.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS  2 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS  2 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32007.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 SD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32014.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9148.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9135.ts
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="BEIN SPORTS 2 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30751.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  2 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS  2 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30757.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 2 FHD HEVC
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/39225.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 3 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32006.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 3 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9136.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 3 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9151.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 3 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30758.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 3 FHD HEVC
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28267.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 4 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32012.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 4 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9138.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 4 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/103764.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 4 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30755.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 4 FHD HEVC
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28268.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 5 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32011.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 5 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9140.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 5 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9141.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 5 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30754.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 5 FHD HEVC
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28269.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 6 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9142.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 6 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9143.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 6 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30759.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 6 FHD HEVC
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28270.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 7 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32009.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 7 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9144.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 7 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9145.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 7 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30760.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 7 FHD HEVC
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28271.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS ENGLISH 1 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9153.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS ENGLISH 2 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9154.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS ENGLISH 3 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9155.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS XTRA 1 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/119957.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS XTRA 2 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/119958.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS FRENCH 1 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124099.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS FRENCH 2 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124097.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 3 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",BEIN SPORTS FRENCH 3 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124098.ts
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 6 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124095.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 8 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 8 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279955.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 8 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279956.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 8 FHD 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279961.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 8 FHD HEVC
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279962.ts
 #EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 1
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/138962.ts
 #EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 1 HD
@@ -87,42 +129,40 @@ http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/138963.ts
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139009.ts
 #EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 2 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139010.ts
-#EXTINF:-1,group-title="Sports",AL KASS ONLINE
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139047.ts
-#EXTINF:-1,group-title="Sports",AL KASS ONE
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139048.ts
-#EXTINF:-1,group-title="Sports",AL KASS TWO
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139049.ts
-#EXTINF:-1,group-title="Sports",AL KASS THREE
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139050.ts
-#EXTINF:-1,group-title="Sports",AL KASS FOUR
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139051.ts
-#EXTINF:-1,group-title="Sports",AL KASS FIVE
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139052.ts
-#EXTINF:-1,group-title="Sports",AL KASS SIX
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139053.ts
-#EXTINF:-1,group-title="Sports",AL KASS SEVEN
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139054.ts
-#EXTINF:-1,group-title="Sports",SSC 1 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139021.ts
-#EXTINF:-1,group-title="Sports",SSC 2 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139024.ts
-#EXTINF:-1,group-title="Sports",SSC 3 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139029.ts
-#EXTINF:-1,group-title="Sports",SSC 4 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139030.ts
-#EXTINF:-1,group-title="Sports",SSC 5 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139033.ts
-#EXTINF:-1,group-title="Sports",SSC 6 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139036.ts
-#EXTINF:-1,group-title="Sports",SSC 7 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139039.ts
-#EXTINF:-1,group-title="Sports",SSC 8 FHD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139043.ts
-#EXTINF:-1,group-title="Sports",SSC Extra 1 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/259119.ts
-#EXTINF:-1,group-title="Sports",SSC Extra 2 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/259120.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 1 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139021.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 1 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139022.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 2 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139024.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 2 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139025.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 2 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139026.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 3 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139028.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 3 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139029.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 4 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139030.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 4 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139031.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 5 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139033.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 5 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139034.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 6 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139036.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 6 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139037.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 7 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139039.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 7 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139040.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 8 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139042.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Sports",SSC 8 FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139043.ts
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae"tvg-logo="https://i.imgur.com/lKl2wZH.png"group-title="Sports":http-user-agent="",Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae"tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png"group-title="Sports":http-user-agent="",Abu Dhabi Sports 2 (1080p)
