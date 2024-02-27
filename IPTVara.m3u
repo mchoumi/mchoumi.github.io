@@ -1,56 +1,56 @@
-#EXTM3U tvg-url="https://www.bevy.be/bevyfiles/arabiapremium2.xml"
-#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC2.ae"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67517.ts
-#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBCMax.ae"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67525.ts
-#EXTINF:-1 tvg-name="MBC Action"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67520.ts
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/arabiapremium2.xml"
+#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67517.ts
+#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67525.ts
+#EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67520.ts
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_4.m3u8
-#EXTINF:-1,"group-title="Movies",MOVIES HD 1 PREMIERE
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48031.ts
-#EXTINF:-1,"group-title="Movies",MOVIES HD 2 ACTION
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48030.ts
-#EXTINF:-1,"group-title="Movies",MOVIES HD 3 DRAMA
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48029.ts
-#EXTINF:-1,"group-title="Movies",MOVIES HD 4 FAMILY
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48028.ts
-#EXTINF:-1,"group-title="Movies",SERIES 1 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48026.ts
-#EXTINF:-1,"group-title="Movies",ON DRAMA HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48039.ts
-#EXTINF:-1,"group-title="Movies",FOX LIFE HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48036.ts
-#EXTINF:-1,"group-title="Arabic",FATAFEAT HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48011.ts
-#EXTINF:-1,"group-title="Movies",MOVIES HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67248.ts
-#EXTINF:-1,"group-title="Movies",MOVIES ACTION
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67251.ts
-#EXTINF:-1,"group-title="Movies",MOVIES FIRST HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/103761.ts
-#EXTINF:-1,"group-title="Movies",MOVIES FIRST+2 HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67252.ts
-#EXTINF:-1,"group-title="Movies",BOX OFFICE 01
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67281.ts
-#EXTINF:-1,"group-title="Movies",BOX OFFICE 02
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67282.ts
-#EXTINF:-1,"group-title="Movies",BOX OFFICE 03
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67283.ts
-#EXTINF:-1,"group-title="Movies",FOX LIFE
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67292.ts
-#EXTINF:-1,"group-title="Movies",FOX CRIME
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67293.ts
-#EXTINF:-1,"group-title="Movies",FAMILY DRAMA HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67528.ts
-#EXTINF:-1,"group-title="Movies",YAHALA CINEMA HD
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67242.ts
-#EXTINF:-1,"group-title="Movies",YAHALA Al OULA
-http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/67243.ts
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="MOVIES HD 1 PREMIERE" tvg-logo="http://one-iptv.com/imageslogo/beINMovies1.qa.png" group-title="Movies",beIN MOVIES HD 1 PREMIERE
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48031.ts
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="MOVIES HD 2 ACTION" tvg-logo="http://one-iptv.com/imageslogo/beINMovies2.qa.png" group-title="Movies",beIN MOVIES HD 2 ACTION
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48030.ts
+#EXTINF:-1 tvg-id="beINMovies3.qa" tvg-name="MOVIES HD 3 DRAMA" tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="Movies",beIN MOVIES HD 3 DRAMA
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48029.ts
+#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="MOVIES HD 4 FAMILY" tvg-logo="http://one-iptv.com/imageslogo/beINMovies4.qa.png" group-title="Movies",beIN MOVIES HD 4 FAMILY
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48028.ts
+#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="SERIES 1 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="Movies",beIN SERIES 1 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48026.ts
+#EXTINF:-1 tvg-id="Drama.qa" tvg-name="ON DRAMA HD" tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="Movies",beIN ON DRAMA HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48039.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://one-iptv.com/imageslogo/FoxLife.pt.png" group-title="Movies",beIN FOX LIFE HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48036.ts
+#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="YAHALA CINEMA HD" tvg-logo="http://one-iptv.com/imageslogo/pu_osnyahalacinema.png" group-title="Movies",OSN YAHALA CINEMA HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67242.ts
+#EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-name="YAHALA Al OULA" tvg-logo="" group-title="Movies",OSN YAHALA Al OULA
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67243.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALFA CINEMA 2" tvg-logo="http://one-iptv.com/imageslogo/pu_alfacinema2.png" group-title="Movies",ALFA CINEMA 2
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67241.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES HD" tvg-logo="" group-title="Movies",MOVIES HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67248.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENGIMA" tvg-logo="https://www.engima.ma/wp-content/uploads/2020/04/enigma.svg" group-title="Movies",OSN ENGIMA
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67250.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/OSN_Movies_Action.png/revision/latest?cb=20111116193011" group-title="Movies",OSN MOVIES ACTION
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67251.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="MOVIES FIRST HD" tvg-logo="https://i.imgur.com/8vnCZIN.png" group-title="Movies",MOVIES FIRST HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/103761.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES FIRST+2 HD" tvg-logo="https://media.elcinema.com/tvguide/1210_1.png" group-title="Movies",MOVIES FIRST+2 HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67252.ts
+#EXTINF:-1 tvg-id="OSNComedy.ae" tvg-name="COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/OSN_Comedy.png/revision/latest?cb=20111115144458" group-title="Movies",OSN COMEDY
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67253.ts
+#EXTINF:-1 tvg-id="OSNMoviesPremiere.ae" tvg-name="BOX OFFICE 01" tvg-logo="https://media.elcinema.com/tvguide/1295_1.png" group-title="Movies",OSN BOX OFFICE 01
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67281.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 02" tvg-logo="https://media.elcinema.com/tvguide/1294_1.png" group-title="Movies",OSN BOX OFFICE 02
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67282.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 03" tvg-logo="https://i.imgur.com/DRwLAtC.png" group-title="Movies",BOX OFFICE 03
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67283.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="ALFA CINEMA 1" tvg-logo="http://one-iptv.com/imageslogo/pu_alfacinema1.png" group-title="Movies",ALFA CINEMA 1
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67240.ts
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
 #EXTINF:-1 tvg-id="Multies Cinema" tvg-logo="http://live.multies.net/wp-content/uploads/2023/10/Multies-Cinema.png" group-title="Movies",Multies Cinema
@@ -105,6 +105,8 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="AlarabyTV2"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="FATAFEAT HD" tvg-logo="http://one-iptv.com/imageslogo/Fatafeat.qa.png" group-title="Movies",FATAFEAT HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48011.ts
 #EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183918
 #EXTINF:-1 tvg-name="Echorouk TV"tvg-id="EchoroukTV.dz"tvg-logo="https://i.imgur.com/FtrSAqu.png"group-title="Arabic",Echorouk TV
