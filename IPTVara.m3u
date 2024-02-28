@@ -99,13 +99,13 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Arabic",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Documentary"tvg-id="AlJazeeraDocumentary.qa"tvg-logo="https://i.imgur.com/El2hhYb.png"group-title="Arabic",Al Jazeera Documentary
+#EXTINF:-1 tvg-name="Al Jazeera Documentary"tvg-id="Al Jazeera Documentary HD.ar"tvg-logo="https://i.imgur.com/El2hhYb.png"group-title="Arabic",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-name="Alaraby TV"tvg-id="AlarabyTV.uk"tvg-logo="https://i.imgur.com/YMqWEe4.png"group-title="Arabic",Alaraby TV
+#EXTINF:-1 tvg-name="Alaraby TV"tvg-id="Al Araby HD.ar"tvg-logo="https://i.imgur.com/YMqWEe4.png"group-title="Arabic",Alaraby TV
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="AlarabyTV2"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
+#EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="Al Araby 2 HD.ar"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="FATAFEAT HD" tvg-logo="http://one-iptv.com/imageslogo/Fatafeat.qa.png" group-title="Movies",FATAFEAT HD
+#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="FATAFEAT HD" tvg-logo="http://one-iptv.com/imageslogo/Fatafeat.qa.png" group-title="Arabic",FATAFEAT HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/48011.ts
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183918
@@ -117,17 +117,17 @@ http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183937
 https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 #EXTINF:-1 tvg-name="El Bilad"tvg-id="ElBilad.dz"tvg-logo="https://i.imgur.com/Bp00gMu.png"group-title="Arabic",El Bilad
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183941
-#EXTINF:-1 tvg-name="Ennahar TV"tvg-id="EnnaharTV.dz"tvg-logo="https://i.imgur.com/ta9o5qJ.png"group-title="Arabic",Ennahar TV
+#EXTINF:-1 tvg-name="Ennahar TV"tvg-id="Ennahar TV.ar"tvg-logo="https://i.imgur.com/ta9o5qJ.png"group-title="Arabic",Ennahar TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183938
 #EXTINF:-1 tvg-name="ENTV"tvg-id="ENTV.dz"tvg-logo="https://i.imgur.com/tFXvY71.png"group-title="Arabic",ENTV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183925
-#EXTINF:-1 tvg-name="Algerie TV3"tvg-id="AlgerieTV3.dz"tvg-logo="https://i.imgur.com/J6VmBuw.png"group-title="Arabic",Algerie TV3
+#EXTINF:-1 tvg-name="Algerie TV3"tvg-id="Algérie 3 HD.ar"tvg-logo="https://i.imgur.com/J6VmBuw.png"group-title="Arabic",Algerie TV3
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183928
-#EXTINF:-1 tvg-name="Algerie TV4"tvg-id="AlgerieTV4.dz"tvg-logo="https://i.imgur.com/n8httHt.png"group-title="Arabic",Algerie TV4
+#EXTINF:-1 tvg-name="Algerie TV4"tvg-id="Algérie 4.ar"tvg-logo="https://i.imgur.com/n8httHt.png"group-title="Arabic",Algerie TV4
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183929
-#EXTINF:-1 tvg-name="Algerie TV5"tvg-id="AlgerieTV5.dz"tvg-logo="https://i.imgur.com/gXG15AX.png"group-title="Arabic",Algerie TV5
+#EXTINF:-1 tvg-name="Algerie TV5"tvg-id="Algérie 5.ar"tvg-logo="https://i.imgur.com/gXG15AX.png"group-title="Arabic",Algerie TV5
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183930
-#EXTINF:-1 tvg-name="Algerie TV6"tvg-id="AlgerieTV6.dz"tvg-logo="https://i.imgur.com/HYqJY6y.png"group-title="Arabic",Algerie TV6
+#EXTINF:-1 tvg-name="Algerie TV6"tvg-id="Algérie 6 HD.ar"tvg-logo="https://i.imgur.com/HYqJY6y.png"group-title="Arabic",Algerie TV6
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183932
 #EXTINF:-1 tvg-name="Al Arabiya"tvg-id="AlArabiya.ae"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png/revision/latest/scale-to-width-down/1000?cb=20200509142618"group-title="Arabic",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -157,5 +157,5 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1 tvg-name="Asharq Discovery"tvg-id="Asharq Discovery"tvg-logo="https://i.imgur.com/Czxi7yk.png"group-title="Arabic",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Asharq Documentary"tvg-id="Asharq Documentary"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asharq_Doc_23.png/revision/latest?cb=20230924082531"group-title="Arabic",Asharq Documentary
+#EXTINF:-1 tvg-name="Asharq Documentary"tvg-id="Asharq Documentaries.ar"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asharq_Doc_23.png/revision/latest?cb=20230924082531"group-title="Arabic",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
