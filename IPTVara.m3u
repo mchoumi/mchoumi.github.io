@@ -101,10 +101,6 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Documentary"tvg-id="Al Jazeera Documentary HD.ar"tvg-logo="https://i.imgur.com/El2hhYb.png"group-title="Arabic",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1,tvg-name="beIN Series 1"tvg-id="beIN Series HD.ar"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/The_logo_of_bein_series_1_tv_channel.png"group-title="Arabic",BEIN SERIES 1 HD
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/60176.ts
-#EXTINF:-1,tvg-name="beIN Series 2"tvg-id="beIN Series 2 HD.ar"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Series_HD2.png/640px-Series_HD2.png"group-title="Arabic",BEIN SERIES 2 HD
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/60177.ts
 #EXTINF:-1 tvg-name="Alaraby TV"tvg-id="Al Araby HD.ar"tvg-logo="https://i.imgur.com/YMqWEe4.png"group-title="Arabic",Alaraby TV
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="Al Araby 2 HD.ar"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Alaraby TV 2
