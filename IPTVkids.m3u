@@ -9,11 +9,11 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Arabic"tvg-id="CartoonNetworkArabic.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png"group-title="Kids":http-user-agent="",Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",FRANCE 4
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202467
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",Disney Channel AR
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/46944.ts
-#EXTINF:-1,|.AR.| BARAEM HD
+#EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",FRANCE 4
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202467
+#EXTINF:-1,BARAEM HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/48041.ts
 #EXTINF:-1 tvg-name="Spacetoon Arabic"tvg-id="SpacetoonArabic.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png"group-title="Kids":http-user-agent="",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
