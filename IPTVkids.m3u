@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-name="Majid"tvg-id="Majid.ae"tvg-logo="https://i.imgur.com/9Bun2IX.png"group-title="Kids":http-user-agent="",Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Jeem"tvg-id="Jeem.ae"tvg-logo="https://i.imgur.com/YfWrOGl.png"group-title="Kids":http-user-agent="",Jeem TV
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/60183.ts
+http://s1.czxbexchange.xyz:8080/live/01234011/21665451/16348.ts
 #EXTINF:-1 tvg-name="MBC 3"tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-name="MBC 3 EUR"tvg-id="MBC3EUR.ae"tvg-logo="https://i.imgur.com/FVNVC73.png"group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Arabic"tvg-id="CartoonNetworkArabic.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png"group-title="Kids":http-user-agent="",Cartoon Network Arabia
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+http://s1.czxbexchange.xyz:8080/live/01234011/21665451/16354.ts
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",Disney Channel AR
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/46944.ts
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",FRANCE 4
