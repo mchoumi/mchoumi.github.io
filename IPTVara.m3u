@@ -69,7 +69,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sama Dubai"tvg-id="Sama Dubai HD.ar"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Sama_2005.jpg/revision/latest?cb=20230725235107"group-title="Arabic",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sharjah TV"tvg-id="SharjahTV.ae"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobLJWriTKqzw4t4Vd2FbI-5KEQnfLEyQe-Gfw61DWzd-yWSPKdV8u974"group-title="Arabic",Sharjah TV
+#EXTINF:-1 tvg-name="Sharjah TV"tvg-id="SharjahTV.ae"tvg-logo="https://i.imgur.com/tq5Aj9i.png"group-title="Arabic",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sharjah 2"tvg-id="Sharjah2.ae"tvg-logo="https://i.imgur.com/ob1GhbC.jpg"group-title="Arabic",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
