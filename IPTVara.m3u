@@ -65,7 +65,7 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="Emarat HD.ar"tvg-logo="https://i.imgur.com/7SiiBkQ.png"group-title="Arabic",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Dubai TV"tvg-id="Dubai HD.ar"tvg-logo="https://logos.fandom.com/wiki/Dubai_TV?file=Dubai_tv_2017.png"group-title="Arabic",Dubai TV
+#EXTINF:-1 tvg-name="Dubai TV"tvg-id="Dubai HD.ar"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Dubai_DMI_2023.jpg"group-title="Arabic",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sama Dubai"tvg-id="Sama Dubai HD.ar"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Sama_2005.jpg/revision/latest?cb=20230725235107"group-title="Arabic",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
@@ -107,11 +107,11 @@ https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b11
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="FATAFEAT HD" tvg-logo="http://one-iptv.com/imageslogo/Fatafeat.qa.png" group-title="Arabic",FATAFEAT HD
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/60179.ts
-#EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://i.imgur.com/XZzINfq.png" group-title="Arabic",Samira TV
+#EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Samira_TV_Logo_%28Gradient%29.png" group-title="Arabic",Samira TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183918
-#EXTINF:-1 tvg-name="Echorouk TV"tvg-id="Echorouk TV HD.ar"tvg-logo="https://i.imgur.com/FtrSAqu.png"group-title="Arabic",Echorouk TV
+#EXTINF:-1 tvg-name="Echorouk TV"tvg-id="Echorouk TV HD.ar"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Echorouk_TV_Logo.png"group-title="Arabic",Echorouk TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183935
-#EXTINF:-1 tvg-name="Echorouk News"tvg-id="Echorouk News.ar"tvg-logo="https://i.imgur.com/TNtjYcw.png"group-title="Arabic",Echorouk News
+#EXTINF:-1 tvg-name="Echorouk News"tvg-id="Echorouk News.ar"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/ECHOUROUK-NEWS.png"group-title="Arabic",Echorouk News
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183937
 #EXTINF:-1 tvg-name="Canal Algerie"tvg-id="CanalAlgerie.dz"tvg-logo="https://i.imgur.com/FPmDhNH.png"group-title="Arabic",Canal Algerie
 https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
@@ -121,6 +121,8 @@ http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183941
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183938
 #EXTINF:-1 tvg-name="ENTV"tvg-id="ENTV.dz"tvg-logo="https://i.imgur.com/tFXvY71.png"group-title="Arabic",ENTV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183925
+#EXTINF:-1 tvg-name="Algerie TV2"tvg-id="Algérie 2 HD.ar"tvg-logo="https://i.imgur.com/J6VmBuw.png"group-title="Arabic",Algerie TV2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183927
 #EXTINF:-1 tvg-name="Algerie TV3"tvg-id="Algérie 3 HD.ar"tvg-logo="https://i.imgur.com/J6VmBuw.png"group-title="Arabic",Algerie TV3
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183928
 #EXTINF:-1 tvg-name="Algerie TV4"tvg-id="Algérie 4.ar"tvg-logo="https://i.imgur.com/n8httHt.png"group-title="Arabic",Algerie TV4
