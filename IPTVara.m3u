@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://i.imgur.com/KXuzL1u.png"group-title="Movies",MBC 2
+#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png"group-title="Movies",MBC 2
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/64201.ts
-#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://i.imgur.com/X6EliFm.png"group-title="Movies",MBC Max
+#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png"group-title="Movies",MBC Max
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/16395.ts
-#EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://i.imgur.com/n3TgfP0.png"group-title="Movies",MBC Action
+#EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png"group-title="Movies",MBC Action
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/101935.ts
-#EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies
+#EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Shahid.jpg" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
-#EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies Action
+#EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/Shahid.jpg" group-title="Movies",MBC Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-#EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Movies Thriller
+#EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/Shahid.jpg" group-title="Movies",MBC Movies Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_4.m3u8
-#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="MOVIES HD 1 PREMIERE" tvg-logo="http://one-iptv.com/imageslogo/beINMovies1.qa.png" group-title="Movies",beIN MOVIES HD 1 PREMIERE
+#EXTINF:-1 tvg-id="beINMoviesPremiere.ae" tvg-name="BOX OFFICE 01" tvg-logo="https://mchoumi.github.io/LOGOs/beINBox1.png" group-title="Movies",beIN BOX OFFICE 01
+http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100723.ts
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="MOVIES HD 1 PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD 1 PREMIERE
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/90764.ts
-#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="SERIES 1 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="Movies",beIN MOVIES HD 2 PREMIERE
+#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="SERIES 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD 2 PREMIERE
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100953.ts
-#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="MOVIES HD 2 ACTION" tvg-logo="http://one-iptv.com/imageslogo/beINMovies2.qa.png" group-title="Movies",beIN MOVIES HD 2 ACTION
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="MOVIES HD 2 ACTION" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN MOVIES HD ACTION
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/90765.ts
-#EXTINF:-1 tvg-id="beINMovies3.qa" tvg-name="MOVIES HD 3 DRAMA" tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="Movies",beIN MOVIES HD 3 DRAMA
+#EXTINF:-1 tvg-id="beINMovies3.qa" tvg-name="MOVIES HD 3 DRAMA" tvg-logo="https://mchoumi.github.io/LOGOs/beINDrama.png" group-title="Movies",beIN MOVIES HD DRAMA
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/90766.ts
-#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="MOVIES HD 4 FAMILY" tvg-logo="http://one-iptv.com/imageslogo/beINMovies4.qa.png" group-title="Movies",beIN MOVIES HD 4 FAMILY
+#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="MOVIES HD 4 FAMILY" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Movies",beIN MOVIES HD FAMILY
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/90767.ts
-#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="SERIES 1 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="Movies",beIN MOVIES HD 2 PREMIERE
+#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="SERIES 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD PREMIERE
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100953.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://one-iptv.com/imageslogo/FoxLife.pt.png" group-title="Movies",OSN FOX LIFE HD
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/99233.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES HD" tvg-logo="" group-title="Movies",OSN MOVIES HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/952.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/OSN_Action_HD.png/revision/latest?cb=20111116205956" group-title="Movies",OSN MOVIES ACTION
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTION" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100708.ts
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="MOVIES FIRST HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/OSN_First_HD.png/revision/latest?cb=20111116205834" group-title="Movies",OSN MOVIES FIRST HD
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="MOVIES FIRST HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/965.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES FIRST+2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/OSN_First_2.png/revision/latest?cb=20111115144615" group-title="Movies",OSN MOVIES FIRST+2 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES FIRST+2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/46954.ts
-#EXTINF:-1 tvg-id="OSNComedy.ae" tvg-name="COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/OSN_Comedy.png/revision/latest?cb=20111115144458" group-title="Movies",OSN COMEDY
+#EXTINF:-1 tvg-id="OSNComedy.ae" tvg-name="COMEDY" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67253.ts
-#EXTINF:-1 tvg-id="OSNMoviesPremiere.ae" tvg-name="BOX OFFICE 01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/OSN_Box_Office_1.png/revision/latest?cb=20111116204053" group-title="Movies",OSN BOX OFFICE 01
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100723.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/OSN_Box_Office_2.png/revision/latest?cb=20111116204216" group-title="Movies",OSN BOX OFFICE 02
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67282.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/OSN_Box_Office_3.png/revision/latest?cb=20111116204328" group-title="Movies",BOX OFFICE 03
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67283.ts
-#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="YAHALA CINEMA HD" tvg-logo="http://one-iptv.com/imageslogo/pu_osnyahalacinema.png" group-title="Movies",OSN YAHALA CINEMA HD
+#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="YAHALA CINEMA HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA CINEMA HD
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/99097.ts
-#EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-name="YAHALA Al OULA" tvg-logo="" group-title="Movies",OSN YAHALA Al OULA
+#EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-name="YAHALA Al OULA" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Al OULA
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/46963.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALFA CINEMA 2" tvg-logo="http://one-iptv.com/imageslogo/pu_alfacinema2.png" group-title="Movies",OSN ALFA CINEMA 2
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67241.ts
@@ -151,5 +151,5 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1 tvg-name="Asharq Discovery"tvg-id="Asharq Discovery"tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDiscovery.png"group-title="Arabic",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Asharq Documentary"tvg-id="Asharq Documentaries.ar"tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDocumentary"group-title="Arabic",Asharq Documentary
+#EXTINF:-1 tvg-name="Asharq Documentary"tvg-id="Asharq Documentaries.ar"tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDocumentary.webp"group-title="Arabic",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
