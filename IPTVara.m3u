@@ -61,11 +61,11 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
 #EXTINF:-1 tvg-id="Multies Aflam 2" tvg-logo="http://live.multies.net/wp-content/uploads/2023/08/Multies-Aflam-2-350x250.png" group-title="Movies",Multies Aflam 2
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi HD.ar"tvg-id="Abu Dhabi HD.ar"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Abu_Dhabi_tv_2020.png"group-title="Arabic",Abu Dhabi Oula HD
+#EXTINF:-1 tvg-name="Abu Dhabi HD.ar"tvg-id="Abu Dhabi HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png"group-title="Arabic",Abu Dhabi Oula HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="Emarat HD.ar"tvg-logo="https://i.imgur.com/7SiiBkQ.png"group-title="Arabic",Abu Dhabi Emirates
+#EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="Emarat HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png"group-title="Arabic",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Dubai TV"tvg-id="Dubai HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Dubai_TV.webp"group-title="Arabic",Dubai TV
+#EXTINF:-1 tvg-name="Dubai TV"tvg-id="Dubai HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png"group-title="Arabic",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sama Dubai"tvg-id="Sama Dubai HD.ar"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Sama_2005.jpg/revision/latest?cb=20230725235107"group-title="Arabic",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
@@ -75,7 +75,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai Zaman"tvg-id="DubaiZaman.ae"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/DCN_Dubai_Zaman.png/revision/latest/scale-to-width-down/1000?cb=20230803013205"group-title="Arabic",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Dubai One"tvg-id="Dubai One HD.ar"tvg-logo="https://i.imgur.com/WjJ8MHC.png"group-title="Movies",Dubai One
+#EXTINF:-1 tvg-name="Dubai One"tvg-id="Dubai One HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png"group-title="Movies",Dubai One
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="Noor Dubai"tvg-id="NoorDubai.ae"tvg-logo="https://i.imgur.com/DLe7ZuM.png"group-title="Arabic",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
@@ -95,9 +95,9 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/89.ts
 #EXTINF:-1 tvg-name="MBC Masr 2"tvg-id="MBC Masr 2.ar"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png"group-title="Arabic",MBC Masr 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 tvg-name="MBC Plus Drama"tvg-id="MBCDramaPlus.ae"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/721E463A-4A35-47D1-B196-AD891A00D36E.png/revision/latest?cb=20200412203742"group-title="Arabic",MBC Plus Drama
+#EXTINF:-1 tvg-name="MBC Plus Drama"tvg-id="MBCDramaPlus.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png"group-title="Arabic",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Arabic",National Geographic Abu Dhabi
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAB.png" group-title="Arabic",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Documentary"tvg-id="Al Jazeera Documentary HD.ar"tvg-logo="https://i.imgur.com/El2hhYb.png"group-title="Arabic",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
@@ -131,11 +131,11 @@ http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183929
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183930
 #EXTINF:-1 tvg-name="Algerie TV6"tvg-id="Algérie 6 HD.ar"tvg-logo="https://i.imgur.com/HYqJY6y.png"group-title="Arabic",Algerie TV6
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183932
-#EXTINF:-1 tvg-name="Al Arabiya"tvg-id="AlArabiya.ae"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png/revision/latest/scale-to-width-down/1000?cb=20200509142618"group-title="Arabic",Al Arabiya
+#EXTINF:-1 tvg-name="Al Arabiya"tvg-id="AlArabiya.ae"tvg-logo="https://mchoumi.github.io/LOGOs/ArabiyaTV.png"group-title="Arabic",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic"tvg-id="AlJazeeraArabic.qa"tvg-logo="https://i.imgur.com/7bRVpnu.png"group-title="Arabic",Al Jazeera Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-name="Skynews Arabia"tvg-id="Skynews Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Arabic",Skynews Arabia
+#EXTINF:-1 tvg-name="Skynews Arabia"tvg-id="Skynews Arabia" tvg-logo="https://mchoumi.github.io/LOGOs/SkyNewsAR.png" group-title="Arabic",Skynews Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-name="BBC Arabic"tvg-id="BBCArabic.uk"tvg-logo="https://i.imgur.com/oFGPG9Y.png"group-title="Arabic",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
