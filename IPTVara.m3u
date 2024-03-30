@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png"group-title="Movies",MBC 2
+#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png"group-title="Movies",MBC 2
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/64201.ts
-#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png"group-title="Movies",MBC Max
+#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/16395.ts
-#EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png"group-title="Movies",MBC Action
+#EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/101935.ts
-#EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Shahid.jpg" group-title="Movies",MBC Movies
+#EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
-#EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/Shahid.jpg" group-title="Movies",MBC Movies Action
+#EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesAction.webp" group-title="Movies",MBC Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-#EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/Shahid.jpg" group-title="Movies",MBC Movies Thriller
+#EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesThriller.webp" group-title="Movies",MBC Movies Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_4.m3u8
 #EXTINF:-1 tvg-id="beINMoviesPremiere.ae" tvg-name="BOX OFFICE 01" tvg-logo="https://mchoumi.github.io/LOGOs/beINBox1.png" group-title="Movies",beIN BOX OFFICE 01
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100723.ts
@@ -25,7 +25,7 @@ http://s1.czxbexchange.xyz:8080/live/01234011/21665451/90766.ts
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/90767.ts
 #EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="SERIES 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD PREMIERE
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100953.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://one-iptv.com/imageslogo/FoxLife.pt.png" group-title="Movies",OSN FOX LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://mchoumi.github.io/LOGOs/FoxLife.jpg" group-title="Movies",OSN FOX LIFE HD
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/99233.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/952.ts
@@ -45,21 +45,21 @@ http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67283.ts
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/99097.ts
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-name="YAHALA Al OULA" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Al OULA
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/46963.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALFA CINEMA 2" tvg-logo="http://one-iptv.com/imageslogo/pu_alfacinema2.png" group-title="Movies",OSN ALFA CINEMA 2
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67241.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENGIMA" tvg-logo="https://www.engima.ma/wp-content/uploads/2020/04/enigma.svg" group-title="Movies",OSN ENGIMA
+#EXTINF:-1 tvg-id="" tvg-name="ENGIMA" tvg-logo="https://mchoumi.github.io/LOGOs/OSNEnigma.png" group-title="Movies",OSN ENGIMA
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100755.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="ALFA CINEMA 1" tvg-logo="http://one-iptv.com/imageslogo/pu_alfacinema1.png" group-title="Movies",ALFA CINEMA 1
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="ALFA CINEMA 1" tvg-logo="https://mchoumi.github.io/LOGOs/AlfaCinema1.png" group-title="Movies",ALFA CINEMA 1
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67240.ts
-#EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Shahid_new_Logo.jpg" group-title="Movies",MBC Aflam
+#EXTINF:-1 tvg-id="" tvg-name="ALFA CINEMA 2" tvg-logo="https://mchoumi.github.io/LOGOs/AlfaCinema2.png" group-title="Movies",OSN ALFA CINEMA 2
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67241.ts
+#EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/Aflam.webp" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
-#EXTINF:-1 tvg-id="Multies Cinema" tvg-logo="http://live.multies.net/wp-content/uploads/2023/10/Multies-Cinema.png" group-title="Movies",Multies Cinema
+#EXTINF:-1 tvg-id="Multies Cinema" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Cinema
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/792.m3u8
-#EXTINF:-1 tvg-id="Multies Comedy" tvg-logo="http://live.multies.net/wp-content/uploads/2023/09/Multies-Comedy-350x250.png" group-title="Movies",Multies Comedy
+#EXTINF:-1 tvg-id="Multies Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Comedy
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
-#EXTINF:-1 tvg-id="Multies Aflam 1" tvg-logo="http://live.multies.net/wp-content/uploads/2023/08/Multies-Aflam-1-350x250.png" group-title="Movies",Multies Aflam 1
+#EXTINF:-1 tvg-id="Multies Aflam 1" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Aflam 1
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
-#EXTINF:-1 tvg-id="Multies Aflam 2" tvg-logo="http://live.multies.net/wp-content/uploads/2023/08/Multies-Aflam-2-350x250.png" group-title="Movies",Multies Aflam 2
+#EXTINF:-1 tvg-id="Multies Aflam 2" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Aflam 2
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi HD.ar"tvg-id="Abu Dhabi HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png"group-title="Arabic",Abu Dhabi Oula HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
@@ -77,15 +77,15 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="Noor Dubai"tvg-id="NoorDubai.ae"tvg-logo="https://mchoumi.github.io/LOGOs/NourDubai.png"group-title="Arabic",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC 1.ar" tvg-logo="https://i.imgur.com/ePBvFC8.png" group-title="Arabic",MBC 1
+#EXTINF:-1 tvg-id="MBC 1.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png" group-title="Arabic",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-name="MBC 1 KSA"tvg-id="MBC.ae"tvg-logo="https://i.imgur.com/eKBXOKd.png"group-title="Arabic",MBC 1 KSA
+#EXTINF:-1 tvg-name="MBC 1 KSA"tvg-id="MBC.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png"group-title="Arabic",MBC 1 KSA
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
 #EXTINF:-1 tvg-name="MBC 4"tvg-id="MBC 4.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC4.png"group-title="Arabic",MBC 4
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
 #EXTINF:-1 tvg-name="MBC 5"tvg-id="MBC5.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBC5.png"group-title="Arabic",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-name="MBC Bollywood"tvg-id="MBCBollywood.ae"tvg-logo="https://i.imgur.com/fMjhK06.png"group-title="Movies",MBC Bollywood
+#EXTINF:-1 tvg-name="MBC Bollywood"tvg-id="MBCBollywood.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCBollywood.png"group-title="Movies",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-name="MBC Drama"tvg-id="MBC Drama.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png"group-title="Arabic",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
@@ -107,7 +107,7 @@ https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/60179.ts
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183918
-#EXTINF:-1 tvg-name="Echorouk TV"tvg-id="Echorouk TV HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchoroukTV.png"group-title="Arabic",Echorouk TV
+#EXTINF:-1 tvg-name="Echorouk TV"tvg-id="Echorouk TV HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png"group-title="Arabic",Echorouk TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183935
 #EXTINF:-1 tvg-name="Echorouk News"tvg-id="Echorouk News.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukNews.png"group-title="Arabic",Echorouk News
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/183937
@@ -133,15 +133,15 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="DW Arabic"tvg-id="DWArabic.de"tvg-logo="https://mchoumi.github.io/LOGOs/DWArabic.png"group-title="Arabic",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Movies",Rotana Cinema HD
+#EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png"group-title="Movies",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-name="Rotana+ HD"tvg-id="Rotana+ HD"tvg-logo="https://i.imgur.com/0wxwMjs.png"group-title="Arabic",Rotana+ HD
+#EXTINF:-1 tvg-name="Rotana+ HD"tvg-id="Rotana+ HD"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaPlus.png"group-title="Arabic",Rotana+ HD
 https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://i.imgur.com/pGgp38I.png"group-title="Movies",Rotana Cinema HD KSA
+#EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png"group-title="Movies",Rotana Cinema HD KSA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Comedy HD"tvg-id="Rotana Comedy ARB"tvg-logo="https://i.imgur.com/IlT8U6S.png"group-title="Movies",Rotana Comedy HD
+#EXTINF:-1 tvg-name="Rotana Comedy HD"tvg-id="Rotana Comedy ARB"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaComedy.png"group-title="Movies",Rotana Comedy HD
 https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
-#EXTINF:-1 tvg-name="Rotana Drama HD"tvg-id="Rotana Drama"tvg-logo="https://i.imgur.com/btnhPjZ.png"group-title="Arabic",Rotana Drama HD
+#EXTINF:-1 tvg-name="Rotana Drama HD"tvg-id="Rotana Drama"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaDrama.png"group-title="Arabic",Rotana Drama HD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 #EXTINF:-1 tvg-name="RT Arabic"tvg-id="RTArabic.ru"tvg-logo="https://mchoumi.github.io/LOGOs/RTArabic.png"group-title="Arabic",RT Arabic
 http://rt-arab.secure.footprint.net:80/1104.m3u8
