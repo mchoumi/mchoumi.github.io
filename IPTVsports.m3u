@@ -117,17 +117,17 @@ http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279956.ts
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279961.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="BEIN SPORTS MENA",BEIN SPORTS 8 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279962.ts
-#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 1
+#EXTINF:-1,tvg-logo="https://mchoumi.github.io/LOGOs/ADSportPremium1.svg" group-title="Sports",AD SPORTS PREMIUM 1
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/138962.ts
-#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 1 HD
+#EXTINF:-1,tvg-logo="https://mchoumi.github.io/LOGOs/ADSportPremium1.svg" group-title="Sports",AD SPORTS PREMIUM 1 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139007.ts
-#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 1 FHD
+#EXTINF:-1,tvg-logo="https://mchoumi.github.io/LOGOs/ADSportPremium1.svg" group-title="Sports",AD SPORTS PREMIUM 1 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139008.ts
-#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 2
+#EXTINF:-1,tvg-logo="https://mchoumi.github.io/LOGOs/ADSportPremium2.svg" group-title="Sports",AD SPORTS PREMIUM 2
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/138963.ts
-#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 2 HD
+#EXTINF:-1,tvg-logo="https://mchoumi.github.io/LOGOs/ADSportPremium2.svg" group-title="Sports",AD SPORTS PREMIUM 2 HD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139009.ts
-#EXTINF:-1,group-title="Sports",AD SPORTS PREMIUM 2 FHD
+#EXTINF:-1,tvg-logo="https://mchoumi.github.io/LOGOs/ADSportPremium2.svg" group-title="Sports",AD SPORTS PREMIUM 2 FHD
 http://tv.viptvpro.com:25443/live/1281ASQJJ2J2K/55PGQLK2HH/139010.ts
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/SSC.png" group-title="Sports",SSC 1 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/139021.ts
