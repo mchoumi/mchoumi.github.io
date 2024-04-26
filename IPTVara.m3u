@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png"group-title="Movies",MBC 2
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/64201.ts
+http://45.143.220.133:19741/iptvsd1196/1196barcelona/74936
 #EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/16395.ts
+http://45.143.220.133:19741/iptvsd1196/1196barcelona/63592
 #EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/101935.ts
+http://45.143.220.133:19741/iptvsd1196/1196barcelona/63591
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesAction.webp" group-title="Movies",MBC Movies Action
@@ -90,7 +90,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 tvg-name="MBC Drama"tvg-id="MBC Drama.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png"group-title="Arabic",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
 #EXTINF:-1 tvg-name="MBC Masr 1"tvg-id="MBC Masr.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png"group-title="Arabic",MBC Masr 1
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/89.ts
+http://45.143.220.133:19741/iptvsd1196/1196barcelona/74931
 #EXTINF:-1 tvg-name="MBC Masr 2"tvg-id="MBC Masr 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png"group-title="Arabic",MBC Masr 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 #EXTINF:-1 tvg-name="MBC Plus Drama"tvg-id="MBCDramaPlus.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png"group-title="Arabic",MBC Plus Drama
