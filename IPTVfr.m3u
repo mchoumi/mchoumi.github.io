@@ -16,7 +16,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Maghreb" tvg-logo="https://mchoumi.github.io/LOGOs/TV5MondeAR.png" group-title="France",TV5Monde Maghreb Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1  tvg-id="M6.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png",M6
-http://45.143.220.133:19741/iptvsd1196/1196barcelona/144224
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/15154.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
 http://45.143.220.133:19741/iptvsd1196/1196barcelona/144225
 #EXTINF:-1 tvg-id="7Limoges" tvg-logo="https://mchoumi.github.io/LOGOs/Limoges.png" group-title="France",7Limoges
@@ -24,7 +24,7 @@ https://ythlsgo.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Monde.png" group-title="France",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202629
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/15212.ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202638
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
