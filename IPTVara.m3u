@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png"group-title="Movies",MBC 2
-http://45.143.220.133:19741/iptvsd1196/1196barcelona/74936
+http://4cms.cc:8080/fSHtj2yJ9pN7MT/igU4IFNg8o/352220
 #EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
 http://45.143.220.133:19741/iptvsd1196/1196barcelona/63592
 #EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
@@ -104,7 +104,7 @@ https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b11
 #EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="Al Araby 2 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby2.png"group-title="Arabic",Alaraby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="FATAFEAT HD" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD
-http://45.143.220.133:19741/iptvsd1196/1196barcelona/140075
+http://4cms.cc:8080/fSHtj2yJ9pN7MT/MUzL4kXIdE/354371
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/218949
 #EXTINF:-1 tvg-name="Echorouk TV"tvg-id="Echorouk TV HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png"group-title="Arabic",Echorouk TV
