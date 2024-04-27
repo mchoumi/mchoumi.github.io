@@ -103,8 +103,7 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="Al Araby 2 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby2.png"group-title="Arabic",Alaraby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="FATAFEAT HD" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD
-http://4cms.cc:8080/fSHtj2yJ9pN7MT/MUzL4kXIdE/354371
+#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="FATAFEAT HD" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD http://4cms.cc:8080/fSHtj2yJ9pN7MT/7GIXjNhYls/354371
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/218949
 #EXTINF:-1 tvg-name="Echorouk TV"tvg-id="Echorouk TV HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png"group-title="Arabic",Echorouk TV
