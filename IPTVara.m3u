@@ -11,7 +11,7 @@ https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesThriller.webp" group-title="Movies",MBC Movies Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_4.m3u8
-EXTINF:-1 tvg-id="beINBoxOffice2" tvg-name="beIN BOX OFFICE 02" tvg-logo="https://mchoumi.github.io/LOGOs/beINBox1.png" group-title="Movies",beIN BOX OFFICE 02
+#EXTINF:-1 tvg-id="beINBoxOffice2" tvg-name="beIN BOX OFFICE 02" tvg-logo="https://mchoumi.github.io/LOGOs/beINBox1.png" group-title="Movies",beIN BOX OFFICE 02
 http://4cms.cc:8080/fSHtj2yJ9pN7MT/Ubt3sv9Qdx/354355
 #EXTINF:-1 tvg-id="beINMoviesPremiere.ae" tvg-name="BOX OFFICE 01" tvg-logo="https://mchoumi.github.io/LOGOs/beINBox1.png" group-title="Movies",beIN BOX OFFICE 01
 http://4cms.cc:8080/fSHtj2yJ9pN7MT/Ubt3sv9Qdx/354351
