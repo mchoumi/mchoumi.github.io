@@ -25,14 +25,14 @@ http://45.143.220.133:19741/iptvsd1196/1196barcelona/140055
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/90767.ts
 #EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="SERIES 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD PREMIERE
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100953.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://mchoumi.github.io/LOGOs/FoxLife.jpg" group-title="Movies",OSN FOX LIFE HD
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/99233.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://mchoumi.github.io/LOGOs/FoxLife.jpg" group-title="Movies",OSN Movies Family
+http://sky-tv.org:88/02011009597240/02011009597240/394059
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/952.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTION" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100708.ts
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="MOVIES FIRST HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/965.ts
+http://sky-tv.org:88/02011009597240/02011009597240/398584
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTION" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
+http://sky-tv.org:88/02011009597240/02011009597240/115305
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="MOVIES FIRST HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES FIRST HD
+http://sky-tv.org:88/02011009597240/02011009597240/115306
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES FIRST+2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
 http://s1.czxbexchange.xyz:8080/live/01234011/21665451/46954.ts
 #EXTINF:-1 tvg-id="OSNComedy.ae" tvg-name="COMEDY" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY HD
