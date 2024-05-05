@@ -15,8 +15,6 @@ http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/94360
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Maghreb" tvg-logo="https://mchoumi.github.io/LOGOs/TV5MondeAR.png" group-title="France",TV5Monde Maghreb Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-#EXTINF:-1  tvg-id="M6.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png",M6
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/15154.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
 http://revteam11.offshorerev.cc:80/live/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202201.ts
 #EXTINF:-1 tvg-id="7Limoges" tvg-logo="https://mchoumi.github.io/LOGOs/Limoges.png" group-title="France",7Limoges
@@ -24,7 +22,7 @@ https://ythlsgo.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Monde.png" group-title="France",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/15212.ts
+http://revteam11.offshorerev.cc:80/live/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202629.ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202638
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
@@ -32,7 +30,7 @@ http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202491
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9324.ts
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
-http://s1.czxbexchange.xyz:8080/live/01234011/21665451/100292.ts
+http://s1.czxbexchange.xyz:8080/live/87220921/86624385/100292.ts
 #EXTINF:-1  tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/FranceInfo.png",Franceinfo
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
 #EXTINF:-1  tvg-id="EuronewsFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Euronews.png",Euronews
