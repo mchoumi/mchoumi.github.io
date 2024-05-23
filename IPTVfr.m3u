@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/192831
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/192831
 #EXTINF:-1 tvg-id="FRANCE2" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202465
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202465
 #EXTINF:-1 tvg-id="FRANCE3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",FRANCE 3
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202466
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202466
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202467
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202467
 #EXTINF:-1 tvg-id="FRANCE5" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202468
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202468
 #EXTINF:-1 tvg-id="TV5 Style US" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA
 http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/94360
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style
@@ -16,17 +16,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Maghreb" tvg-logo="https://mchoumi.github.io/LOGOs/TV5MondeAR.png" group-title="France",TV5Monde Maghreb Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
-http://revteam11.offshorerev.cc:80/live/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202201.ts
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202201.ts
 #EXTINF:-1 tvg-id="7Limoges" tvg-logo="https://mchoumi.github.io/LOGOs/Limoges.png" group-title="France",7Limoges
 https://ythlsgo.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Monde.png" group-title="France",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
-http://revteam11.offshorerev.cc:80/live/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202629.ts
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202629.ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202638
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202638
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202491
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202491
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9324.ts
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
