@@ -4,7 +4,7 @@ http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/192831
 #EXTINF:-1 tvg-id="FRANCE2" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202465
 #EXTINF:-1 tvg-id="FRANCE3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",FRANCE 3
-http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/187943
+http://tp.nxdns4.com:8080/live/nQEPtLP8Xq/W0ORhhBYov/50900.ts
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202467
 #EXTINF:-1 tvg-id="FRANCE5" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
@@ -16,7 +16,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Maghreb" tvg-logo="https://mchoumi.github.io/LOGOs/TV5MondeAR.png" group-title="France",TV5Monde Maghreb Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
-http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202201.ts
+http://tp.nxdns4.com:8080/live/nQEPtLP8Xq/W0ORhhBYov/29962.ts
 #EXTINF:-1 tvg-id="7Limoges" tvg-logo="https://mchoumi.github.io/LOGOs/Limoges.png" group-title="France",7Limoges
 https://ythlsgo.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Monde.png" group-title="France",TV5 Monde Europe
