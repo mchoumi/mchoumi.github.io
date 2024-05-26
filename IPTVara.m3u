@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png"group-title="Movies",MBC 2
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/164056
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164056
 #EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/164065
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164065
 #EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/164060
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164060
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesAction.webp" group-title="Movies",MBC Movies Action
@@ -12,25 +12,25 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesThriller.webp" group-title="Movies",MBC Movies Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_4.m3u8
 #EXTINF:-1 tvg-id="beINMoviesPremiere.ae" tvg-name="BOX OFFICE 01" tvg-logo="https://mchoumi.github.io/LOGOs/beINBox1.png" group-title="Movies",OSN Play Movies 3
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/398582
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/398582
 #EXTINF:-1 tvg-id="beINBoxOffice2" tvg-name="beIN BOX OFFICE 02" tvg-logo="https://mchoumi.github.io/LOGOs/beINBox1.png" group-title="Movies",OSN Play Movies 4
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/398583
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/398583
 #EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="MOVIES HD 1 PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD 1 PREMIERE
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/59077
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/59077
 #EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="MOVIES HD 2 ACTION" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN MOVIES HD 2 ACTION
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/59078
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/59078
 #EXTINF:-1 tvg-id="beINMovies3.qa" tvg-name="MOVIES HD 3 DRAMA" tvg-logo="https://mchoumi.github.io/LOGOs/beINDrama.png" group-title="Movies",beIN MOVIES HD 3 DRAMA
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/59079
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/59079
 #EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="MOVIES HD 4 FAMILY" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Movies",beIN MOVIES HD 4 FAMILY
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/59080
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/59080
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/394059
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/394059
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/398584
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/398584
 #EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTION" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/115305
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115305
 #EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="MOVIES FIRST HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES FIRST HD
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/115306
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115306
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="MOVIES FIRST+2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67253.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/OSN_Box_Office_2.png/revision/latest?cb=20111116204216" group-title="Movies",OSN BOX OFFICE 02
@@ -38,9 +38,9 @@ http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67282.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/OSN_Box_Office_3.png/revision/latest?cb=20111116204328" group-title="Movies",OSN BOX OFFICE 03
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67283.ts
 #EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="YAHALA CINEMA HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA CINEMA HD
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/115311
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115311
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-name="YAHALA Al OULA" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam
-http://sky-tv.org:88/02022708545762/I95H0A4B7XMBJBY/471107
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/471107
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/Aflam.webp" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
 #EXTINF:-1 tvg-id="Multies Cinema" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Cinema
