@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv_tnt.zip"
+#EXTM3U
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/192831
 #EXTINF:-1 tvg-id="FRANCE2" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
