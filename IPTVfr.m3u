@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/192831
-#EXTINF:-1 tvg-id="FRANCE2" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127275
-#EXTINF:-1 tvg-id="FRANCE3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",FRANCE 3
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",FRANCE 3
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127276
-#EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127278
 #EXTINF:-1 tvg-id="FRANCE5" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127279
