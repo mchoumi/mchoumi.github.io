@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
-http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/192831
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127274
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127275
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127276
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127278
-#EXTINF:-1 tvg-id="FRANCE5" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127279
 #EXTINF:-1 tvg-id="TV5 Style US" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/94360
@@ -17,12 +17,12 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127282
-#EXTINF:-1 tvg-id="7Limoges" tvg-logo="https://mchoumi.github.io/LOGOs/Limoges.png" group-title="France",7Limoges
+#EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127281
+#EXTINF:-1 tvg-id="7.A.LIMOGES.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Limoges.png" group-title="France",7Limoges
 https://ythlsgo.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Monde.png" group-title="France",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1  tvg-id="ARTEFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127281
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202638
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
