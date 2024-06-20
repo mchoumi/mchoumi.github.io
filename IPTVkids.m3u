@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Majid"tvg-id="Majid.ae"tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png"group-title="Kids":http-user-agent="",Majid TV
+#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Jeem"tvg-id="Jeem.ae"tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png"group-title="Kids":http-user-agent="",Jeem TV
+#EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/126292
-#EXTINF:-1 tvg-name="MBC 3"tvg-id="MBC3.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png"group-title="Kids",MBC 3
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-name="MBC 3 EUR"tvg-id="MBC3EUR.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png"group-title="Kids",MBC 3 EUR
+#EXTINF:-1 tvg-id="MBC3EUR.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Arabic"tvg-id="CartoonNetworkArabic.ae"tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp"group-title="Kids",Cartoon Network Arabia
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/126298
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel AR
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/59087
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="Kids",FRANCE 4
 http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202467
-#EXTINF:-1 tvg-name="Spacetoon Arabic"tvg-id="SpacetoonArabic.ae"tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png"group-title="Kids":http-user-agent="",Spacetoon
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-name="GulliBilArabi"tvg-id="GulliBilArabi.fr"tvg-logo="https://mchoumi.github.io/LOGOs/GulliAR.png"group-title="Kids":http-user-agent="",Gulli Bil Arabi
+#EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/GulliAR.png" group-title="Kids":http-user-agent="",Gulli Bil Arabi
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-name="Tiji"tvg-id="TiJi.fr"tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png"group-title="Kids":http-user-agent="",Tiji
+#EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
