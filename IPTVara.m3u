@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png"group-title="Movies",MBC 2
+#EXTINF:-1 tvg-id="MBC 2.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164056
-#EXTINF:-1 tvg-name="MBC Max"tvg-id="MBC MAX.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
+#EXTINF:-1 tvg-id="MBC MAX.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164065
-#EXTINF:-1 tvg-name="MBC Action.ar"tvg-id="MBCAction.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
+#EXTINF:-1 tvg-id="MBCAction.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164060
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
@@ -51,21 +51,21 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
 #EXTINF:-1 tvg-id="Multies Aflam 2" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Aflam 2
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi HD.ar"tvg-id="Abu Dhabi HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png"group-title="Arabic",Abu Dhabi Oula HD
+#EXTINF:-1 tvg-id="Abu Dhabi HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png"group-title="Arabic",Abu Dhabi Oula HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi Emirates"tvg-id="Emarat HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png"group-title="Arabic",Abu Dhabi Emirates
+#EXTINF:-1 tvg-id="Emarat HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png"group-title="Arabic",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Dubai TV"tvg-id="Dubai HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png"group-title="Arabic",Dubai TV
+#EXTINF:-1 tvg-id="Dubai HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png"group-title="Arabic",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sama Dubai"tvg-id="Sama Dubai HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp"group-title="Arabic",Sama Dubai
+#EXTINF:-1 tvg-id="Sama Dubai HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp"group-title="Arabic",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sharjah TV"tvg-id="SharjahTV.ae"tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png"group-title="Arabic",Sharjah TV
+#EXTINF:-1 tvg-id="SharjahTV.ae"tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png"group-title="Arabic",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sharjah 2"tvg-id="Sharjah2.ae"tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png"group-title="Arabic",Sharjah 2
+#EXTINF:-1 tvg-id="Sharjah2.ae"tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png"group-title="Arabic",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Dubai One"tvg-id="Dubai One HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png"group-title="Movies",Dubai One
+#EXTINF:-1 tvg-id="Dubai One HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png"group-title="Movies",Dubai One
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-name="Noor Dubai"tvg-id="NoorDubai.ae"tvg-logo="https://mchoumi.github.io/LOGOs/NourDubai.png"group-title="Arabic",Noor Dubai
+#EXTINF:-1 tvg-id="NoorDubai.ae"tvg-logo="https://mchoumi.github.io/LOGOs/NourDubai.png"group-title="Arabic",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 1.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png" group-title="Arabic",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
@@ -73,73 +73,73 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
 #EXTINF:-1 tvg-id="MBC 4.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBC4.png"group-title="Arabic",MBC 4
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
-#EXTINF:-1 tvg-name="MBC 5"tvg-id="MBC5.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBC5.png"group-title="Arabic",MBC 5
+#EXTINF:-1 tvg-id="MBC5.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBC5.png"group-title="Arabic",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-name="MBC Bollywood"tvg-id="MBCBollywood.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCBollywood.png"group-title="Movies",MBC Bollywood
+#EXTINF:-1 tvg-id="MBCBollywood.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCBollywood.png"group-title="Movies",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-name="MBC Drama"tvg-id="MBC Drama.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png"group-title="Arabic",MBC Drama
+#EXTINF:-1 tvg-id="MBC Drama.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png"group-title="Arabic",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
-#EXTINF:-1 tvg-name="MBC Masr 1"tvg-id="MBC Masr.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png"group-title="Arabic",MBC Masr 1
+#EXTINF:-1 tvg-id="MBC Masr.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png"group-title="Arabic",MBC Masr 1
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164062
-#EXTINF:-1 tvg-name="MBC Masr 2"tvg-id="MBC Masr 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png"group-title="Arabic",MBC Masr 2
+#EXTINF:-1 tvg-id="MBC Masr 2.ar"tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png"group-title="Arabic",MBC Masr 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 tvg-name="MBC Plus Drama"tvg-id="MBCDramaPlus.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png"group-title="Arabic",MBC Plus Drama
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae"tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png"group-title="Arabic",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAB.png" group-title="Arabic",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Documentary"tvg-id="Al Jazeera Documentary HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/JazeeraDocumentary.png"group-title="Arabic",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-name="Alaraby TV"tvg-id="Al Araby HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby.png"group-title="Arabic",Alaraby TV
+#EXTINF:-1 tvg-id="Al Araby HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby.png"group-title="Arabic",Alaraby TV
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:-1 tvg-name="Alaraby 2 TV"tvg-id="Al Araby 2 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby2.png"group-title="Arabic",Alaraby TV 2
+#EXTINF:-1 tvg-id="Al Araby 2 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby2.png"group-title="Arabic",Alaraby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="FATAFEAT HD" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD
 http://4cms.cc:8080/fSHtj2yJ9pN7MT/dgN8MdVvmP/354371
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/218949.ts
-#EXTINF:-1 tvg-name="Echorouk TV"tvg-id="Echorouk TV HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png"group-title="Arabic",Echorouk TV
+#EXTINF:-1 tvg-id="Echorouk TV HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png"group-title="Arabic",Echorouk TV
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219193.ts
-#EXTINF:-1 tvg-name="Echorouk News"tvg-id="Echorouk News.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukNews.png"group-title="Arabic",Echorouk News
+#EXTINF:-1 tvg-id="Echorouk News.ar"tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukNews.png"group-title="Arabic",Echorouk News
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/218226.ts
-#EXTINF:-1 tvg-name="El Bilad"tvg-id="ElBilad.dz"tvg-logo="https://mchoumi.github.io/LOGOs/ElBilad.png"group-title="Arabic",El Bilad
+#EXTINF:-1 tvg-id="ElBilad.dz"tvg-logo="https://mchoumi.github.io/LOGOs/ElBilad.png"group-title="Arabic",El Bilad
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/218227.ts
-#EXTINF:-1 tvg-name="Ennahar TV"tvg-id="Ennahar TV.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Ennahar.png"group-title="Arabic",Ennahar TV
+#EXTINF:-1 tvg-id="Ennahar TV.ar"tvg-logo="https://mchoumi.github.io/LOGOs/Ennahar.png"group-title="Arabic",Ennahar TV
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/213501.ts
-#EXTINF:-1 tvg-name="ENTV"tvg-id="ENTV.dz"tvg-logo="https://mchoumi.github.io/LOGOs/TV1.png"group-title="Arabic",Algerie TV1
+#EXTINF:-1 tvg-id="ENTV.dz"tvg-logo="https://mchoumi.github.io/LOGOs/TV1.png"group-title="Arabic",Algerie TV1
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/218447.ts
-#EXTINF:-1 tvg-name="Algerie TV2"tvg-id="Algérie 2 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/TV2.png"group-title="Arabic",Algerie TV2
+#EXTINF:-1 tvg-id="Algérie 2 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/TV2.png"group-title="Arabic",Algerie TV2
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219539.ts
-#EXTINF:-1 tvg-name="Algerie TV3"tvg-id="Algérie 3 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/TV3.png"group-title="Arabic",Algerie TV3
+#EXTINF:-1 tvg-id="Algérie 3 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/TV3.png"group-title="Arabic",Algerie TV3
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219540.ts
-#EXTINF:-1 tvg-name="Algerie TV6"tvg-id="Algérie 6 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/TV6.png"group-title="Arabic",Algerie TV6
+#EXTINF:-1 tvg-id="Algérie 6 HD.ar"tvg-logo="https://mchoumi.github.io/LOGOs/TV6.png"group-title="Arabic",Algerie TV6
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219543.ts
-#EXTINF:-1 tvg-name="Al Arabiya"tvg-id="AlArabiya.ae"tvg-logo="https://mchoumi.github.io/LOGOs/ArabiyaTV.png"group-title="Arabic",Al Arabiya
+#EXTINF:-1 tvg-id="AlArabiya.ae"tvg-logo="https://mchoumi.github.io/LOGOs/ArabiyaTV.png"group-title="Arabic",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Arabic"tvg-id="AlJazeeraArabic.qa"tvg-logo="https://mchoumi.github.io/LOGOs/Jazeera.png"group-title="Arabic",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa"tvg-logo="https://mchoumi.github.io/LOGOs/Jazeera.png"group-title="Arabic",Al Jazeera
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-name="Skynews Arabia"tvg-id="Skynews Arabia" tvg-logo="https://mchoumi.github.io/LOGOs/SkyNewsAR.png" group-title="Arabic",Skynews Arabia
+#EXTINF:-1 tvg-id="Skynews Arabia" tvg-logo="https://mchoumi.github.io/LOGOs/SkyNewsAR.png" group-title="Arabic",Skynews Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-name="BBC Arabic"tvg-id="BBCArabic.uk"tvg-logo="https://mchoumi.github.io/LOGOs/BBCArabic.png"group-title="Arabic",BBC Arabic
+#EXTINF:-1 tvg-id="BBCArabic.uk"tvg-logo="https://mchoumi.github.io/LOGOs/BBCArabic.png"group-title="Arabic",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-name="DW Arabic"tvg-id="DWArabic.de"tvg-logo="https://mchoumi.github.io/LOGOs/DWArabic.png"group-title="Arabic",DW Arabic
+#EXTINF:-1 tvg-id="DWArabic.de"tvg-logo="https://mchoumi.github.io/LOGOs/DWArabic.png"group-title="Arabic",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD"tvg-id="RotanaCinemaHD.sa"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png"group-title="Movies",Rotana Cinema HD
+#EXTINF:-1 tvg-id="RotanaCinemaHD.sa"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png"group-title="Movies",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-name="Rotana+ HD"tvg-id="Rotana+ HD"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaPlus.png"group-title="Arabic",Rotana+ HD
+#EXTINF:-1 tvg-id="Rotana+ HD"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaPlus.png"group-title="Arabic",Rotana+ HD
 https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema HD KSA"tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png"group-title="Movies",Rotana Cinema HD KSA
+#EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png"group-title="Movies",Rotana Cinema HD KSA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Comedy HD"tvg-id="Rotana Comedy ARB"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaComedy.png"group-title="Movies",Rotana Comedy HD
+#EXTINF:-1 tvg-id="Rotana Comedy ARB"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaComedy.png"group-title="Movies",Rotana Comedy HD
 https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
-#EXTINF:-1 tvg-name="Rotana Drama HD"tvg-id="Rotana Drama"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaDrama.png"group-title="Arabic",Rotana Drama HD
+#EXTINF:-1 tvg-id="Rotana Drama"tvg-logo="https://mchoumi.github.io/LOGOs/RotanaDrama.png"group-title="Arabic",Rotana Drama HD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#EXTINF:-1 tvg-name="RT Arabic"tvg-id="RTArabic.ru"tvg-logo="https://mchoumi.github.io/LOGOs/RTArabic.png"group-title="Arabic",RT Arabic
+#EXTINF:-1 tvg-id="RTArabic.ru"tvg-logo="https://mchoumi.github.io/LOGOs/RTArabic.png"group-title="Arabic",RT Arabic
 http://rt-arab.secure.footprint.net:80/1104.m3u8
-#EXTINF:-1 tvg-name="TRT Arabi"tvg-id="TRT Arabi" tvg-logo="https://mchoumi.github.io/LOGOs/TRTArabic.png" group-title="Arabic",TRT Arabi
+#EXTINF:-1 tvg-id="TRT Arabi" tvg-logo="https://mchoumi.github.io/LOGOs/TRTArabic.png" group-title="Arabic",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Nature Time"tvg-id="Nature Time"tvg-logo="https://mchoumi.github.io/LOGOs/Nature.png"group-title="Arabic",Nature Time
+#EXTINF:-1 tvg-id="Nature Time"tvg-logo="https://mchoumi.github.io/LOGOs/Nature.png"group-title="Arabic",Nature Time
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
-#EXTINF:-1 tvg-name="Asharq Discovery"tvg-id="Asharq Discovery"tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDiscovery.png"group-title="Arabic",Asharq Discovery
+#EXTINF:-1 tvg-id="Asharq Discovery"tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDiscovery.png"group-title="Arabic",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Asharq Documentary"tvg-id="Asharq Documentaries.ar"tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDocumentary.webp"group-title="Arabic",Asharq Documentary
+#EXTINF:-1 tvg-id="Asharq Documentaries.ar"tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDocumentary.webp"group-title="Arabic",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
