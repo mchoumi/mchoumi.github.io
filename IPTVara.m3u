@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://www.bevy.be/bevyfiles/arabia.xml.gz"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/arabia.xml.gz"
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164056
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
