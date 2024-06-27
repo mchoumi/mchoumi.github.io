@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/arabia.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz", url-tvg="https://www.bevy.be/bevyfiles/arabia.xml.gz"
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164056
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
@@ -143,3 +143,44 @@ https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Asharq Documentaries.ar" tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDocumentary.webp" group-title="Arabic",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+ 
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127274
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127275
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127276
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127278
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127279
+#EXTINF:-1 tvg-id="TV5 Style US" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/94360
+#EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5 Monde Maghreb" tvg-logo="https://mchoumi.github.io/LOGOs/TV5MondeAR.png" group-title="France",TV5Monde Maghreb Orient
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127282
+#EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127281
+#EXTINF:-1 tvg-id="7.A.LIMOGES.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Limoges.png" group-title="France",7Limoges
+https://ythlsgo.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
+#EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Monde.png" group-title="France",TV5 Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
+http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202638
+#EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
+http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127287
+#EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9324.ts
+#EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
+http://s1.czxbexchange.xyz:8080/live/87220921/86624385/100292.ts
+#EXTINF:-1  tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/FranceInfo.png",Franceinfo
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
+#EXTINF:-1  tvg-id="EuronewsFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Euronews.png",Euronews
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="CNews.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CNews.png",CNews
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/CNEWS.m3u8
+#EXTINF:-1  tvg-id="France24French.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/France24.png",France 24
+http://81.94.196.204/tsstreamer/France24_HD.ts
