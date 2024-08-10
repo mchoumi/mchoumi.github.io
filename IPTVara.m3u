@@ -206,7 +206,6 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 #EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
-
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title=“Sports”,BEIN SPORTS NEWS
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/22460.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 MAX FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title=“Sports”,BEIN SPORTS 2 MAX FHD
