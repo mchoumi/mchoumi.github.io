@@ -206,121 +206,122 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 #EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sport",BEIN SPORTS NEWS
+
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title=“Sports”,BEIN SPORTS NEWS
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/22460.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 MAX FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sport",BEIN SPORTS 2 MAX FHD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 MAX FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title=“Sports”,BEIN SPORTS 2 MAX FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124077.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 MAX SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sport",BEIN SPORTS 4 MAX SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 MAX SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title=“Sports”,BEIN SPORTS 4 MAX SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124085.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sport",BEIN SPORTS NEWS HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title=“Sports”,BEIN SPORTS NEWS HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9152.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS FHD " tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sport",BEIN SPORTS NEWS FHD 
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS NEWS FHD " tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title=“Sports”,BEIN SPORTS NEWS FHD 
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/92512.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title="Sport",BEIN SPORTS GLOBAL
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title=“Sports”,BEIN SPORTS GLOBAL
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9156.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS GLOBAL HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title="Sport",BEIN SPORTS GLOBAL HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS GLOBAL HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title=“Sports”,BEIN SPORTS GLOBAL HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30750.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title="Sport",BEIN SPORTS GLOBAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title=“Sports”,BEIN SPORTS GLOBAL FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/92511.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sport",BEIN SPORTS 1 SD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title=“Sports”,BEIN SPORTS 1 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32008.ts
-#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sport",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title=“Sports”,BEIN SPORTS 1 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9146.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sport",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title=“Sports”,BEIN SPORTS 1 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9131.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sport",BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title=“Sports”,BEIN SPORTS 1 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9147.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sport",BEIN SPORTS 1 FHD HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title=“Sports”,BEIN SPORTS 1 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/39224.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sport",BEIN SPORTS 1 FHD 4K
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title=“Sports”,BEIN SPORTS 1 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30756.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS  2 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sport",BEIN SPORTS  2 SD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS  2 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title=“Sports”,BEIN SPORTS  2 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32007.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sport",BEIN SPORTS 2 SD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title=“Sports”,BEIN SPORTS 2 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32014.ts
-#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sport",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title=“Sports”,BEIN SPORTS 2 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9148.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sport",BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title=“Sports”,BEIN SPORTS 2 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9135.ts
-#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="BEIN SPORTS 2 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sport",BEIN SPORTS 2 FHD 4K
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="BEIN SPORTS 2 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title=“Sports”,BEIN SPORTS 2 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30751.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  2 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sport",BEIN SPORTS  2 FHD 4K
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  2 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title=“Sports”,BEIN SPORTS  2 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30757.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sport",BEIN SPORTS 2 FHD HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title=“Sports”,BEIN SPORTS 2 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/39225.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sport",BEIN SPORTS 3 SD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title=“Sports”,BEIN SPORTS 3 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32006.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sport",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title=“Sports”,BEIN SPORTS 3 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9136.ts
-#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sport",BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title=“Sports”,BEIN SPORTS 3 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9151.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sport",BEIN SPORTS 3 FHD 4K
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title=“Sports”,BEIN SPORTS 3 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30758.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sport",BEIN SPORTS 3 FHD HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title=“Sports”,BEIN SPORTS 3 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28267.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sport",BEIN SPORTS 4 SD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title=“Sports”,BEIN SPORTS 4 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32012.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sport",BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title=“Sports”,BEIN SPORTS 4 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9138.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sport",BEIN SPORTS 4 FHD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title=“Sports”,BEIN SPORTS 4 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/103764.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sport",BEIN SPORTS 4 FHD 4K
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title=“Sports”,BEIN SPORTS 4 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30755.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sport",BEIN SPORTS 4 FHD HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title=“Sports”,BEIN SPORTS 4 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28268.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sport",BEIN SPORTS 5 SD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title=“Sports”,BEIN SPORTS 5 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32011.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sport",BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title=“Sports”,BEIN SPORTS 5 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9140.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sport",BEIN SPORTS 5 FHD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title=“Sports”,BEIN SPORTS 5 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9141.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sport",BEIN SPORTS 5 FHD 4K
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title=“Sports”,BEIN SPORTS 5 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30754.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sport",BEIN SPORTS 5 FHD HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title=“Sports”,BEIN SPORTS 5 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28269.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sport",BEIN SPORTS 6 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title=“Sports”,BEIN SPORTS 6 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9142.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sport",BEIN SPORTS 6 FHD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title=“Sports”,BEIN SPORTS 6 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9143.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sport",BEIN SPORTS 6 FHD 4K
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title=“Sports”,BEIN SPORTS 6 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30759.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sport",BEIN SPORTS 6 FHD HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title=“Sports”,BEIN SPORTS 6 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28270.ts
-#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sport",BEIN SPORTS 6 SD
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title=“Sports”,BEIN SPORTS 6 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124095.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sport",BEIN SPORTS 7 SD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title=“Sports”,BEIN SPORTS 7 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32009.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sport",BEIN SPORTS 7 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title=“Sports”,BEIN SPORTS 7 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9144.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sport",BEIN SPORTS 7 FHD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title=“Sports”,BEIN SPORTS 7 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9145.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sport",BEIN SPORTS 7 FHD 4K
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title=“Sports”,BEIN SPORTS 7 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30760.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sport",BEIN SPORTS 7 FHD HEVC
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title=“Sports”,BEIN SPORTS 7 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/28271.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsEN1.png" group-title="Sport",BEIN SPORTS ENGLISH 1 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsEN1.png" group-title=“Sports”,BEIN SPORTS ENGLISH 1 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9153.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsEN2.png" group-title="Sport",BEIN SPORTS ENGLISH 2 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsEN2.png" group-title=“Sports”,BEIN SPORTS ENGLISH 2 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9154.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsEN3.png" group-title="Sport",BEIN SPORTS ENGLISH 3 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsEN3.png" group-title=“Sports”,BEIN SPORTS ENGLISH 3 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9155.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsXtra1.png" group-title="Sport",BEIN SPORTS XTRA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsXtra1.png" group-title=“Sports”,BEIN SPORTS XTRA 1 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/119957.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsXtra2.png" group-title="Sport",BEIN SPORTS XTRA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsXtra2.png" group-title=“Sports”,BEIN SPORTS XTRA 2 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/119958.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsFR1.png" group-title="Sport",BEIN SPORTS FRENCH 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsFR1.png" group-title=“Sports”,BEIN SPORTS FRENCH 1 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124099.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsFR2.png" group-title="Sport",BEIN SPORTS FRENCH 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsFR2.png" group-title=“Sports”,BEIN SPORTS FRENCH 2 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124097.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsFR3.png" group-title="Sport",BEIN SPORTS FRENCH 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsFR3.png" group-title=“Sports”,BEIN SPORTS FRENCH 3 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124098.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sport",BEIN SPORTS 8 SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title=“Sports”,BEIN SPORTS 8 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sport",BEIN SPORTS 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title=“Sports”,BEIN SPORTS 8 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279955.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sport",BEIN SPORTS 8 FHD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title=“Sports”,BEIN SPORTS 8 FHD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279956.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sport",BEIN SPORTS 8 FHD 4K
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title=“Sports”,BEIN SPORTS 8 FHD 4K
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279961.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sport",BEIN SPORTS 8 FHD HEVC
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title=“Sports”,BEIN SPORTS 8 FHD HEVC
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279962.ts
