@@ -207,22 +207,6 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 #EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32008.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sports",BEIN SPORTS 2 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32014.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sports",BEIN SPORTS 3 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32006.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sports",BEIN SPORTS 4 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32012.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sports",BEIN SPORTS 5 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32011.ts
-#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sports",BEIN SPORTS 6 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124095.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sports",BEIN SPORTS 7 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32009.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts
 
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/9146.ts
@@ -322,3 +306,20 @@ http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124077.ts
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124085.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS GLOBAL HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title="Sports",BEIN SPORTS GLOBAL HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30750.ts
+
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32008.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sports",BEIN SPORTS 2 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32014.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sports",BEIN SPORTS 3 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32006.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sports",BEIN SPORTS 4 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32012.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sports",BEIN SPORTS 5 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32011.ts
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sports",BEIN SPORTS 6 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124095.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sports",BEIN SPORTS 7 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32009.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts
