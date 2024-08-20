@@ -116,12 +116,12 @@ http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219539.ts
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219540.ts
 #EXTINF:-1 tvg-id="Algérie 6 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV6.png" group-title="Arabic",Algerie TV6
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219543.ts
-#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://mchoumi.github.io/LOGOs/ArabiyaTV.png" group-title="Arabic",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-logo="https://mchoumi.github.io/LOGOs/Jazeera.png" group-title="Arabic",Al Jazeera
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="Skynews Arabia" tvg-logo="https://mchoumi.github.io/LOGOs/SkyNewsAR.png" group-title="Arabic",Skynews Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://mchoumi.github.io/LOGOs/ArabiyaTV.png" group-title="Arabic",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://mchoumi.github.io/LOGOs/BBCArabic.png" group-title="Arabic",BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://mchoumi.github.io/LOGOs/DWArabic.png" group-title="Arabic",DW Arabic
@@ -166,7 +166,7 @@ http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127282
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127281
 #EXTINF:-1 tvg-id="Science.et.Vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie
-http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/9504.ts
+http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/9229.ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202638
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
