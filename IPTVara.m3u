@@ -39,20 +39,18 @@ http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67253.ts
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67282.ts
 #EXTINF:-1 tvg-id="OSN BOX 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/OSN_Box_Office_3.png/revision/latest?cb=20111116204328" group-title="Movies",OSN BOX OFFICE 03
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67283.ts
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/15927.ts
 #EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA CINEMA HD
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115311
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/471107
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/Aflam.webp" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
-#EXTINF:-1 tvg-id="Multies Cinema" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Cinema
-http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/792.m3u8
-#EXTINF:-1 tvg-id="Multies Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Comedy
-http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/793.m3u8
-#EXTINF:-1 tvg-id="Multies Aflam 1" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Aflam 1
-http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/751.m3u8
-#EXTINF:-1 tvg-id="Multies Aflam 2" tvg-logo="https://mchoumi.github.io/LOGOs/Multies.jfif" group-title="Movies",Multies Aflam 2
-http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/752.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png" group-title="Movies",Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaComedy.png" group-title="Movies",Rotana Comedy HD
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
@@ -66,8 +64,6 @@ https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playl
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
-https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://mchoumi.github.io/LOGOs/NourDubai.png" group-title="Arabic",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 1.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png" group-title="Arabic",MBC 1
@@ -130,10 +126,6 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="Rotana+ HD" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaPlus.png" group-title="Arabic",Rotana+ HD
 https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png" group-title="Movies",Rotana Cinema HD KSA
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaComedy.png" group-title="Movies",Rotana Comedy HD
-https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 #EXTINF:-1 tvg-id="Rotana Drama" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaDrama.png" group-title="Arabic",Rotana Drama HD
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://mchoumi.github.io/LOGOs/RTArabic.png" group-title="Arabic",RT Arabic
