@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://www.bevy.be/bevyfiles/arabia.xml.gz"
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164056
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/64201.ts
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164065
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/16395.ts
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/164060
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/101935.ts
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesAction.webp" group-title="Movies",MBC Movies Action
@@ -28,13 +28,13 @@ http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/131807.ts
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/394059
 #EXTINF:-1 tvg-id="01TV.fr" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
-http://vo01.mohdtv.com:8880/live/voby5053/69857675/69411.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/952.ts
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115305
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/46949.ts
 #EXTINF:-1 tvg-id="100NLTV.nl" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115306
 #EXTINF:-1 tvg-id="01TV.fr" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67253.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/46954.ts
 #EXTINF:-1 tvg-id="OSN BOX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/OSN_Box_Office_2.png/revision/latest?cb=20111116204216" group-title="Movies",OSN BOX OFFICE 02
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/67282.ts
 #EXTINF:-1 tvg-id="OSN BOX 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/OSN_Box_Office_3.png/revision/latest?cb=20111116204328" group-title="Movies",OSN BOX OFFICE 03
@@ -44,7 +44,7 @@ http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/15927.ts
 #EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA CINEMA HD
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115311
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/471107
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/955.ts
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/Aflam.webp" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png" group-title="Movies",Rotana Cinema HD KSA
@@ -140,29 +140,28 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
  
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/634532
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9210.ts
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127275
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9546.ts
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127276
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9545.ts
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127278
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9544.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127279
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9543.ts
 #EXTINF:-1 tvg-id="TV5 Style US" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/94360
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127282
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9531.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127281
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9590.ts
 #EXTINF:-1 tvg-id="Science.et.Vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie
 http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/9229.ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202638
-#EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/127287
+#EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8 http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/51171.ts
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
 http://4kgoott.com:2052/play/live.php?mac=00:1A:79:6D:65:C7&stream=10533&extension=ts
 #EXTINF:-1  tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
