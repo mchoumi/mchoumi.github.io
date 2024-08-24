@@ -140,25 +140,25 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
  
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9210.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/89568.ts
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9546.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/3281.ts
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9545.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/3283.ts
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9544.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/3305.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9543.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/3285.ts
 #EXTINF:-1 tvg-id="TV5 Style US" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/94360
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9531.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/3287.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/9590.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/3291.ts
 #EXTINF:-1 tvg-id="Science.et.Vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie
-http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/9229.ts
+http://sf.bleutv.net:8080/live/172013642865708/172014201193608/37353.ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202638
 #EXTINF:-1  tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8 http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/51171.ts
