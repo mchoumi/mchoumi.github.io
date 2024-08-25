@@ -146,7 +146,7 @@ http://f1.millenium-ott.com/live/AWAL2711/LRQD7BO9E0/9546.ts
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
 http://f1.millenium-ott.com/live/AWAL2711/LRQD7BO9E0/9545.ts
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
-http://f1.millenium-ott.com/live/AWAL2711/LRQD7BO9E0/9544.ts
+http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202467.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
 http://f1.millenium-ott.com/live/AWAL2711/LRQD7BO9E0/9543.ts
 #EXTINF:-1 tvg-id="TV5 Style US" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA
@@ -156,7 +156,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
 http://f1.millenium-ott.com/live/AWAL2711/LRQD7BO9E0/9531.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
-http://f1.millenium-ott.com/live/AWAL2711/LRQD7BO9E0/9590.ts
+http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202629.ts
 #EXTINF:-1 tvg-id="Science.et.Vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie
 http://f1.millenium-ott.com/live/AWAL2711/LRQD7BO9E0/9504.ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
