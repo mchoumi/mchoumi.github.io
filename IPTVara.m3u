@@ -153,8 +153,8 @@ http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202466.ts
 http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202467.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
 http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202468.ts
-#EXTINF:-1 tvg-id="TV5 Style US" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/94360
+#EXTINF:-1 tvg-id="TV5 Style CA" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/118334
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
