@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://www.bevy.be/bevyfiles/arabia.xml.gz"
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
-http://tvone.millenium-ott.com:25443/live/NOUX84/2GHMLC7Y12/15886.ts
+http://cod.ma:37500/live/267327538872/966361189200/74936.ts
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
+http://cod.ma:37500/live/267327538872/966361189200/63592.ts
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
 http://tvone.millenium-ott.com:25443/live/NOUX84/2GHMLC7Y12/15879.ts
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
@@ -32,9 +34,9 @@ http://sf.bleutv.net:8080/live/172013642865708/172014201193608/952.ts
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/2166.ts
 #EXTINF:-1 tvg-id="100NLTV.nl" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE
-http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115306
+http://cod.ma:37500/live/267327538872/966361189200/83000.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
-http://sf.bleutv.net:8080/live/172013642865708/172014201193608/46954.ts
+http://cod.ma:37500/live/267327538872/966361189200/83001.ts
 #EXTINF:-1 tvg-id="OSN BOX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/OSN_Box_Office_3.png/revision/latest?cb=20111116204328" group-title="Movies",OSN BOX OFFICE 01
 http://tvone.millenium-ott.com:25443/live/NOUX84/2GHMLC7Y12/67281.ts
 #EXTINF:-1 tvg-id="OSN BOX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/OSN_Box_Office_2.png/revision/latest?cb=20111116204216" group-title="Movies",OSN BOX OFFICE 02
@@ -42,7 +44,7 @@ http://tvone.millenium-ott.com:25443/live/NOUX84/2GHMLC7Y12/67282.ts
 #EXTINF:-1 tvg-id="OSN BOX 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/OSN_Box_Office_3.png/revision/latest?cb=20111116204328" group-title="Movies",OSN BOX OFFICE 03
 http://tvone.millenium-ott.com:25443/live/NOUX84/2GHMLC7Y12/67283.ts
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
-http://vo01.mohdtv.com:8880/live/voby5053/69857675/2191.ts
+http://cod.ma:37500/live/267327538872/966361189200/142178.ts
 #EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA CINEMA HD
 http://sky-tv.org:88/02021925726261/8ETUZQPXOXATUSY/115311
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam
@@ -95,7 +97,7 @@ https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b11
 #EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby2.png" group-title="Arabic",Alaraby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Fatafeat.qa" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD
-http://4cms.cc:8080/fSHtj2yJ9pN7MT/dgN8MdVvmP/354371
+http://cod.ma:37500/live/267327538872/966361189200/140074.ts
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/218949.ts
 #EXTINF:-1 tvg-id="Echorouk TV HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png" group-title="Arabic",Echorouk TV
