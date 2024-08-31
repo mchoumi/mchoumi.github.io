@@ -39,21 +39,21 @@ http://cod.ma:37500/live/267327538872/966361189200/83000.ts
 http://cod.ma:37500/live/267327538872/966361189200/83001.ts
 
 #EXTINF:-1 tvg-id="beinOD1" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN OnDemand1
-http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/369003.ts
+http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/369003.ts?play_token=NnuYKNncdu
 #EXTINF:-1 tvg-id="beinOD2" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN OnDemand2
-http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/369002.ts
+http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/369002.ts?play_token=NnuYKNncdu
 #EXTINF:-1 tvg-id="beinOD3" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN OnDemand3
-http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/369001.ts
+http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/369001.ts?play_token=NnuYKNncdu
 #EXTINF:-1 tvg-id="beinOD4" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN OnDemand4
-http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/369000.ts
+http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/369000.ts?play_token=NnuYKNncdu
 #EXTINF:-1 tvg-id="beinOD5" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN OnDemand5
-http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/368999.ts
+http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/368999.ts?play_token=NnuYKNncdu
 #EXTINF:-1 tvg-id="beinOD6" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN OnDemand6
-http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/368998.ts
+http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/368998.ts?play_token=NnuYKNncdu
 #EXTINF:-1 tvg-id="beinOD7" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN OnDemand7
-http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/368997.ts
+http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/368997.ts?play_token=NnuYKNncdu
 #EXTINF:-1 tvg-id="beinOD8" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN OnDemand8
-http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/368996.ts
+http://main.light-ott.net:80/live/P3EWK4/LfJR4q7Trg/368996.ts?play_token=NnuYKNncdu
 
 #EXTINF:-1 tvg-id="OSN BOX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/OSN_Box_Office_3.png/revision/latest?cb=20111116204328" group-title="Movies",OSN BOX OFFICE 01
 http://tvone.millenium-ott.com:25443/live/NOUX84/2GHMLC7Y12/67281.ts
