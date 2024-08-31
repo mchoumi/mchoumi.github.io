@@ -185,17 +185,16 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 #EXTINF:-1 tvg-id="MBC3EUR.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia
-http://cod.ma:37500/live/267327538872/966361189200/74863.ts
+http://sansat.net:88/live/1364307081/1364307081/126298.ts
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel AR
 http://4kgoott.com:2052/play/live.php?mac=00:1A:79:6D:65:C7&stream=459083&extension=ts
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="Kids",FRANCE 4
-http://revteam11.offshorerev.cc:80/mag00:1A:79:3E:26:89/Tj3AR7TiDS/202467
+http://sansat.net:88/live/1364307081/1364307081/127278.ts
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon
 http://cod.ma:37500/live/267327538872/966361189200/154173.ts
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/GulliAR.png" group-title="Kids":http-user-agent="",Gulli Bil Arabi
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/67289.ts
 #EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",Tiji
-
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
 
