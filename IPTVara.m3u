@@ -181,19 +181,19 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV
 http://sf.bleutv.net:8080/live/172013642865708/172014201193608/60183.ts
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/67518.ts
 #EXTINF:-1 tvg-id="MBC3EUR.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia
-http://sansat.net:88/live/1364307081/1364307081/126298.ts
+http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/138991.ts
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel AR
 http://4kgoott.com:2052/play/live.php?mac=00:1A:79:6D:65:C7&stream=459083&extension=ts
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="Kids",FRANCE 4
-http://sansat.net:88/live/1364307081/1364307081/127278.ts
+http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/9544.ts
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon
 http://cod.ma:37500/live/267327538872/966361189200/154173.ts
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/GulliAR.png" group-title="Kids":http-user-agent="",Gulli Bil Arabi
-http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/67289.ts
+http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/67289.ts
 #EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
