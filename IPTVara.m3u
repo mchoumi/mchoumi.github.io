@@ -154,7 +154,7 @@ http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/118334
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
-http://556677.ovh:25461/live/mz5oov2d/ruyu4pn5/114331.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=543158&extension=ts&play_token=zHKHb8xZUj
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131098
 #EXTINF:-1 tvg-id="Science.et.Vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie
