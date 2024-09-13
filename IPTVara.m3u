@@ -178,14 +178,14 @@ http://81.94.196.204/tsstreamer/France24_HD.ts
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV
 http://sf.bleutv.net:8080/live/172013642865708/172014201193608/60183.ts
+#EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=584384&extension=ts&play_token=h6m9NFiqM1
+#EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=584383&extension=ts&play_token=DZEfOv2tCN
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3
 http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/67518.ts
-#EXTINF:-1 tvg-id="MBC3EUR.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 EUR
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia
 http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/138991.ts
-#EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel AR
-http://4kgoott.com:2052/play/live.php?mac=00:1A:79:6D:65:C7&stream=459083&extension=ts
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="Kids",FRANCE 4
 http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/9544.ts
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon
