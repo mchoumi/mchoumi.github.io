@@ -97,7 +97,7 @@ https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist
 #EXTINF:-1 tvg-id="Fatafeat.qa" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD
 http://cod.ma:37500/live/267327538872/966361189200/140074.ts
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV
-http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/218949.ts
+http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/218229.ts
 #EXTINF:-1 tvg-id="Echorouk TV HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png" group-title="Arabic",Echorouk TV
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219193.ts
 #EXTINF:-1 tvg-id="Echorouk News.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukNews.png" group-title="Arabic",Echorouk News
@@ -157,14 +157,14 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=543158&extension=t
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131098
 #EXTINF:-1 tvg-id="Science.et.Vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131290
+#EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
+http://4kgoott.com:2052/play/live.php?mac=00:1A:79:6D:65:C7&stream=10533&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
+http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:E1:13:5C&stream=37834&extension=ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
 http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202638
 #EXTINF:-1 tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
 http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/51171.ts
-#EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
-http://4kgoott.com:2052/play/live.php?mac=00:1A:79:6D:65:C7&stream=10533&extension=ts
-#EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
-http://sansat.net:88/live/1364307081/1364307081/126810.ts
 #EXTINF:-1 tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/FranceInfo.png",Franceinfo
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Euronews.png",Euronews
