@@ -222,11 +222,11 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=584384&extension=t
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=584383&extension=ts&play_token=DZEfOv2tCN
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3
-http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/67518.ts
+http://s245.cc:2095/live/space13156/Aas12345678/122997.ts
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia
-http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=582831&extension=ts&play_token=QcyNooDgVp
+http://s245.cc:2095/live/space13156/Aas12345678/97130.ts
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="Kids",FRANCE 4
-http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/9544.ts
+http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202467.ts
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon
 http://cod.ma:37500/live/267327538872/966361189200/154173.ts
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/GulliAR.png" group-title="Kids":http-user-agent="",Gulli Bil Arabi
