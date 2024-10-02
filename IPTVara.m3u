@@ -6,11 +6,11 @@ http://s245.cc:2095/live/space13156/Aas12345678/123004.ts
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
 http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/48705.ts
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
-https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesAction.webp" group-title="Movies",MBC Movies Action
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesThriller.webp" group-title="Movies",MBC Movies Thriller
-https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_4.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
 
 #EXTINF:-1 tvg-id="SPARK Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Premier
 http://s245.cc:2095/live/space13156/Aas12345678/249421.ts
