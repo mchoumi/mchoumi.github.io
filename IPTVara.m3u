@@ -195,9 +195,9 @@ http://xt2.xyz:19741/live/7148521977/0601202300/203436.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131098
 #EXTINF:-1 tvg-id="Science.et.Vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie
-http://xt2.xyz:19741/live/7148521977/0601202300/203950.ts
+http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/15129.ts
 #EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
-http://4kgoott.com:2052/play/live.php?mac=00:1A:79:6D:65:C7&stream=10533&extension=ts
+http://xt2.xyz:19741/live/7148521977/0601202300/203734.ts
 #EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
 http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:E1:13:5C&stream=37834&extension=ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
