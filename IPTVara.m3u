@@ -83,7 +83,7 @@ http://tvone.millenium-ott.com:25443/live/NOUX84/2GHMLC7Y12/67283.ts
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
 http://cod.ma:37500/live/267327538872/966361189200/142178.ts
 #EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA CINEMA HD
-http://sansat.net:88/live/1364307081/1364307081/115311.ts
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=925303&extension=ts&play_token=kZ14N1hCx3
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/2146.ts
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/Aflam.webp" group-title="Movies",MBC Aflam
@@ -98,9 +98,9 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 #EXTINF:-1 tvg-id="Emarat HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV
-http://mv3.cdn-dtv.com:80/live/soufiand_167041/FHdPmgtp/144.ts
+http://eveliu.top:8080/live/45170937824493/81714581850873/52913.ts
 #EXTINF:-1 tvg-id="Sama Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai
-http://mv3.cdn-dtv.com:80/live/soufiand_167041/FHdPmgtp/146.ts
+http://eveliu.top:8080/live/45170937824493/81714581850873/53208.ts
 #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2
