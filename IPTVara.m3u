@@ -213,7 +213,7 @@ http://s245.cc:2095/live/space13156/Aas12345678/227656.ts
 http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=584384&extension=ts&play_token=h6m9NFiqM1
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=584383&extension=ts&play_token=DZEfOv2tCN
-#EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Movies",beIN MOVIES HD 4 FAMILY
+#EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY
 http://vo01.mohdtv.com:8880/voby5053/69857675/2125
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",OSN Kids
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/125449
