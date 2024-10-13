@@ -58,9 +58,9 @@ http://sansat.net:88/live/1364307081/1364307081/394059.ts
 #EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
 http://cod.ma:37500/live/267327538872/966361189200/82999.ts
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
-http://vo01.mohdtv.com:8880/live/voby5053/69857675/2166.ts
+http://yesimes.oknirvana.club:8880/live/48mk230011/92859655/2166.ts
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE
-http://cod.ma:37500/live/267327538872/966361189200/83000.ts
+http://s245.cc:2095/live/space13156/Aas12345678/30097.ts
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
 http://cod.ma:37500/live/267327538872/966361189200/83001.ts
 
@@ -70,8 +70,6 @@ http://vo01.mohdtv.com:8880/voby5053/69857675/2128
 http://vo01.mohdtv.com:8880/voby5053/69857675/2127
 #EXTINF:-1 tvg-id="beINMovies3Drama.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINDrama.png" group-title="Movies",beIN MOVIES HD 3 DRAMA
 http://vo01.mohdtv.com:8880/voby5053/69857675/2126
-#EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Movies",beIN MOVIES HD 4 FAMILY
-http://vo01.mohdtv.com:8880/voby5053/69857675/2125
 
 #EXTINF:-1 tvg-id="OSN BOX 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/OSN_Box_Office_3.png/revision/latest?cb=20111116204328" group-title="Movies",OSN BOX OFFICE 01
 http://tvone.millenium-ott.com:25443/live/NOUX84/2GHMLC7Y12/67281.ts
@@ -88,10 +86,6 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=925303&e
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/2146.ts
 #EXTINF:-1 tvg-id="MBC Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/Aflam.webp" group-title="Movies",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_3.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png" group-title="Movies",Rotana Cinema HD KSA
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaComedy.png" group-title="Movies",Rotana Comedy HD
-https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
@@ -214,11 +208,15 @@ http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249470.ts
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV
-http://sf.bleutv.net:8080/live/172013642865708/172014201193608/60183.ts
+http://s245.cc:2095/live/space13156/Aas12345678/227656.ts
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=584384&extension=ts&play_token=h6m9NFiqM1
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney Channel 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:A0:2C:F9&stream=584383&extension=ts&play_token=DZEfOv2tCN
+#EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Movies",beIN MOVIES HD 4 FAMILY
+http://vo01.mohdtv.com:8880/voby5053/69857675/2125
+#EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",OSN Kids
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/125449
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3
 http://s245.cc:2095/live/space13156/Aas12345678/122997.ts
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia
@@ -229,8 +227,6 @@ http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202467.ts
 http://cod.ma:37500/live/267327538872/966361189200/154173.ts
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/GulliAR.png" group-title="Kids":http-user-agent="",Gulli Bil Arabi
 http://tv.pro-ott.com:80/live/6585475477/3SG5Q95865/67289.ts
-#EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://mchoumi.github.io/LOGOs/Tiji.png" group-title="Kids":http-user-agent="",Tiji
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
 
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HD
