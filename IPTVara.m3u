@@ -15,7 +15,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1 tvg-id="SPARK Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Premier
 http://s245.cc:2095/live/space13156/Aas12345678/249421.ts
 #EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Action
-http://s245.cc:2095/live/space13156/Aas12345678/230732.ts
+http://dream4ktv.net:8080/play/live.php?mac=00:1A:79:5c:9d:10&stream=196120&extension=ts&play_token=2a0G5bx2XE
 #EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Movies
 http://s245.cc:2095/live/space13156/Aas12345678/230360.ts
 #EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Thriller
