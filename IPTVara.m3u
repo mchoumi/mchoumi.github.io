@@ -93,11 +93,11 @@ http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1287671
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/564044
 
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family
-http://sansat.net:88/live/1364307081/1364307081/394059.ts
+http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts
 #EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
 http://cod.ma:37500/live/267327538872/966361189200/82999.ts
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
-http://yesimes.oknirvana.club:8880/live/48mk230011/92859655/2166.ts
+http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/115305.ts
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE
 http://s245.cc:2095/live/space13156/Aas12345678/30097.ts
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
@@ -111,7 +111,7 @@ http://vo01.mohdtv.com:8880/voby5053/69857675/2127
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
 http://cod.ma:37500/live/267327538872/966361189200/142178.ts
 #EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA CINEMA HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=925303&extension=ts&play_token=kZ14N1hCx3
+http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/115316.ts
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam
 http://vo01.mohdtv.com:8880/live/voby5053/69857675/2146.ts
 
@@ -135,8 +135,6 @@ https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC5.png" group-title="Arabic",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCBollywood.png" group-title="Movies",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="MBC Drama.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png" group-title="Arabic",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
 #EXTINF:-1 tvg-id="MBC Masr.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png" group-title="Arabic",MBC Masr 1
@@ -189,8 +187,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://mchoumi.github.io/LOGOs/DWArabic.png" group-title="Arabic",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaHD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/RotanaCinema.png" group-title="Movies",Rotana Cinema HD
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://mchoumi.github.io/LOGOs/RTArabic.png" group-title="Arabic",RT Arabic
 http://rt-arab.secure.footprint.net:80/1104.m3u8
 #EXTINF:-1 tvg-id="TRT Arabi" tvg-logo="https://mchoumi.github.io/LOGOs/TRTArabic.png" group-title="Arabic",TRT Arabi
