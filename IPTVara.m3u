@@ -210,16 +210,16 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202201.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131098
+#EXTINF:-1 tvg-id="CANAL+.DOCS.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/677771
+#EXTINF:-1 tvg-id="Discovery.Channel.(F).fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131272
 #EXTINF:-1 tvg-id="Science.et.Vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie
 http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/15129.ts
 #EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
 http://xt2.xyz:19741/live/7148521977/0601202300/203734.ts
 #EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France
 http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:E1:13:5C&stream=37834&extension=ts
-#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://mchoumi.github.io/LOGOs/ParisPremiere.png" group-title="France",Paris Premiere
-http://revteam11.offshorerev.cc:80/vY1YMn0W/NQRFwnbnqi/202638
-#EXTINF:-1 tvg-id="C8.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/C8.png",C8
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/51171.ts
 #EXTINF:-1 tvg-id="Franceinfo.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/FranceInfo.png",Franceinfo
 http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249490.ts
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Euronews.png",Euronews
