@@ -12,14 +12,16 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesThriller.webp" group-title="Movies",MBC Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
 
-#EXTINF:-1 tvg-id="SPARK Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Premier
-http://s245.cc:2095/live/space54004/Aas12345678/249421.ts
-#EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Action
-http://dream4ktv.net:8080/play/live.php?mac=00:1A:79:5c:9d:10&stream=196120&extension=ts&play_token=2a0G5bx2XE
-#EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Movies
-http://s245.cc:2095/live/space54004/Aas12345678/230360.ts
-#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Spark Thriller
-http://s245.cc:2095/live/space54004/Aas12345678/230359.ts
+#EXTINF:-1 tvg-id="SPARK Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 1
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741747
+#EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 2
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741748
+#EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 3
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741749
+#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 4
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741751
+#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 5
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741752
 
 #EXTINF:-1 tvg-id="Canal+ Box Office1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Netflix Action
 http://4ut7i.king-box.tv:80/live/Bi0SRwK6mr/KdflEUSIyX/266042.ts
