@@ -18,7 +18,7 @@ http://vo01.mohdtv.com:8880/live/ALLChannelsc46ef002072c/23316527/2800.ts
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1287671
 #EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/564044
-#EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
+#EXTINF:-1 tvg-id="CANAL+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131204
 
 #EXTINF:-1 tvg-id="SkyCinema Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premier
@@ -127,8 +127,10 @@ http://vo01.mohdtv.com:8880/live/ALLChannelsc46ef002072c/23316527/2146.ts
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Emarat HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV http://yesimes.oknirvana.club:8880/live/48mk230011/92859655/27707.ts
-#EXTINF:-1 tvg-id="Sama Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai http://yesimes.oknirvana.club:8880/live/48mk230011/92859655/27368.ts
+#EXTINF:-1 tvg-id="Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV
+http://xt2.xyz:19741/live/7148521977/0601202300/142176.ts
+#EXTINF:-1 tvg-id="Sama Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai
+http://xt2.xyz:19741/live/7148521977/0601202300/142182.ts
 #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2
