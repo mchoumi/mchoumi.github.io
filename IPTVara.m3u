@@ -18,7 +18,7 @@ http://vo01.mohdtv.com:8880/live/ALLChannelsc46ef002072c/23316527/2800.ts
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1287671
 #EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/564044
-#EXTINF:-1 tvg-id="CANAL+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
+#EXTINF:-1 tvg-id="CANAL+.UHD.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131204
 
 #EXTINF:-1 tvg-id="SkyCinema Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premier
@@ -48,7 +48,7 @@ http://s245.cc:2095/live/space54004/Aas12345678/30097.ts
 http://cod.ma:37500/live/267327538872/966361189200/83001.ts
 
 #EXTINF:-1 tvg-id="Canal+ Box Office1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Netflix Action
-http://4ut7i.king-box.tv:80/live/Bi0SRwK6mr/KdflEUSIyX/266042.ts
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:22:b6:78&stream=642119&extension=ts&play_token=revz12D2Vm
 #EXTINF:-1 tvg-id="Canal+ Box Office2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office2
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1483873
 #EXTINF:-1 tvg-id="Canal+ Box Office3" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office3
