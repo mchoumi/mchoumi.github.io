@@ -12,16 +12,40 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesThriller.webp" group-title="Movies",MBC Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
 
-#EXTINF:-1 tvg-id="SPARK Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 1
+#EXTINF:-1 tvg-id="CANAL+.CINEMA.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema
+http://vo01.mohdtv.com:8880/live/ALLChannelsc46ef002072c/23316527/2800.ts
+#EXTINF:-1 tvg-id="CANAL+.BOX.OFFICE.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1287671
+#EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/564044
+#EXTINF:-1 tvg-id="CanalPlusFrance.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131204
+
+#EXTINF:-1 tvg-id="SkyCinema Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premier
+http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/149600.ts
+#EXTINF:-1 tvg-id="SkyCinema Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
+http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/149597.ts
+#EXTINF:-1 tvg-id="SPARK Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741747
-#EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 2
+#EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741748
-#EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 3
+#EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 3
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741749
-#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 4
+#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 4
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741751
-#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",SkyStore Premier 5
+#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 5
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741752
+
+#EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family
+http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts
+#EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
+http://cod.ma:37500/live/267327538872/966361189200/82999.ts
+#EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
+http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/115305.ts
+#EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE
+http://s245.cc:2095/live/space54004/Aas12345678/30097.ts
+#EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
+http://cod.ma:37500/live/267327538872/966361189200/83001.ts
 
 #EXTINF:-1 tvg-id="Canal+ Box Office1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Netflix Action
 http://4ut7i.king-box.tv:80/live/Bi0SRwK6mr/KdflEUSIyX/266042.ts
@@ -86,24 +110,6 @@ http://cod.ma:37500/live/267327538872/966361189200/204089.ts
 http://cod.ma:37500/live/267327538872/966361189200/204090.ts
 #EXTINF:-1 tvg-id="Canal Play 12" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 12
 http://cod.ma:37500/live/267327538872/966361189200/204091.ts
-
-#EXTINF:-1 tvg-id="CANAL+.CINEMA.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema
-http://vo01.mohdtv.com:8880/live/ALLChannelsc46ef002072c/23316527/2800.ts
-#EXTINF:-1 tvg-id="CANAL+.BOX.OFFICE.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office
-http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1287671
-#EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran
-http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/564044
-
-#EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family
-http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts
-#EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
-http://cod.ma:37500/live/267327538872/966361189200/82999.ts
-#EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
-http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/115305.ts
-#EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE
-http://s245.cc:2095/live/space54004/Aas12345678/30097.ts
-#EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
-http://cod.ma:37500/live/267327538872/966361189200/83001.ts
 
 #EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD 1 PREMIERE
 http://vo01.mohdtv.com:8880/voby5053/69857675/2128
