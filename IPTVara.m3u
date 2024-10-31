@@ -39,16 +39,19 @@ http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/741752
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family
 http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts
 #EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD
-http://cod.ma:37500/live/267327538872/966361189200/82999.ts
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/125445
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD
 http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/115305.ts
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE
-http://s245.cc:2095/live/space54004/Aas12345678/30097.ts
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/125447
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
 http://cod.ma:37500/live/267327538872/966361189200/83001.ts
 
-#EXTINF:-1 tvg-id="Canal+ Box Office1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Netflix Action
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:22:b6:78&stream=642119&extension=ts&play_token=revz12D2Vm
+#EXTINF:-1 tvg-id="HBO Max" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBO.png",HBO Max
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1446144
+#EXTINF:-1 tvg-id="HBO Top" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBO.png",HBO TOP10
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1446135
+
 #EXTINF:-1 tvg-id="Canal+ Box Office2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office2
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1483873
 #EXTINF:-1 tvg-id="Canal+ Box Office3" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office3
