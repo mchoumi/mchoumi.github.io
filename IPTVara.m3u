@@ -47,9 +47,9 @@ http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/125447
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY 
 http://cod.ma:37500/live/267327538872/966361189200/83001.ts
 
-#EXTINF:-1 tvg-id="HBO Max" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBO.png",HBO Max
+#EXTINF:-1 tvg-id="HBO Max" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO Max
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1446144
-#EXTINF:-1 tvg-id="HBO Top" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBO.png",HBO TOP10
+#EXTINF:-1 tvg-id="HBO Top" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO TOP10
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1446135
 
 #EXTINF:-1 tvg-id="Canal+ Box Office2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office2
