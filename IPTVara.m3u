@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://www.bevy.be/bevyfiles/arabia.xml.gz"
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
-http://goldip.xyz/live/iptvsd2725/2725dapter/74936.ts
+http://xt2.xyz:19741/live/7148521977/0601202300/74936.ts
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
 http://s245.cc:2095/live/space54004/Aas12345678/123004.ts
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
