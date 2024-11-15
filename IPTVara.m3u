@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
 http://xt2.xyz:19741/live/7148521977/0601202300/74936.ts
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
-http://s245.cc:2095/live/space54004/Aas12345678/123004.ts
+http://xt2.xyz:19741/live/7148521977/0601202300/74939.ts
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
 http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/48705.ts
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
@@ -251,13 +251,13 @@ http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/149594.ts
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney+ 2
 http://proabc.net/live/41120prv1703/kS5cJxh/29021.ts
 #EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY
-http://bornan.top:8080/live/0170800705019/11708007050279/25103.ts
+http://pro.netmos.ovh:7355/live/31520276685736029/P70@16riC!2206/25476.ts
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/125449
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3
-http://s245.cc:2095/live/space54004/Aas12345678/122997.ts
+http://pro.netmos.ovh:7355/live/31520276685736029/P70@16riC!2206/41070.ts
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia
-http://s245.cc:2095/live/space54004/Aas12345678/97130.ts
+http://pro.netmos.ovh:7355/live/31520276685736029/P70@16riC!2206/11270.ts
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="Kids",FRANCE 4
 http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202467.ts
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon
