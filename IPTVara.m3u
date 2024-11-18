@@ -13,7 +13,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
 
 #EXTINF:-1 tvg-id="CANAL+.CINEMA.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema
-http://vo01.mohdtv.com:8880/live/ALLChannelsc46ef002072c/23316527/2800.ts
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2800.ts
 #EXTINF:-1 tvg-id="CANAL+.BOX.OFFICE.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1287671
 #EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran
@@ -92,11 +92,11 @@ http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1483890
 #EXTINF:-1 tvg-id="Canal Play 1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 1
 http://goldip.xyz/live/iptvsd2725/2725dapter/204080.ts
 #EXTINF:-1 tvg-id="Canal Play 2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 2
-http://vo01.mohdtv.com:8880/live/voby5053/69857675/2814.ts
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2814.ts
 #EXTINF:-1 tvg-id="Canal Play 3" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 3
-http://vo01.mohdtv.com:8880/live/voby5053/69857675/2813.ts
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2813.ts
 #EXTINF:-1 tvg-id="Canal Play 4" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 4
-http://vo01.mohdtv.com:8880/live/voby5053/69857675/2812.ts
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2812.ts
 #EXTINF:-1 tvg-id="Canal Play 5" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 5
 http://goldip.xyz/live/iptvsd2725/2725dapter/204084.ts
 #EXTINF:-1 tvg-id="Canal Play 6" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 6
@@ -115,16 +115,16 @@ http://goldip.xyz/live/iptvsd2725/2725dapter/204090.ts
 http://goldip.xyz/live/iptvsd2725/2725dapter/204091.ts
 
 #EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD 1 PREMIERE
-http://vo01.mohdtv.com:8880/voby5053/69857675/2128
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2128
 #EXTINF:-1 tvg-id="beINMovies2Action.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINAction.png" group-title="Movies",beIN MOVIES HD 2 ACTION
-http://vo01.mohdtv.com:8880/ALLChannelsc46ef002072c/23316527/2127
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2127
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
-http://cod.ma:37500/live/267327538872/966361189200/142178.ts
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2191.ts
 #EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA CINEMA HD
 http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/115316.ts
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam
-http://vo01.mohdtv.com:8880/live/ALLChannelsc46ef002072c/23316527/2146.ts
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2146.ts
 
 #EXTINF:-1 tvg-id="Abu Dhabi HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
