@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/54382
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
-http://tv.pure-onetv.com:25443/live/C773442741/C773442741/15879.ts
+http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/48707.ts
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
 http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/48705.ts
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
