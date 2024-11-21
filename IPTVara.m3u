@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/54382
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
-http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/48707.ts
+http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/54373
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
 http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/48705.ts
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies
@@ -51,6 +51,9 @@ http://goldip.xyz/live/iptvsd2725/2725dapter/83004.ts
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1446144
 #EXTINF:-1 tvg-id="HBO Top" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO TOP10
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1446135
+
+#EXTINF:-1 tvg-id="Starzplay Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",STARZPLAY Action
+http://ktv.im:8080/live/William287263/Davidas7262636/51334.ts
 
 #EXTINF:-1 tvg-id="Canal+ Box Office2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office2
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/1483873
@@ -185,7 +188,7 @@ http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219540.ts
 #EXTINF:-1 tvg-id="Algérie 6 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV6.png" group-title="Arabic",Algerie TV6
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/219543.ts
 #EXTINF:-1 tvg-id="Nature Time" tvg-logo="https://mchoumi.github.io/LOGOs/Nature.png" group-title="Arabic",Nature Time
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
+http://ktv.im:8080/live/William287263/Davidas7262636/51305.ts
 #EXTINF:-1 tvg-id="Asharq Discovery" tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDiscovery.png" group-title="Arabic",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Asharq Documentaries.ar" tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDocumentary.webp" group-title="Arabic",Asharq Documentary
