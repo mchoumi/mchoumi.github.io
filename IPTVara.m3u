@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://www.bevy.be/bevyfiles/uaepremium2.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://www.bevy.be/bevyfiles/uaepremium2.xml.gz"
 #EXTINF:-1 tvg-id="MBC 2 HD.ua" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/54382
 #EXTINF:-1 tvg-id="MBC Max HD.ua" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
