@@ -21,7 +21,7 @@ http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/564044
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/131204
 
-#EXTINF:-1 tvg-id="SkyPremiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts
 #EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
 http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/149597.ts
