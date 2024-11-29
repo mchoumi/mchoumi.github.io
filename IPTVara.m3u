@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://www.bevy.be/bevyfiles/uaepremium2.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://www.bevy.be/bevyfiles/uaepremium3.xml.gz"
 #EXTINF:-1 tvg-id="MBC 2 HD.ua" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/54382
 #EXTINF:-1 tvg-id="MBC Max HD.ua" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max
@@ -248,19 +248,19 @@ http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249470.ts
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV
-http://s245.cc:2095/live/space54004/Aas12345678/227656.ts
-#EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Animation
+http://cod.kim:19741/live/742783959639/103915434161/140084.ts
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Animation
 http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/149594.ts
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney+ 2
-http://pro.netmos.ovh:7355/live/PR2335189926207/88576508109/67401.ts
+http://goldip.xyz/live/iptvsd2725/2725dapter/83029.ts
 #EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY
-http://pro.netmos.ovh:7355/live/PR2335189926207/88576508109/25476.ts
+http://cod.kim:19741/live/742783959639/103915434161/140057.ts
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids
 http://mag.redmytv.com:80/RmH8PVX1rZsYmgd/BySxAZrlu1/125449
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3
-http://pro.netmos.ovh:7355/live/PR2335189926207/88576508109/41070.ts
+http://cod.kim:19741/live/742783959639/103915434161/44739.ts
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia
-http://pro.netmos.ovh:7355/live/PR2335189926207/88576508109/11270.ts
+http://cod.kim:19741/live/742783959639/103915434161/74863.ts
 #EXTINF:-1 tvg-id="FRANCE4" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="Kids",FRANCE 4
 http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202467.ts
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon
