@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://www.bevy.be/bevyfiles/uaepremium3.xml.gz" 
 #EXTINF:-1 tvg-id="MBC 2 HD.ua" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/54382 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/54382 
 #EXTINF:-1 tvg-id="MBC Max HD.ua" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/54373 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/54373 
 #EXTINF:-1 tvg-id="MBC Action HD.ua" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action 
 http://goldip.xyz/live/iptvsd2725/2725dapter/63591.ts 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies 
@@ -15,82 +15,82 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1 tvg-id="CANAL+.CINEMA.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
 http://4kgoott.com:2052/live/Mokhtar202402/qqj2h5lx/164.ts 
 #EXTINF:-1 tvg-id="CANAL+.BOX.OFFICE.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1287671 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1287671 
 #EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/564044 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/564044 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/131204 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/131204 
 
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action 
 http://kingdong.uk:80/live/Johnny.mcconnell@yahoo.co.uk/zzzC9kJFtTyx/149597.ts 
 #EXTINF:-1 tvg-id="SPARK Premier" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741747 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/741747 
 #EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741748 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/741748 
 #EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 3 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741749 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/741749 
 #EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 4 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741751 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/741751 
 #EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 5 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741752 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/741752 
 
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family 
 http://sansat.net:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts 
 #EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/125445 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/125445 
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/125446 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/125446 
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/125447 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/125447 
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY  
 http://goldip.xyz/live/iptvsd2725/2725dapter/83004.ts 
 
 #EXTINF:-1 tvg-id="HBO Max" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO Max 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1446144 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1446144 
 #EXTINF:-1 tvg-id="HBO Top" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO TOP10 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1446135
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1446135
 
 #EXTINF:-1 tvg-id="Starzplay Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",STARZPLAY Action
 http://ktv.im:8080/live/William287263/Davidas7262636/51334.ts 
 
 #EXTINF:-1 tvg-id="Canal+ Box Office2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office2 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483873 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483873 
 #EXTINF:-1 tvg-id="Canal+ Box Office3" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office3 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483874 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483874 
 #EXTINF:-1 tvg-id="Canal+ Box Office4" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office4 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483875 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483875 
 #EXTINF:-1 tvg-id="Canal+ Box Office5" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office5 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483876 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483876 
 #EXTINF:-1 tvg-id="Canal+ Box Office6" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office6 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483877 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483877 
 #EXTINF:-1 tvg-id="Canal+ Box Office7" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office7 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483878 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483878 
 #EXTINF:-1 tvg-id="Canal+ Box Office8" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office8 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483879 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483879 
 #EXTINF:-1 tvg-id="Canal+ Box Office9" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office9 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483880 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483880 
 #EXTINF:-1 tvg-id="Canal+ Box Office10" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office10 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483881 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483881 
 #EXTINF:-1 tvg-id="Canal+ Box Office11" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office11 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483882 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483882 
 #EXTINF:-1 tvg-id="Canal+ Box Office12" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office12 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483883 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483883 
 #EXTINF:-1 tvg-id="Canal+ Box Office13" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office13 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483884 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483884 
 #EXTINF:-1 tvg-id="Canal+ Box Office14" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office14 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483885 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483885 
 #EXTINF:-1 tvg-id="Canal+ Box Office15" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office15 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483886 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483886 
 #EXTINF:-1 tvg-id="Canal+ Box Office16" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office16 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483887 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483887 
 #EXTINF:-1 tvg-id="Canal+ Box Office17" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office17 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483888 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483888 
 #EXTINF:-1 tvg-id="Canal+ Box Office18" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office18 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483889 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483889 
 #EXTINF:-1 tvg-id="Canal+ Box Office19" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office19 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483890 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483890 
 
 #EXTINF:-1 tvg-id="Canal Play 1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 1 
 http://goldip.xyz/live/iptvsd2725/2725dapter/204080.ts 
@@ -219,17 +219,17 @@ http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202467.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202468.ts 
 #EXTINF:-1 tvg-id="TV5 Style CA" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style CA 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/118334 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/118334 
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8 
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202201.ts 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/131098 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/131098 
 #EXTINF:-1 tvg-id="CANAL+.DOCS.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/677771 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/677771 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/131272 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/131272 
 #EXTINF:-1 tvg-id="Science.et.vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie 
 http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/15129.ts 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
@@ -256,7 +256,7 @@ http://goldip.xyz/live/iptvsd2725/2725dapter/83029.ts
 #EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY 
 http://cod.kim:19741/live/742783959639/103915434161/140057.ts 
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/125449 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/125449 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 
 http://cod.kim:19741/live/742783959639/103915434161/44739.ts 
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia 
@@ -302,23 +302,23 @@ http://xt2.xyz:19741/live/7148521977/0601202300/119337.ts
 http://xt2.xyz:19741/live/7148521977/0601202300/119339.ts 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 4K 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/968402 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/968402 
 #EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="BEIN SPORTS 2 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sports",BEIN SPORTS 2 4K 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/968403 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/968403 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  2 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sports",BEIN SPORTS  2 4K 
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30757.ts 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sports",BEIN SPORTS 3 4K 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/968404 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/968404 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sports",BEIN SPORTS 4 4K 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/968405 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/968405 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sports",BEIN SPORTS 5 4K 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/968406 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/968406 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sports",BEIN SPORTS 6 4K 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/968407 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/968407 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sports",BEIN SPORTS 7 4K 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/968408 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/968408 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 4K 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/968409 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/968409 
 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HEVC 
 http://s245.cc:2095/live/space13156/Aas12345678/239340.ts 
