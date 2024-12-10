@@ -26,7 +26,7 @@ http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts
 #EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action 
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47813.ts 
 #EXTINF:-1 tvg-id="SkyStore" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
-http://mag.realvip.co:80/play/live.php?mac=00:1A:79:C1:3D:E0&stream=1095797&extension=ts&play_token=TR22hZJxyv 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/741747 
 #EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
 http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/741748 
 #EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 3 
