@@ -17,7 +17,7 @@ http://test.verac.top:8080/live/6551732095211620/5a1c8c7d840e/8001.ts
 #EXTINF:-1 tvg-id="CANAL+.BOX.OFFICE.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
 http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1287671 
 #EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
-http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/564044 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/564042
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
 http://ktv.im:8080/live/William287263/Davidas7262636/112469.ts 
 
