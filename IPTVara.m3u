@@ -217,9 +217,7 @@ http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202466.ts
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 
 http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202467.ts 
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
-http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202468.ts 
-#EXTINF:-1 tvg-id="TV5 Style CA" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://extraott.com/live/1577882060/3714659100/752.ts
+http://apkonrev.store:8080/live/Nesrine/zqP2Dsg6JO/202468.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
 http://dream4ktv.net:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=2583&extension=ts&play_token=NUlJczi51C
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
@@ -252,7 +250,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV 
 http://cod.kim:19741/live/742783959639/103915434161/140084.ts 
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Animation 
-http://kstv.us:8080/live/yb4yWv90vN/1007275994/47814.ts 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/745672 
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney+ 2 
 http://goldip.xyz/live/iptvsd2725/2725dapter/83029.ts 
 #EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY 
