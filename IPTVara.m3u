@@ -90,32 +90,7 @@ http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483888
 #EXTINF:-1 tvg-id="Canal+ Box Office18" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office18 
 http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483889 
 #EXTINF:-1 tvg-id="Canal+ Box Office19" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office19 
-http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483890 
-
-#EXTINF:-1 tvg-id="Canal Play 1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 1 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204080.ts 
-#EXTINF:-1 tvg-id="Canal Play 2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 2 
-http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2814.ts 
-#EXTINF:-1 tvg-id="Canal Play 3" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 3 
-http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2813.ts 
-#EXTINF:-1 tvg-id="Canal Play 4" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 4 
-http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2812.ts 
-#EXTINF:-1 tvg-id="Canal Play 5" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 5 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204084.ts 
-#EXTINF:-1 tvg-id="Canal Play 6" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 6 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204085.ts 
-#EXTINF:-1 tvg-id="Canal Play 7" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 7 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204086.ts 
-#EXTINF:-1 tvg-id="Canal Play 8" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 8 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204087.ts 
-#EXTINF:-1 tvg-id="Canal Play 9" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 9 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204088.ts 
-#EXTINF:-1 tvg-id="Canal Play 10" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 10 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204089.ts 
-#EXTINF:-1 tvg-id="Canal Play 11" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 11 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204090.ts 
-#EXTINF:-1 tvg-id="Canal Play 12" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlay.png",Canal Play 12 
-http://goldip.xyz/live/iptvsd2725/2725dapter/204091.ts 
+http://mag.redmytv.com:80/056446104150D63/rvc9xvYtSP/1483890
 
 #EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Movies",beIN MOVIES HD 1 PREMIERE 
 http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2128 
@@ -243,7 +218,19 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CNews.png",CNews 
 http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249476.ts 
 #EXTINF:-1 tvg-id="France24French.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/France24.png",France 24 
-http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249470.ts 
+http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249470.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Backup
+http://mytv-extra.com:88/live/1827214806/9371309264/533.ts 
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Backup
+http://mytv-extra.com:88/live/1827214806/9371309264/535.ts 
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 Backup
+http://mytv-extra.com:88/live/1827214806/9371309264/536.ts 
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 Backup
+http://mytv-extra.com:88/live/1827214806/9371309264/538.ts 
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 Backup
+http://mytv-extra.com:88/live/1827214806/9371309264/539.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Backup
+http://mytv-extra.com:88/live/1827214806/9371309264/542.ts
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8 
