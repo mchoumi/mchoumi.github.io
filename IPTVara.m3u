@@ -184,15 +184,15 @@ http://rt-arab.secure.footprint.net:80/1104.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8 
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 
-http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/192831.ts 
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/192831.ts
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202465.ts
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 
-http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/202466.ts 
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202466.ts 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 
-http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/202467.ts 
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202467.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
-http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/202468.ts
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202468.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
 http://dream4ktv.net:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=2583&extension=ts&play_token=NUlJczi51C
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
