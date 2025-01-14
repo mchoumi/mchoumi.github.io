@@ -129,7 +129,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1 tvg-id="MBC Drama.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png" group-title="Arabic",MBC Drama 
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8 
 #EXTINF:-1 tvg-id="MBC Masr.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png" group-title="Arabic",MBC Masr 1 
-http://sky-tv.org:88/live/1364307081/1364307081/164062.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/166563.ts 
 #EXTINF:-1 tvg-id="MBC Masr 2.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="Arabic",MBC Masr 2 
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8 
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png" group-title="Arabic",MBC Plus Drama 
@@ -143,7 +143,7 @@ https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b11
 #EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby2.png" group-title="Arabic",Alaraby TV 2 
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8 
 #EXTINF:-1 tvg-id="Fatafeat.qa" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD 
-http://cod.ma:37500/live/267327538872/966361189200/140074.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/6384.ts 
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV 
 http://atlas213.xyz:80/live/Nesrine/zqP2Dsg6JO/218229.ts 
 #EXTINF:-1 tvg-id="Echorouk TV HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png" group-title="Arabic",Echorouk TV 
