@@ -15,7 +15,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1 tvg-id="CANAL+.CINEMA.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
 http://ktv.im:8080/live/William287263/Davidas7262636/112473.ts
 #EXTINF:-1 tvg-id="CANAL+.BOX.OFFICE.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1287671 
+http://nitrospeed.link:80/live/Imer.1211/hj4KtmYhYaTfzMUAXfXa/113207.ts 
 #EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
 http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/618689.ts
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
@@ -26,15 +26,15 @@ http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/213526
 #EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
 http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/100938
 #EXTINF:-1 tvg-id="SkyStore" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741747 
+http://mag.realvip.co:80/play/live.php?mac=00:1A:79:4C:C2:65&stream=1095797&extension=ts&play_token=InMSCbzh7T 
 #EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741748 
+http://mag.realvip.co:80/play/live.php?mac=00:1A:79:4C:C2:65&stream=1095796&extension=ts&play_token=v8U9VfoM9x 
 #EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 3 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741749 
+http://mag.realvip.co:80/play/live.php?mac=00:1A:79:4C:C2:65&stream=1095795&extension=ts&play_token=0RMFQtT5Xx 
 #EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 4 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741751 
+http://mag.realvip.co:80/play/live.php?mac=00:1A:79:4C:C2:65&stream=1095794&extension=ts&play_token=3i6Hvnnjna 
 #EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 5 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/741752 
+http://mag.realvip.co:80/play/live.php?mac=00:1A:79:4C:C2:65&stream=1095793&extension=ts&play_token=lnJb4rC2MU 
 
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family 
 http://sky-tv.org:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts 
@@ -200,11 +200,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/216037.ts 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/131098 
+http://nitrospeed.link:80/live/Imer.1211/hj4KtmYhYaTfzMUAXfXa/113139.ts 
 #EXTINF:-1 tvg-id="CANAL+.DOCS.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/677771 
+http://nitrospeed.link:80/live/Imer.1211/hj4KtmYhYaTfzMUAXfXa/113222.ts 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/131272 
+http://nitrospeed.link:80/live/Imer.1211/hj4KtmYhYaTfzMUAXfXa/113414.ts 
 #EXTINF:-1 tvg-id="Science.et.vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie 
 http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/15129.ts 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
@@ -237,13 +237,13 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV 
 http://cod.kim:19741/live/742783959639/103915434161/140084.ts 
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Animation 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/745672 
+http://kstv.us:8080/live/yb4yWv90vN/1007275994/47814.ts 
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney+ 2 
 http://goldip.xyz/live/iptvsd2725/2725dapter/83029.ts 
 #EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY 
 http://cod.kim:19741/live/742783959639/103915434161/140057.ts 
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/125449 
+http://ktv.im:8080/live/William287263/Davidas7262636/51597.ts 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 
 http://goldip.xyz/live/iptvsd2725/2725dapter/74937.ts 
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia 
