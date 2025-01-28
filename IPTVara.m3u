@@ -24,7 +24,7 @@ http://ktv.im:8080/live/William287263/Davidas7262636/112469.ts
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/213526 
 #EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/100938
+http://tit.ipsh.tv:80/play/live.php?mac=00:1A:79:52:8A:D2&stream=577372&extension=ts&play_token=3wDnbFv7bs
 #EXTINF:-1 tvg-id="SkyStore" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
 http://mag.realvip.co:80/play/live.php?mac=00:1A:79:4C:C2:65&stream=1095797&extension=ts&play_token=InMSCbzh7T 
 #EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
