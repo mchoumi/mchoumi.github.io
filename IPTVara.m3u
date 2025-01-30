@@ -56,13 +56,13 @@ http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1446135
 http://ktv.im:8080/live/William287263/Davidas7262636/51334.ts 
 
 #EXTINF:-1 tvg-id="Canal+ Box Office2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office2 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483873 
+http://one.dream4ktv.biz:2082/play/live.php?mac=00:1A:79:07:DB:E9&stream=196120&extension=ts&play_token=7OmKZgZGEJ 
 #EXTINF:-1 tvg-id="Canal+ Box Office3" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office3 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483874 
+http://one.dream4ktv.biz:8080/play/live.php?mac=00:1A:79:07:DB:E9&stream=196125&extension=ts&play_token=nT3cMWrsrk 
 #EXTINF:-1 tvg-id="Canal+ Box Office4" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office4 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483875 
+http://one.dream4ktv.biz:8080/play/live.php?mac=00:1A:79:07:DB:E9&stream=196153&extension=ts&play_token=GGm7hRLBQw 
 #EXTINF:-1 tvg-id="Canal+ Box Office5" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office5 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483876 
+http://one.dream4ktv.biz:2082/play/live.php?mac=00:1A:79:07:DB:E9&stream=196122&extension=ts&play_token=7lJfBRiUJx 
 #EXTINF:-1 tvg-id="Canal+ Box Office6" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office6 
 http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483877 
 #EXTINF:-1 tvg-id="Canal+ Box Office7" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office7 
@@ -200,13 +200,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/216037.ts 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://nitrospeed.link:80/live/Imer.1211/hj4KtmYhYaTfzMUAXfXa/113139.ts 
+http://4cms.cc:8080/fSHtj2yJ9pN7MT/EBHKBnxyjq/26381 
 #EXTINF:-1 tvg-id="CANAL+.DOCS.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
-http://nitrospeed.link:80/live/Imer.1211/hj4KtmYhYaTfzMUAXfXa/113222.ts 
+http://4cms.cc:8080/fSHtj2yJ9pN7MT/EBHKBnxyjq/327546 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
-http://nitrospeed.link:80/live/Imer.1211/hj4KtmYhYaTfzMUAXfXa/113414.ts 
+http://4cms.cc:8080/fSHtj2yJ9pN7MT/EBHKBnxyjq/26586 
 #EXTINF:-1 tvg-id="Science.et.vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie 
-http://tv.viptvpro.com/live/corrado756/RXKCHSNUP0/15129.ts 
+http://4cms.cc:8080/fSHtj2yJ9pN7MT/EBHKBnxyjq/26577 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
 http://xt2.xyz:19741/live/7148521977/0601202300/203734.ts 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
