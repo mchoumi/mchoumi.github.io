@@ -22,7 +22,7 @@ http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=274712&exte
 http://ktv.im:8080/live/William287263/Davidas7262636/112469.ts 
 
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
-http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/213526 
+http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
 http://tit.ipsh.tv:80/play/live.php?mac=00:1A:79:52:8A:D2&stream=577372&extension=ts&play_token=3wDnbFv7bs
 #EXTINF:-1 tvg-id="SkyStore" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
