@@ -200,7 +200,7 @@ http://mytv-extra.com:88/live/1827214806/9371309264/752.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/216037.ts 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://mytv-extra.com:88/live/1827214806/9371309264/541.ts 
+http://ktv.im:8080/live/William287263/Davidas7262636/111048.ts 
 #EXTINF:-1 tvg-id="CANAL+.DOCS.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://ktv.im:8080/live/William287263/Davidas7262636/112483.ts 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
