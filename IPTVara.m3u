@@ -109,9 +109,9 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 #EXTINF:-1 tvg-id="Emarat HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Abu Dhabi Emirates 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8 
 #EXTINF:-1 tvg-id="Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
-http://goldip.xyz/live/axrafpal/0236305625/142176.ts 
+http://ktv.im:8080/live/William287263/Davidas7262636/421793.ts 
 #EXTINF:-1 tvg-id="Sama Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
-http://goldip.xyz/live/axrafpal/0236305625/142182.ts 
+http://ktv.im:8080/live/William287263/Davidas7262636/421811.ts 
 #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV 
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2 
