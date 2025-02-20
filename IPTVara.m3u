@@ -109,15 +109,15 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 #EXTINF:-1 tvg-id="Emarat HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Abu Dhabi Emirates 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8 
 #EXTINF:-1 tvg-id="Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
-http://ktv.im:8080/live/William287263/Davidas7262636/421793.ts 
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8 
 #EXTINF:-1 tvg-id="Sama Dubai HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
-http://ktv.im:8080/live/William287263/Davidas7262636/421811.ts 
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8 
 #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV 
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2 
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://mchoumi.github.io/LOGOs/NourDubai.png" group-title="Arabic",Noor Dubai 
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8 
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="MBC 1.ar" tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png" group-title="Arabic",MBC 1 
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8 
 #EXTINF:-1 tvg-id="MBC.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png" group-title="Arabic",MBC 1 KSA 
