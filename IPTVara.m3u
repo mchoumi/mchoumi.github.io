@@ -25,15 +25,15 @@ http://ktv.im:8080/live/William287263/Davidas7262636/112469.ts
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
 http://tit.ipsh.tv:80/play/live.php?mac=00:1A:79:52:8A:D2&stream=577372&extension=ts&play_token=3wDnbFv7bs
-#EXTINF:-1 tvg-id="SkyStore" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
-http://trxx.in:80/play/live.php?mac=00:1A:79:A5:D6:46&stream=1095797&extension=ts&play_token=ukdo4tIYJm 
-#EXTINF:-1 tvg-id="SPARK Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
-http://trxx.in:80/play/live.php?mac=00:1A:79:A5:D6:46&stream=1095796&extension=ts&play_token=ukdo4tIYJm 
-#EXTINF:-1 tvg-id="SPARK Movies" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 3 
-http://trxx.in:80/play/live.php?mac=00:1A:79:A5:D6:46&stream=1095795&extension=ts&play_token=ukdo4tIYJm 
-#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 4 
+#EXTINF:-1 tvg-id="SkyStore1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
+http://mytv-extra.com:88/live/1827214806/9371309264/401534717.ts 
+#EXTINF:-1 tvg-id="SkyStore2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
+http://mytv-extra.com:88/live/1827214806/9371309264/401534716.ts 
+#EXTINF:-1 tvg-id="SkyStore3" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 3 
+http://mytv-extra.com:88/live/1827214806/9371309264/401534715.ts 
+#EXTINF:-1 tvg-id="SkyStore4" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 4 
 http://trxx.in:80/play/live.php?mac=00:1A:79:A5:D6:46&stream=1095794&extension=ts&play_token=ukdo4tIYJm 
-#EXTINF:-1 tvg-id="SPARK Thriller" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 5 
+#EXTINF:-1 tvg-id="SkyStore5" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 5 
 http://trxx.in:80/play/live.php?mac=00:1A:79:A5:D6:46&stream=1095793&extension=ts&play_token=ukdo4tIYJm 
 
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family 
