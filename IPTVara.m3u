@@ -212,13 +212,13 @@ http://xt2.xyz:19741/live/7148521977/0601202300/203734.ts
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
 http://cod.kim:19741/live/742783959639/103915434161/203734.ts 
 #EXTINF:-1 tvg-id="France.info.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/FranceInfo.png",Franceinfo 
-http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249490.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/748.ts 
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Euronews.png",Euronews 
-https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8 
+http://ktv.im:8080/live/William287263/Davidas7262636/112668.ts 
 #EXTINF:-1 tvg-id="CNews.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CNews.png",CNews 
-http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249476.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/756.ts 
 #EXTINF:-1 tvg-id="France24French.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/France24.png",France 24 
-http://starsat.us:8080/live/mac_142255/212661464063b5e12352702/249470.ts
+http://mytv-extra.com:88/live/1827214806/9371309264/755.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Backup
 http://mytv-extra.com:88/live/1827214806/9371309264/533.ts 
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Backup
