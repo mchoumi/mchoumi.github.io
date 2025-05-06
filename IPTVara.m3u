@@ -24,7 +24,7 @@ http://ktv.im:8080/live/William287263/Davidas7262636/112469.ts
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
-http://tit.ipsh.tv:80/play/live.php?mac=00:1A:79:52:8A:D2&stream=577372&extension=ts&play_token=3wDnbFv7bs
+http://kstv.us:8080/live/yb4yWv90vN/1007275994/47813.ts
 #EXTINF:-1 tvg-id="SkyStore1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
 http://mytv-extra.com:88/live/1827214806/9371309264/401534717.ts 
 #EXTINF:-1 tvg-id="SkyStore2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
@@ -32,9 +32,9 @@ http://mytv-extra.com:88/live/1827214806/9371309264/401534716.ts
 #EXTINF:-1 tvg-id="SkyStore3" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 3 
 http://mytv-extra.com:88/live/1827214806/9371309264/401534715.ts 
 #EXTINF:-1 tvg-id="SkyStore4" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 4 
-http://trxx.in:80/play/live.php?mac=00:1A:79:A5:D6:46&stream=1095794&extension=ts&play_token=ukdo4tIYJm 
+http://mytv-extra.com:88/live/1827214806/9371309264/401534714.ts 
 #EXTINF:-1 tvg-id="SkyStore5" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 5 
-http://trxx.in:80/play/live.php?mac=00:1A:79:A5:D6:46&stream=1095793&extension=ts&play_token=ukdo4tIYJm 
+http://mytv-extra.com:88/live/1827214806/9371309264/401534713.ts 
 
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family 
 http://sky-tv.org:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts 
@@ -45,7 +45,7 @@ http://ktv.im:8080/live/William287263/Davidas7262636/51592.ts
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE 
 http://ktv.im:8080/live/William287263/Davidas7262636/51593.ts 
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY  
-http://goldip.xyz/live/iptvsd2725/2725dapter/83004.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/378779.ts 
 
 #EXTINF:-1 tvg-id="HBO Max" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO Max 
 http://mag.redmytv.com:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
