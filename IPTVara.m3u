@@ -4,7 +4,7 @@ http://mytv-extra.com:88/live/1827214806/9371309264/166556.ts
 #EXTINF:-1 tvg-id="MBC Max HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
 http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=15074&extension=ts 
 #EXTINF:-1 tvg-id="MBC Action HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action 
-http://goldip.xyz/live/iptvsd2725/2725dapter/63591.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/188470.ts 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Movies 
 https://shls-live-enc.edgenextcdn.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index_2.m3u8 
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesAction.webp" group-title="Movies",MBC Movies Action 
