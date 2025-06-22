@@ -374,4 +374,9 @@ http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124095.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sports",BEIN SPORTS 7 SD 
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32009.ts 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 SD 
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts 
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="EUROSPORT1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries%2Ffrance%2Feurosport-1-fr.png" group-title="Sports",EUROSPORT1
+http://mytv-extra.com:88/live/1827214806/9371309264/633.ts 
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="EUROSPORT2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries%2Ffrance%2Feurosport-2-fr.png" group-title="Sports",EUROSPORT2
+http://mytv-extra.com:88/live/1827214806/9371309264/634.ts 
