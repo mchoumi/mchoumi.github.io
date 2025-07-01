@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://www.open-epg.com/files/uae2.xml" 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://www.open-epg.com/files/https://www.open-epg.com/files/france1.xml.gz" 
 #EXTINF:-1 tvg-id="MBC 2 HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
 http://mytv-extra.com:88/live/1827214806/9371309264/166556.ts
 #EXTINF:-1 tvg-id="MBC Max HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
@@ -12,13 +12,13 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesThriller.webp" group-title="Movies",MBC Movies Thriller 
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8 
 
-#EXTINF:-1 tvg-id="CANAL+.CINEMA.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
+#EXTINF:-1 tvg-id="Canal+ Cinema.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
 http://ktv.im:8080/live/William287263/Davidas7262636/112473.ts
-#EXTINF:-1 tvg-id="CANAL+.BOX.OFFICE.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
 http://mag.king-4k.cc:80/15194A5077612A8/593A5512AA56568/1459825 
-#EXTINF:-1 tvg-id="CANAL+.GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
+#EXTINF:-1 tvg-id="Canal+ Grand Ecran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
 http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=274712&extension=ts&play_token=IOPGmx2hiD
-#EXTINF:-1 tvg-id="CANAL+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
+#EXTINF:-1 tvg-id="Canal+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
 http://ktv.im:8080/live/William287263/Davidas7262636/112469.ts 
 
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
