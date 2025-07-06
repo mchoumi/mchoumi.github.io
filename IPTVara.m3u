@@ -13,13 +13,13 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8 
 
 #EXTINF:-1 tvg-id="Canal+ Cinema.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/9654.ts
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=148475&extension=ts&play_token=SUO8vpNxpo
 #EXTINF:-1 tvg-id="Canal+ Box Office.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
 http://mag.king-4k.cc:80/15194A5077612A8/593A5512AA56568/1459825 
 #EXTINF:-1 tvg-id="Canal+ Grand Ecran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
 http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=274712&extension=ts&play_token=IOPGmx2hiD
 #EXTINF:-1 tvg-id="Canal+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/9653.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=148474&extension=ts&play_token=oRIhgarqkq 
 
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
@@ -39,11 +39,11 @@ http://mytv-extra.com:88/live/1827214806/9371309264/401534713.ts
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family 
 http://sky-tv.org:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts 
 #EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD 
-http://ktv.im:8080/live/William287263/Davidas7262636/51594.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/39681.ts 
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/3203.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/400652587.ts 
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/3201.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/400652586.ts 
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY  
 http://mytv-extra.com:88/live/1827214806/9371309264/378779.ts 
 
@@ -200,15 +200,15 @@ http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202467.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202468.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://mag.king-4k.cc:80/15194A5077612A8/593A5512AA56568/118334
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=2583&extension=ts&play_token=GLmlafihq5
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
 http://newultra.xyz:8080/live/930920230tv/x535utfg45/264505.ts 
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228301.ts 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/9634.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275670&extension=ts&play_token=0rygPAB7C7 
 #EXTINF:-1 tvg-id="CANAL+.DOCS.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/267283.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
 http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/9769.ts 
 #EXTINF:-1 tvg-id="Science.et.vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie 
@@ -249,7 +249,7 @@ http://goldip.xyz/live/iptvsd2725/2725dapter/83029.ts
 #EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY 
 http://cod.kim:19741/live/742783959639/103915434161/140057.ts 
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids 
-http://ktv.im:8080/live/William287263/Davidas7262636/51597.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/400652558.ts 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 
 http://goldip.xyz/live/iptvsd2725/2725dapter/74937.ts 
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia 
@@ -261,21 +261,21 @@ http://ktv.im:8080/live/William287263/Davidas7262636/408044.ts
 
 
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/13816.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534831&extension=ts&play_token=zmcgbCdZjW 
 #EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sports",BEIN SPORTS 2 HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/13819.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534830&extension=ts&play_token=SA2UAsxwSW 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sports",BEIN SPORTS 3 HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/13822.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534829&extension=ts&play_token=6HrQ14cOej 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sports",BEIN SPORTS 4 HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/13825.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534828&extension=ts&play_token=HjohQLEdvP 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sports",BEIN SPORTS 5 HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/13828.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534827&extension=ts&play_token=6sDsryTMlw 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sports",BEIN SPORTS 6 HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/13831.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534826&extension=ts&play_token=yqmmDo2Yom 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sports",BEIN SPORTS 7 HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/13834.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=578834&extension=ts&play_token=I0b4Z0FhBo 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 HD 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/13837.ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=578835&extension=ts&play_token=CnCr1ZsMfL 
 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 FHD 
 http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897661 
