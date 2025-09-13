@@ -253,11 +253,11 @@ http://mytv-extra.com:88/live/1827214806/9371309264/400652558.ts
 #EXTINF:-1 tvg-id="MBC 3 HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1654&extension=ts&play_token=vMvKEDnL7h 
 #EXTINF:-1 tvg-id="Cartoon Network Arabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/2463.ts 
+http://1234up.com:80/a41xdP6qatuWR6Tp/F3h92OW4UM/2463?play_token=riLHgcTtmq 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="Kids",FRANCE 4
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/9641.ts
+http://1234up.com:80/a41xdP6qatuWR6Tp/F3h92OW4UM/9641?play_token=zbUsJUDXue
 #EXTINF:-1 tvg-id="Spacetoon.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/2464.ts 
+http://1234up.com:80/a41xdP6qatuWR6Tp/F3h92OW4UM/2464?play_token=IEaH92Yt2f 
 
 
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HD 
