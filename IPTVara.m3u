@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://www.open-epg.com/files/uae2.xml.gz" 
-#EXTINF:-1 tvg-id="MBC 2 HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://iptv-epg.org/files/epg-ae.xml.gz" 
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1058030&extension=ts&play_token=WaDW2Ji0Eg
-#EXTINF:-1 tvg-id="MBC Max HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1058042&extension=ts&play_token=umACq6eF9j 
 #EXTINF:-1 tvg-id="MBC Action HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action 
 http://mytv-extra.com:88/live/1827214806/9371309264/188470.ts 
