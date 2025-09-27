@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://www.open-epg.com/files/saudiarabia1.xml.gz" 
 #EXTINF:-1 tvg-id="MBC 2 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
-http://goldpro3.xyz:8080/live/f21a41b83m29/a82x24012025/266366.ts
+http://mytv-extra.com:88/live/1827214806/9371309264/166556.ts
 #EXTINF:-1 tvg-id="MBC Max HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
-http://zeintv.xyz:8080/live/393452883A/4294683570/274949.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/166560.ts 
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action 
 http://mytv-extra.com:88/live/1827214806/9371309264/188470.ts 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
@@ -17,7 +17,7 @@ http://noruqfx.top:8080/live/191703089055131/01703089055686/8001.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
 http://noruqfx.top:8080/live/191703089055131/01703089055686/58335.ts 
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
-http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=274712&extension=ts&play_token=IOPGmx2hiD
+http://mytv-extra.com:88/live/1827214806/9371309264/1927.ts
 #EXTINF:-1 tvg-id="CanalPlus.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
 http://4kgood.org:8080/live/Ramzifr123/vo3nk9kki6/148474.ts 
 
