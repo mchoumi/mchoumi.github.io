@@ -139,9 +139,9 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Documentary HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/JazeeraDocumentary.png" group-title="Arabic",Al Jazeera Documentary 
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8 
 #EXTINF:-1 tvg-id="Al Araby HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby.png" group-title="Arabic",Alaraby TV 
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8 
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/chunks_video_1080p.m3u8 
 #EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby2.png" group-title="Arabic",Alaraby TV 2 
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8 
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8 
 #EXTINF:-1 tvg-id="Fatafeat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD 
 http://mytv-extra.com:88/live/1827214806/9371309264/6384.ts 
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV 
