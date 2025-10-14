@@ -34,21 +34,23 @@ http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/213441.ts
 
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
-http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553959&extension=ts&play_token=I21ctaQ6Pr 
+http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553959&extension=ts&play_token=I1OAJQZcv4 
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
-http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553960&extension=ts&play_token=xn7beyuuXt 
+http://de.sl-ott.com:8080/live/bgfcdxswe23ce/cp6veYRzUG/29960.ts 
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
-http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553961&extension=ts&play_token=u7qz2wsnje 
+http://de.sl-ott.com:8080/live/bgfcdxswe23ce/cp6veYRzUG/50900.ts 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
 http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553962&extension=ts&play_token=L7cwkgWTQs 
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
-http://noruqfx.top:8080/live/191703089055131/01703089055686/8116.ts
+http://de.sl-ott.com:8080/live/bgfcdxswe23ce/cp6veYRzUG/29959.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
 http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553963&extension=ts&play_token=mfaqAvNt95
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
 http://mytv-extra.com:88/live/1827214806/9371309264/752.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
-http://newultra.xyz:8080/live/930920230tv/x535utfg45/264505.ts 
+http://newultra.xyz:8080/live/930920230tv/x535utfg45/264505.ts
+#EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Voyage
+http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B6:23:10&stream=1935329&extension=ts&play_token=2UDDqq1v9w
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553964&extension=ts&play_token=3nKS0aKVzl 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
