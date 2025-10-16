@@ -16,11 +16,11 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
 http://noruqfx.top:8080/live/191703089055131/01703089055686/8001.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
-http://noruqfx.top:8080/live/191703089055131/01703089055686/58335.ts 
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:1E:04:6A&stream=876361&extension=ts&play_token=oXhCvaIc71 
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
 http://mytv-extra.com:88/live/1827214806/9371309264/1927.ts
 #EXTINF:-1 tvg-id="CanalPlus.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
-http://4kgood.org:8080/live/Ramzifr123/vo3nk9kki6/148474.ts 
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:1E:04:6A&stream=506635&extension=ts&play_token=rRArpALdE1 
 
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
