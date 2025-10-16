@@ -49,7 +49,7 @@ http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553963&extens
 http://mytv-extra.com:88/live/1827214806/9371309264/752.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
 http://newultra.xyz:8080/live/930920230tv/x535utfg45/264505.ts
-#EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Voyage
+#EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B6:23:10&stream=1935329&extension=ts&play_token=2UDDqq1v9w
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553964&extension=ts&play_token=3nKS0aKVzl 
@@ -109,7 +109,6 @@ http://mytv-extra.com:88/live/1827214806/9371309264/400652586.ts
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY  
 http://mytv-extra.com:88/live/1827214806/9371309264/378779.ts 
 
- 
 #EXTINF:-1 tvg-id="OSN TV Yahala Aflam.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA BILARABI 
 http://viphlvp.xyz:8080/VIP01751755616068569/16cf1b37b98a/6516 
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam 
@@ -175,7 +174,6 @@ http://rt-arab.secure.footprint.net:80/1104.m3u8
 #EXTINF:-1 tvg-id="TRT Arabi" tvg-logo="https://mchoumi.github.io/LOGOs/TRTArabic.png" group-title="Arabic",TRT Arabi 
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
-
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8 
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV 
@@ -214,7 +212,6 @@ http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534826&extens
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=578834&extension=ts&play_token=I0b4Z0FhBo 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 HD 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=578835&extension=ts&play_token=CnCr1ZsMfL 
- 
 
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HEVC 
 http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237137.ts 
