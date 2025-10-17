@@ -62,7 +62,7 @@ http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2128
 http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2127 
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
-http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2191.ts 
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8 
 #EXTINF:-1 tvg-id="OSN TV Yahala Aflam.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA BILARABI 
 http://viphlvp.xyz:8080/VIP01751755616068569/16cf1b37b98a/6516 
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam 
