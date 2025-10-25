@@ -34,17 +34,17 @@ http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/213441.ts
 
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
-http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553959&extension=ts&play_token=I1OAJQZcv4 
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/192831.ts 
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
-http://de.sl-ott.com:8080/live/bgfcdxswe23ce/cp6veYRzUG/29960.ts 
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202465.ts 
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
-http://de.sl-ott.com:8080/live/bgfcdxswe23ce/cp6veYRzUG/50900.ts 
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202466.ts 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
-http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553962&extension=ts&play_token=L7cwkgWTQs 
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202467.ts 
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
-http://de.sl-ott.com:8080/live/bgfcdxswe23ce/cp6veYRzUG/29959.ts
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202468.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
-http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553963&extension=ts&play_token=mfaqAvNt95
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/228301.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
 http://mytv-extra.com:88/live/1827214806/9371309264/752.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
@@ -54,7 +54,7 @@ http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B6:23:10&stream=1935329&exte
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553964&extension=ts&play_token=3nKS0aKVzl 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553965&extension=ts&play_token=nKZf89JvsE 
+http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202629.ts 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
