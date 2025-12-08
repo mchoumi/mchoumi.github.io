@@ -164,7 +164,7 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=2583&extension=ts&play_token=GLmlafihq5
+http://ultrapremium.cloud:8080/live/920600544tv/gr448ipfsw/264505.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
 http://newultra.xyz:8080/live/6RJd4A5s8RAA/QGQ7aTX66FTG/264505.ts 
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
@@ -194,13 +194,13 @@ http://mytv-extra.com:88/live/1827214806/9371309264/755.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Backup
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148461&extension=ts&play_token=e4hkqukOLZ 
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Backup
-http://noruqfx.top:8080/live/191703089055131/01703089055686/8113.ts 
+http://de.sl-ott.com:8080/live/VPm9dg23Fg/inDtwanxxC/633377.ts 
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 Backup
-http://noruqfx.top:8080/live/191703089055131/01703089055686/8114.ts 
+http://de.sl-ott.com:8080/live/VPm9dg23Fg/inDtwanxxC/633376.ts 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 Backup
-http://noruqfx.top:8080/live/191703089055131/01703089055686/8115.ts 
+http://de.sl-ott.com:8080/live/VPm9dg23Fg/inDtwanxxC/633375.ts 
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 Backup
-http://noruqfx.top:8080/live/191703089055131/01703089055686/8116.ts
+http://de.sl-ott.com:8080/live/VPm9dg23Fg/inDtwanxxC/633374.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Backup
 http://noruqfx.top:8080/live/191703089055131/01703089055686/8131.ts
 
