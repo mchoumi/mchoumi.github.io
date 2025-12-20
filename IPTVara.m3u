@@ -69,9 +69,9 @@ http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi.sa" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD 
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8 
+http://zeintv.xyz:8080/live/393452883A/4294683570/311.ts 
 #EXTINF:-1 tvg-id="Al Emarat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Al Emarat TV 
-https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8 
+http://zeintv.xyz:8080/live/393452883A/4294683570/313.ts 
 #EXTINF:-1 tvg-id="Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8 
 #EXTINF:-1 tvg-id="SAMA Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
@@ -83,11 +83,9 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://mchoumi.github.io/LOGOs/NourDubai.png" group-title="Arabic",Noor Dubai 
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png" group-title="Arabic",MBC 1 
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8 
-#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png" group-title="Arabic",MBC 1 KSA 
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8 
 #EXTINF:-1 tvg-id="MBC 4 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC4.png" group-title="Arabic",MBC 4 
-https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8 
+http://zeintv.xyz:8080/live/393452883A/4294683570/274933.ts 
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC5.png" group-title="Arabic",MBC 5 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Drama HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png" group-title="Arabic",MBC Drama 
@@ -95,7 +93,7 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 #EXTINF:-1 tvg-id="MBC Maser.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png" group-title="Arabic",MBC Masr 1 
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Maser 2.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="Arabic",MBC Masr 2 
-http://161.123.116.21:80/live/Raymond/Raymond12/1690068.ts 
+http://zeintv.xyz:8080/live/393452883A/4294683570/274940.ts 
 #EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png" group-title="Arabic",MBC Plus Drama 
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8 
 #EXTINF:-1 tvg-id="Nat. Geo. AD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAB.png" group-title="Arabic",National Geographic Abu Dhabi 
@@ -109,9 +107,9 @@ https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_
 #EXTINF:-1 tvg-id="Fatafeat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD 
 http://mytv-extra.com:88/live/1827214806/9371309264/6384.ts 
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV 
-http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228075.ts 
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/218229.ts 
 #EXTINF:-1 tvg-id="Echorouk TV HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png" group-title="Arabic",Echorouk TV 
-http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/226051.ts 
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/213447.ts 
 #EXTINF:-1 tvg-id="Echorouk News.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukNews.png" group-title="Arabic",Echorouk News 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/218226.ts 
 #EXTINF:-1 tvg-id="ElBilad.dz" tvg-logo="https://mchoumi.github.io/LOGOs/ElBilad.png" group-title="Arabic",El Bilad 
