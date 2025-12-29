@@ -26,7 +26,7 @@ http://noruqfx.top:8080/live/191703089055131/01703089055686/52933.ts
 #EXTINF:-1 tvg-id="ENTV.dz" tvg-logo="https://mchoumi.github.io/LOGOs/TV1.png" group-title="Arabic",Algerie TV1 
 http://noruqfx.top:8080/live/191703089055131/01703089055686/52934.ts 
 #EXTINF:-1 tvg-id="Algérie 2 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV2.png" group-title="Arabic",Algerie TV2 
-http://noruqfx.top:8080/live/191703089055131/01703089055686/52835.ts 
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8 
 #EXTINF:-1 tvg-id="Algérie 3 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV3.png" group-title="Arabic",Algerie TV3 
 http://noruqfx.top:8080/live/191703089055131/01703089055686/52832.ts 
 #EXTINF:-1 tvg-id="Algérie 6 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV6.png" group-title="Arabic",Algerie TV6 
@@ -52,7 +52,7 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:1E:04:6A&stream=157580&e
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B6:23:10&stream=1935329&extension=ts&play_token=2UDDqq1v9w
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
-http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=553964&extension=ts&play_token=3nKS0aKVzl 
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228301.ts 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
 http://atlas213.xyz:80/live/ce9Sw3EA/sOVkvhAGro/202629.ts 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
