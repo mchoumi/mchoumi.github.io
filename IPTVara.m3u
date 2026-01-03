@@ -312,15 +312,15 @@ http://mytv-extra.com:88/live/1827214806/9371309264/652.ts
 
 #EXTINF:-1 tvg-id="BeinNews" tvg-name="BEIN SPORTS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",BEIN SPORTS NEWS 
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1698053
-#EXTINF:-1 tvg-id="BeinSport" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",BEIN SPORTS
+#EXTINF:-1 tvg-id="BeinSport" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports.png" group-title="Sports",BEIN SPORTS
 http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/6727.ts
-#EXTINF:-1 tvg-id="BeinMax1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax1.png" group-title="Sports",BEIN SPORTS MAX 1 
+#EXTINF:-1 tvg-id="BeinMax1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX1.png" group-title="Sports",BEIN SPORTS MAX 1 
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1781829 
 #EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN SPORTS MAX 2 
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1781830 
-#EXTINF:-1 tvg-id="BeinMax3" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sports",BEIN SPORTS MAX 3 
+#EXTINF:-1 tvg-id="BeinMax3" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX3.png" group-title="Sports",BEIN SPORTS MAX 3 
 http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/837.ts
-#EXTINF:-1 tvg-id="BeinMax4" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sports",BEIN SPORTS MAX 4 
+#EXTINF:-1 tvg-id="BeinMax4" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX4.png" group-title="Sports",BEIN SPORTS MAX 4 
 http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/576496.ts 
 #EXTINF:-1 tvg-id="BeinGlobal" tvg-name="BEIN SPORTS GLOBAL HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title="Sports",BEIN SPORTS GLOBAL HD 
 http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/881470.ts 
