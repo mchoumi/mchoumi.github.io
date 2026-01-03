@@ -312,18 +312,18 @@ http://mytv-extra.com:88/live/1827214806/9371309264/652.ts
 
 #EXTINF:-1 tvg-id="BeinNews" tvg-name="BEIN SPORTS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",BEIN SPORTS NEWS 
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1698053
-#EXTINF:-1 tvg-id="BeinSport" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",BEIN SPORTS NEWS 
-http://dua-doa.me:80/play/live.php?mac=00:1A:79:3b:7f:91&stream=1294773&extension=ts&play_token=5x0xECqd6q
+#EXTINF:-1 tvg-id="BeinSport" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",BEIN SPORTS
+http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/6727.ts
 #EXTINF:-1 tvg-id="BeinMax1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax1.png" group-title="Sports",BEIN SPORTS MAX 1 
-http://mytv-extra.com:88/live/1827214806/9371309264/11.ts 
+http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/60954.ts 
 #EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN SPORTS MAX 2 
 http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/836.ts 
 #EXTINF:-1 tvg-id="BeinMax3" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sports",BEIN SPORTS MAX 3 
 http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/837.ts
 #EXTINF:-1 tvg-id="BeinMax4" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sports",BEIN SPORTS MAX 4 
-http://mytv-extra.com:88/live/1827214806/9371309264/14.ts 
+http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/576496.ts 
 #EXTINF:-1 tvg-id="BeinGlobal" tvg-name="BEIN SPORTS GLOBAL HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title="Sports",BEIN SPORTS GLOBAL HD 
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30750.ts 
+http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/881470.ts 
 
 #EXTINF:-1 tvg-id="Bein1" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 SD 
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B6:23:10&stream=238265&extension=ts&play_token=IxQy8aVsD8 
