@@ -40,11 +40,11 @@ http://mytv-extra.com:88/live/1827214806/9371309264/1019369.ts
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=599152&extension=ts&play_token=wx9opTqBFN 
 #EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD 
-http://161.123.116.21:80/live/Raymond/Raymond12/1689992.ts 
+http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/125445 
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD 
-http://161.123.116.21:80/live/Raymond/Raymond12/1689991.ts 
+http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/125446 
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE 
-http://mytv-extra.com:88/live/1827214806/9371309264/400652586.ts 
+http://zeintv.xyz:8080/live/393452883A/4294683570/291544.ts 
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY  
 http://161.123.116.21:80/live/Raymond/Raymond12/1689989.ts 
 
