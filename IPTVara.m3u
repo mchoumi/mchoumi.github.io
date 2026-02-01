@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://www.open-epg.com/files/saudiarabia1.xml.gz" 
 
 #EXTINF:-1 tvg-id="MBC 2 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/54382
+http://mytv-extra.com:88/live/1827214806/9371309264/22794.ts
 #EXTINF:-1 tvg-id="MBC Max HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/54373 
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
@@ -62,7 +62,7 @@ http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2128
 http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2127 
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8 
+http://mytv-extra.com:88/live/1827214806/9371309264/2277.ts 
 #EXTINF:-1 tvg-id="OSN TV Yahala Aflam.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA BILARABI 
 http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts 
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam 
@@ -85,7 +85,7 @@ https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist
 #EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC.png" group-title="Arabic",MBC 1 
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8 
 #EXTINF:-1 tvg-id="MBC 4 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC4.png" group-title="Arabic",MBC 4 
-http://zeintv.xyz:8080/live/393452883A/4294683570/274933.ts 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8 
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC5.png" group-title="Arabic",MBC 5 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Drama HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png" group-title="Arabic",MBC Drama 
@@ -95,13 +95,13 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 #EXTINF:-1 tvg-id="MBC Maser 2.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="Arabic",MBC Masr 2 
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1446594 
 #EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png" group-title="Arabic",MBC Plus Drama 
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8 
 #EXTINF:-1 tvg-id="Nat. Geo. AD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAB.png" group-title="Arabic",National Geographic Abu Dhabi 
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Al Jazeera Documentary HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/JazeeraDocumentary.png" group-title="Arabic",Al Jazeera Documentary 
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8 
 #EXTINF:-1 tvg-id="Al Araby HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby.png" group-title="Arabic",Alaraby TV 
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/chunks_video_1080p.m3u8 
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8 
 #EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://mchoumi.github.io/LOGOs/Alaraby2.png" group-title="Arabic",Alaraby TV 2 
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8 
 #EXTINF:-1 tvg-id="Fatafeat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD 
@@ -203,7 +203,7 @@ http://de.sl-ott.com:8080/live/VPm9dg23Fg/inDtwanxxC/633374.ts
 http://noruqfx.top:8080/live/191703089055131/01703089055686/8131.ts
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV 
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8 
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8 
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV 
 http://ktv.im:8080/live/William287263/Davidas7262636/51188.ts 
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Animation 
