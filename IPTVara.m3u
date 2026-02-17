@@ -91,7 +91,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 #EXTINF:-1 tvg-id="MBC Drama HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png" group-title="Arabic",MBC Drama 
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8 
 #EXTINF:-1 tvg-id="MBC Maser.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png" group-title="Arabic",MBC Masr 1 
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Maser 2.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="Arabic",MBC Masr 2 
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1446594 
 #EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png" group-title="Arabic",MBC Plus Drama 
