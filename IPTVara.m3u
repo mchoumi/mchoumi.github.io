@@ -23,9 +23,9 @@ http://vipbhbiss.top:8080/live/VIP013961741195150363/426164261fc5/132311.ts
 http://vipbhbiss.top:8080/live/VIP013961741195150363/426164261fc5/418.ts 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
-http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
-http://kstv.us:8080/live/yb4yWv90vN/1007275994/47813.ts
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47813.ts
 #EXTINF:-1 tvg-id="SkyStore1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
 http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/741747 
 #EXTINF:-1 tvg-id="SkyStore2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
@@ -162,9 +162,9 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://sky-tv.org:88//live/02021349372647/7416812501/94360.ts
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/94360.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
-http://newultra.xyz:8080/live/6RJd4A5s8RAA/QGQ7aTX66FTG/264505.ts 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=103662&extension=ts&play_token=qnQuVedqfN 
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://line.wishiptv.vip:80/play/live.php?mac=00:1A:79:7f:9a:5d&stream=1951195&extension=ts&play_token=1FSZP7Islc
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
@@ -207,13 +207,13 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV 
 http://ktv.im:8080/live/William287263/Davidas7262636/51188.ts 
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Animation 
-http://kstv.us:8080/live/yb4yWv90vN/1007275994/47814.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47814.ts 
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney+ 2 
 http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/3229.ts 
 #EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY 
 http://cod.kim:19741/live/742783959639/103915434161/140057.ts 
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids 
-http://mytv-extra.com:88/live/1827214806/9371309264/400652558.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/115308.ts 
 #EXTINF:-1 tvg-id="MBC 3 HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1654&extension=ts&play_token=vMvKEDnL7h 
 #EXTINF:-1 tvg-id="Cartoon Network Arabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia 
