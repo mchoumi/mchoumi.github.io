@@ -223,7 +223,7 @@ http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275762&extens
 #EXTINF:-1 tvg-id="Spacetoon.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1283&extension=ts&play_token=vwy79K8t9K 
 
-#EXTINF:-1,=== dream4ktv ===
+#EXTINF:-1 group-title="Sports",=== dream4ktv ===
 http://0.0.0.0
 #EXTINF:-1 tvg-id="Bein1" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HD 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534831&extension=ts&play_token=zmcgbCdZjW 
@@ -242,7 +242,7 @@ http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=578834&extens
 #EXTINF:-1 tvg-id="Bein8" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 HD 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=578835&extension=ts&play_token=CnCr1ZsMfL 
 
-#EXTINF:-1,=== redmytv ===
+#EXTINF:-1 group-title="Sports",=== redmytv ===
 http://0.0.0.0
 #EXTINF:-1 tvg-id="Bein1" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 FHD 
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1461007 
@@ -261,7 +261,7 @@ http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1591580
 #EXTINF:-1 tvg-id="Bein8" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 FHD 
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1591581 
 
-#EXTINF:-1,=== redmytv ===
+#EXTINF:-1 group-title="Sports",=== redmytv ===
 http://0.0.0.0
 #EXTINF:-1 tvg-id="Bein1" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 4K 
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1461007 
@@ -280,7 +280,7 @@ http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1591580
 #EXTINF:-1 tvg-id="Bein8" tvg-name="BEIN SPORTS 8 4K" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 4K 
 http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968409 
 
-#EXTINF:-1,=== kstv ===
+#EXTINF:-1 group-title="Sports",=== kstv ===
 http://0.0.0.0
 #EXTINF:-1 tvg-id="Bein1" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HEVC 
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12554.ts 
@@ -306,7 +306,7 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330447&
 #EXTINF:-1 tvg-id="BeinXtra3" tvg-name="BEIN SPORTS XTRA 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsXtra2.png" group-title="Sports",BEIN SPORTS XTRA 3 HD 
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330448&extension=ts&play_token=iA2NeL4jUS 
 
-#EXTINF:-1,=== redmytv ===
+#EXTINF:-1 group-title="Sports",=== redmytv ===
 http://0.0.0.0
 #EXTINF:-1 tvg-id="BeinEng1" tvg-name="BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsEN1.png" group-title="Sports",BEIN SPORTS ENGLISH 1 HD 
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/112452 
