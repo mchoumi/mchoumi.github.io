@@ -190,7 +190,7 @@ http://mytv-extra.com:88/live/1827214806/9371309264/756.ts
 #EXTINF:-1 tvg-id="France24French.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/France24.png",France 24 
 http://mytv-extra.com:88/live/1827214806/9371309264/755.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Backup
-http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148461&extension=ts&play_token=e4hkqukOLZ 
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/192831.ts 
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Backup
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202465.ts 
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 Backup
@@ -201,6 +201,8 @@ http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202467.ts
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202468.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Backup
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/319554.ts
+#EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Backup
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/319548.ts
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV 
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8 
