@@ -93,7 +93,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 #EXTINF:-1 tvg-id="MBC Maser.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png" group-title="Arabic",MBC Masr 1 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Maser 2.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="Arabic",MBC Masr 2 
-http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/1446594 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1446594 
 #EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png" group-title="Arabic",MBC Plus Drama 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8 
 #EXTINF:-1 tvg-id="Nat. Geo. AD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAB.png" group-title="Arabic",National Geographic Abu Dhabi 
@@ -168,7 +168,7 @@ http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=103662&ex
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://line.wishiptv.vip:80/play/live.php?mac=00:1A:79:7f:9a:5d&stream=1951195&extension=ts&play_token=1FSZP7Islc
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
-http://newreality2020.com:25461/live/Senhoracedeporto/24agosto2025/151179.ts 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=32756&extension=ts&play_token=wLUoxRI0MG 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
