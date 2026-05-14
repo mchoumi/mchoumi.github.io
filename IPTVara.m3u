@@ -170,7 +170,7 @@ http://line.wishiptv.vip:80/play/live.php?mac=00:1A:79:7f:9a:5d&stream=1951195&e
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127282.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127281.ts 
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936802&extension=ts&play_token=eaXUq7P2Ix 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
