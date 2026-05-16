@@ -14,13 +14,13 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8 
 
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/130831
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936874&extension=ts&play_token=mDBGUdenwY
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1287110
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936872&extension=ts&play_token=fJvtZs6Ldu
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/564043
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936880&extension=ts&play_token=vCTVZ6bZeh
 #EXTINF:-1 tvg-id="CanalPlus.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/131204 
+http://majestictv.info:25461//live/828287499615/943269157576/69062.ts 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47820.ts 
@@ -69,13 +69,13 @@ http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi.sa" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD 
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1440262 
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=660666&extension=ts&play_token=eIoOekvURG 
 #EXTINF:-1 tvg-id="Al Emarat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Al Emarat TV 
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/2192 
 #EXTINF:-1 tvg-id="Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1058342&extension=ts&play_token=JDqlOqaMep 
 #EXTINF:-1 tvg-id="SAMA Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1273 
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=660671&extension=ts&play_token=KXSdCXgSA5 
 #EXTINF:-1 tvg-id="Sharjah TV.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV 
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2 
@@ -107,11 +107,11 @@ https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_
 #EXTINF:-1 tvg-id="Fatafeat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/Fatafeat.png" group-title="Arabic",FATAFEAT HD 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=73783&extension=ts&play_token=mny9JLYE2B 
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",Samira TV 
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/228075.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/7345.ts 
 #EXTINF:-1 tvg-id="Echorouk TV HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukTV.png" group-title="Arabic",Echorouk TV 
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/213447.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/34777.ts 
 #EXTINF:-1 tvg-id="Echorouk News.ar" tvg-logo="https://mchoumi.github.io/LOGOs/EchouroukNews.png" group-title="Arabic",Echorouk News 
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/218226.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/34778.ts 
 #EXTINF:-1 tvg-id="ElBilad.dz" tvg-logo="https://mchoumi.github.io/LOGOs/ElBilad.png" group-title="Arabic",El Bilad 
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/218227.ts 
 #EXTINF:-1 tvg-id="Ennahar TV.ar" tvg-logo="https://mchoumi.github.io/LOGOs/Ennahar.png" group-title="Arabic",Ennahar TV 
