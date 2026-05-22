@@ -162,7 +162,7 @@ http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127278.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127279.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/94360.ts
+http://4hi-ott.me:9022/live/3zmy921/123456/1848790.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=103662&extension=ts&play_token=qnQuVedqfN 
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
