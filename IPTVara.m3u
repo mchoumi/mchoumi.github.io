@@ -69,13 +69,13 @@ http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi.sa" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:33:40:70&stream=660666&extension=ts&play_token=uD1xUZakzA 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803517.ts 
 #EXTINF:-1 tvg-id="Al Emarat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Al Emarat TV 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:33:40:70&stream=660665&extension=ts&play_token=uSWbxRHdBt 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803518.ts 
 #EXTINF:-1 tvg-id="Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1058342&extension=ts&play_token=JDqlOqaMep 
 #EXTINF:-1 tvg-id="SAMA Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:33:40:70&stream=660670&extension=ts&play_token=EQYiEIL2xO 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803505.ts 
 #EXTINF:-1 tvg-id="Sharjah TV.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV 
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2 
@@ -117,11 +117,11 @@ http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/218227.ts
 #EXTINF:-1 tvg-id="Ennahar TV.ar" tvg-logo="https://mchoumi.github.io/LOGOs/Ennahar.png" group-title="Arabic",Ennahar TV 
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/226050.ts 
 #EXTINF:-1 tvg-id="ENTV.dz" tvg-logo="https://mchoumi.github.io/LOGOs/TV1.png" group-title="Arabic",Algerie TV1 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:33:40:70&stream=368773&extension=ts&play_token=Lv8EwIObCJ 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/7353.ts 
 #EXTINF:-1 tvg-id="Algérie 2 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV2.png" group-title="Arabic",Algerie TV2 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:33:40:70&stream=368772&extension=ts&play_token=ecG8FAq4B3 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/7356.ts 
 #EXTINF:-1 tvg-id="Algérie 3 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV3.png" group-title="Arabic",Algerie TV3 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:33:40:70&stream=368771&extension=ts&play_token=hBUKXz2Jy5 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/7355.ts 
 #EXTINF:-1 tvg-id="Algérie 6 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV6.png" group-title="Arabic",Algerie TV6 
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/213441.ts 
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",SamiraTV 
