@@ -69,13 +69,13 @@ http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi.sa" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD 
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803517.ts 
+http://a47.streamtrx.xyz:80/play/live.php?mac=A0:BB:3E:04:A6:D0&stream=2079474&extension=ts&play_token=hYfhSz1mLe 
 #EXTINF:-1 tvg-id="Al Emarat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Al Emarat TV 
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803518.ts 
 #EXTINF:-1 tvg-id="Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1058342&extension=ts&play_token=JDqlOqaMep 
 #EXTINF:-1 tvg-id="SAMA Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803505.ts 
+http://a47.streamtrx.xyz:80/play/live.php?mac=A0:BB:3E:04:A6:D0&stream=8185&extension=ts&play_token=mT2EG9s8D3 
 #EXTINF:-1 tvg-id="Sharjah TV.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV 
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2 
@@ -93,7 +93,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 #EXTINF:-1 tvg-id="MBC Maser.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr.png" group-title="Arabic",MBC Masr 1 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Maser 2.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="Arabic",MBC Masr 2 
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1446594 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8 
 #EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDramaPlus.png" group-title="Arabic",MBC Plus Drama 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8 
 #EXTINF:-1 tvg-id="Nat. Geo. AD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAB.png" group-title="Arabic",National Geographic Abu Dhabi 
