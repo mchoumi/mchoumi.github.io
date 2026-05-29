@@ -208,14 +208,18 @@ http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202629.ts
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8 
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV 
 http://ktv.im:8080/live/William287263/Davidas7262636/51188.ts 
+#EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Kids",beIN MOVIES KIDS
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/59080.ts
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Family
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47817.ts 
+#EXTINF:-1 tvg-id="OSNFamiky" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Family
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/394059.ts
+#EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/115308.ts
 #EXTINF:-1 tvg-id="Disney AR" tvg-logo="https://mchoumi.github.io/LOGOs/DisneyChannel.png" group-title="Kids",Disney+ 2 
 http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/3229.ts 
 #EXTINF:-1 tvg-id="beINMovies4Family.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINFamily.png" group-title="Kids",beIN MOVIES HD 4 FAMILY 
-http://cod.kim:19741/live/742783959639/103915434161/140057.ts 
-#EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids 
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/115308.ts 
+http://cod.kim:19741/live/742783959639/103915434161/140057.ts  
 #EXTINF:-1 tvg-id="MBC 3 HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="Kids",MBC 3 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1654&extension=ts&play_token=vMvKEDnL7h 
 #EXTINF:-1 tvg-id="Cartoon Network Arabic.ae" tvg-logo="https://mchoumi.github.io/LOGOs/CNArabia.webp" group-title="Kids",Cartoon Network Arabia 
