@@ -34,19 +34,19 @@ http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/213441.ts
 
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1724786 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148461&extension=ts&play_token=iD4flgtuqS 
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1724787 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148463&extension=ts&play_token=b0csRMaHHs 
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1724788 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148466&extension=ts&play_token=cdPJPYrzRG 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1724789 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148467&extension=ts&play_token=6oHfIsV7zu 
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1724790
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148468&extension=ts&play_token=RgxL6Og7hA
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1724768
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=32756&extension=ts&play_token=6zlnnxNjc7
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/118334
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=103662&extension=ts&play_token=m1Gh0Cr7Ti
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:1E:04:6A&stream=157580&extension=ts&play_token=V7LR1fobCp
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
