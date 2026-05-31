@@ -154,7 +154,7 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/634532.ts
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127275.ts
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127297.ts
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127276.ts 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 
