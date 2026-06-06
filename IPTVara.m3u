@@ -23,9 +23,9 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=93688
 http://majestictv.info:25461//live/828287499615/943269157576/69062.ts 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47820.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47813.ts
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47813.ts
 #EXTINF:-1 tvg-id="SkyStore1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/741747 
 #EXTINF:-1 tvg-id="SkyStore2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
@@ -289,21 +289,21 @@ http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/576500.ts
 #EXTINF:-1 group-title="Sports",=== kstv ===
 http://0.0.0.0
 #EXTINF:-1 tvg-id="Bein1" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HEVC 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12554.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12554.ts 
 #EXTINF:-1 tvg-id="Bein2" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports2.png" group-title="Sports",BEIN SPORTS 2 HEVC 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12553.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12553.ts 
 #EXTINF:-1 tvg-id="Bein3" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports3.png" group-title="Sports",BEIN SPORTS 3 HEVC 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12552.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12552.ts 
 #EXTINF:-1 tvg-id="Bein4" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports4.png" group-title="Sports",BEIN SPORTS 4 HEVC 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12551.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12551.ts 
 #EXTINF:-1 tvg-id="Bein5" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports5.png" group-title="Sports",BEIN SPORTS 5 HEVC 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12550.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12550.ts 
 #EXTINF:-1 tvg-id="Bein6" tvg-name="BEIN SPORTS 6 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports6.png" group-title="Sports",BEIN SPORTS 6 HEVC 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12549.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12549.ts 
 #EXTINF:-1 tvg-id="Bein7" tvg-name="BEIN SPORTS 7 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports7.png" group-title="Sports",BEIN SPORTS 7 HEVC 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12548.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12548.ts 
 #EXTINF:-1 tvg-id="Bein8" tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports8.png" group-title="Sports",BEIN SPORTS 8 HEVC 
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12547.ts 
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12547.ts 
 
 #EXTINF:-1 tvg-id="BeinXtra1" tvg-name="BEIN SPORTS XTRA 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsXtra1.png" group-title="Sports",BEIN SPORTS XTRA 1 HD 
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330446&extension=ts&play_token=bV3oBWvGAO 
