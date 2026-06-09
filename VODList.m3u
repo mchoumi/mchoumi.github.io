@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" content-type="1 tvg-name="Sherlock Holmes (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/momkKuWburNTqKBF6ez7rvhYVhE.jpg" group-title="THRILLER",Sherlock Holmes (2009)
+#EXTINF:-1 tvg-id="" content-type="1" tvg-name="Sherlock Holmes (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/momkKuWburNTqKBF6ez7rvhYVhE.jpg" group-title="THRILLER",Sherlock Holmes (2009)
+http://m1.webvps.de:25443/movie/Socrate1/L3T8DCD7UR/161446.mkv
+#EXTINF:-1 tvg-id="" content-type="1" tvg-name="Inception" tvg-logo="https://image.tmdb.org/t/p/original/o07wALZ73gzoVc1SDZ666Y1S6km.jpg" group-title="THRILLER",Inception
 http://m1.webvps.de:25443/movie/Socrate1/L3T8DCD7UR/161446.mkv
