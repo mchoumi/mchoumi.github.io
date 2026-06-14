@@ -306,6 +306,7 @@ http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12548.ts
 http://206.212.242.21:8080/live/Cruzvictor148/9354907121/12547.ts 
 
 #EXTINF:-1 group-title="Sports",=== Bein Events ===
+http://0.0.0.0
 #EXTINF:-1 tvg-id="BeinNews" tvg-name="BEIN SPORTS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",BEIN SPORTS NEWS 
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/369.ts
 #EXTINF:-1 tvg-id="BeinSport" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports.png" group-title="Sports",BEIN SPORTS
@@ -315,9 +316,9 @@ http://www.r56mail.bingo:80/live/xasez13/aHnr65d/112538.ts
 #EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN SPORTS MAX 2 
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/112489.ts 
 #EXTINF:-1 tvg-id="BeinMax3" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX3.png" group-title="Sports",BEIN SPORTS MAX 3 
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/837.ts
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1948328&extension=ts&play_token=19IM3FXGbC
 #EXTINF:-1 tvg-id="BeinMax4" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX4.png" group-title="Sports",BEIN SPORTS MAX 4 
-http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/576496.ts 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=146062&extension=ts&play_token=PGaXZsjuxL 
 #EXTINF:-1 tvg-id="BeinGlobal" tvg-name="BEIN SPORTS GLOBAL HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsGlobal.jpg" group-title="Sports",BEIN SPORTS GLOBAL HD 
 http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/881470.ts 
 
