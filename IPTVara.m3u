@@ -229,6 +229,37 @@ http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275762&extens
 #EXTINF:-1 tvg-id="Spacetoon.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1283&extension=ts&play_token=vwy79K8t9K 
 
+#EXTINF:-1 group-title="Sports",=== WC 2026 ===
+http://0.0.0.0
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="BEIN SPORTS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",BEIN Max 1 FR 
+http://xy8t.com:8080/live/veronica-amigo/kSxF2bBb/1589.ts
+#EXTINF:-1 tvg-id="BeinSport" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports.png" group-title="Sports",BEIN MAX 1
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1944369&extension=ts&play_token=UQJuEpdHaL
+#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX1.png" group-title="Sports",BEIN MAX 2
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1944370&extension=ts&play_token=SqLc19yxCv 
+#EXTINF:-1 tvg-id="BeinMax1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN MAX 1 http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/1944369.ts
+#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX1.png" group-title="Sports",BEIN MAX 2
+http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/1944370.ts
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",DAZN 
+http://dejatedemamadas.neospaxy.top:8080/51743950417706/78a858f38168/73776
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Bein Max 1
+http://get.acccesclassico.qpon/live/Kld133/98886418/85206.ts
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Bein Max 1
+http://get.acccesclassico.qpon/live/Kld133/98886418/85207.ts
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Fussball TV 1 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850580.ts
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Fussball TV 2 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850583.ts
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",TRT 1 
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",DAD ERSTE 
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",RAI 1 
+http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850623.ts
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",RAI 4K 
+http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850621.ts
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",BBC1 
+http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850661.ts
+
+
 #EXTINF:-1 group-title="Sports",=== dream4ktv ===
 http://0.0.0.0
 #EXTINF:-1 tvg-id="Bein1" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/beINSports1.png" group-title="Sports",BEIN SPORTS 1 HD 
