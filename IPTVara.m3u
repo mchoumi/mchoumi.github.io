@@ -229,7 +229,7 @@ http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275762&extens
 #EXTINF:-1 tvg-id="Spacetoon.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="Kids":http-user-agent="",Spacetoon 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1283&extension=ts&play_token=vwy79K8t9K 
 
-#EXTINF:-1 group-title="Sports",=== WC 2026 ===
+#EXTINF:-1 group-title="Sports",⚽ WC 2026 ⚽
 http://0.0.0.0
 #EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",M6 HD 
 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850643.ts
