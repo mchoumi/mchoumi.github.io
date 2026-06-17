@@ -239,17 +239,17 @@ http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850642.ts
 http://xy8t.com:8080/live/veronica-amigo/kSxF2bBb/1589.ts
 #EXTINF:-1 tvg-id="BeinMax1" tvg-name="BeinMax1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX1.png" group-title="Sports",BEIN MAX 1
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1944369&extension=ts&play_token=UQJuEpdHaL
-#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX2.png" group-title="Sports",BEIN MAX 2
+#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN MAX 2
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1944370&extension=ts&play_token=SqLc19yxCv 
 #EXTINF:-1 tvg-id="BeinMax1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX1.png" group-title="Sports",BEIN MAX 1 
 http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/1944369.ts
-#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMAX2.png" group-title="Sports",BEIN MAX 2
+#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN MAX 2
 http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/1944370.ts
 #EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png" group-title="Sports",DAZN 
 http://dejatedemamadas.neospaxy.top:8080/51743950417706/78a858f38168/73776
 #EXTINF:-1 tvg-id="BeinMax1" tvg-name="BeinMax1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Bein Max 1
 http://get.acccesclassico.qpon/live/Kld133/98886418/85206.ts
-#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BeinMax2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Bein Max 2
+#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BeinMax2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",Bein Max 2
 http://get.acccesclassico.qpon/live/Kld133/98886418/85207.ts
 #EXTINF:-1 tvg-id="Fussball1" tvg-name="Fussball1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Fussball TV 1 
 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850580.ts
@@ -261,6 +261,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RAI1" tvg-name="RAI1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Sports",RAI 1 
 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850623.ts
+#EXTINF:-1 tvg-id="RAI1" tvg-name="RAI1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-1-hd-it.png" group-title="Sports",RAI 1 
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="RAI4K" tvg-name="RAI4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-1-hd-it.png" group-title="Sports",RAI 4K 
 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850621.ts
 #EXTINF:-1 tvg-id="BBC1" tvg-name="BBC1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png" group-title="Sports",BBC1 
