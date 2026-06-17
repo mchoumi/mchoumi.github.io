@@ -162,11 +162,11 @@ http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127278.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127279.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://4hi-ott.me:9022/live/3zmy921/123456/1848790.ts
+http://12k-service.org/live/Xbenrfbixr/32049c1vvu/103662.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
-http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=103662&extension=ts&play_token=qnQuVedqfN 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=103662&extension=ts&play_token=RFz4diLA15 
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:33:40:70&stream=900666&extension=ts&play_token=WvNHNajqAD
+http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127303.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
@@ -202,7 +202,7 @@ http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319553
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Backup
 http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319554
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Backup
-http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319548
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202629.ts
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV 
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8 
