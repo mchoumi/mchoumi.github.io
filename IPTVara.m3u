@@ -168,7 +168,7 @@ http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=103662&ex
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127303.ts
+http://12k-service.org/live/Xbenrfbixr/32049c1vvu/264280.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
 http://12k-service.org/live/Xbenrfbixr/32049c1vvu/275670.ts 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
