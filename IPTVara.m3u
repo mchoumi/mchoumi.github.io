@@ -14,13 +14,13 @@ https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx012/1080p-d/index.m3u8 
 
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936874&extension=ts&play_token=mDBGUdenwY
+http://hlmtv.shop:8080/live/detarikbaygin/COHue3vIWS/135821.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936872&extension=ts&play_token=fJvtZs6Ldu
+http://12k-service.org/live/Xbenrfbixr/32049c1vvu/569676.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936880&extension=ts&play_token=vCTVZ6bZeh
+http://12k-service.org/live/Xbenrfbixr/32049c1vvu/250640.ts
 #EXTINF:-1 tvg-id="CanalPlus.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
-http://majestictv.info:25461//live/828287499615/943269157576/69062.ts 
+http://hlmtv.shop:8080/live/detarikbaygin/COHue3vIWS/135818.ts 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47820.ts 
