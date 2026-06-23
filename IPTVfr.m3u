@@ -32,6 +32,21 @@ http://noruqfx.top:8080/live/191703089055131/01703089055686/52832.ts
 #EXTINF:-1 tvg-id="Algérie 6 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV6.png" group-title="Arabic",Algerie TV6 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/213441.ts 
 
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Backup
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/318527.ts 
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Backup
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202465.ts 
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 Backup
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202466.ts 
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 Backup
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202467.ts 
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 Backup
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202468.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Backup
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/228301.ts
+#EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Backup
+http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/319548.ts
+
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148461&extension=ts&play_token=iD4flgtuqS 
