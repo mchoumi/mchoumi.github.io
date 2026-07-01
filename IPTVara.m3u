@@ -162,7 +162,7 @@ http://12k-service.org/live/Xbenrfbixr/32049c1vvu/275762.ts
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://12k-service.org/live/Xbenrfbixr/32049c1vvu/275804.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/103662.ts
+http://line.mag7070.eu:80/play/live.php?mac=A0:BB:3E:00:17:DA&stream=900666&extension=ts&play_token=W2Or0A6n9j
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=103662&extension=ts&play_token=RFz4diLA15 
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
