@@ -246,13 +246,17 @@ http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/1944369.ts
 #EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN MAX 2
 http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/1944370.ts
 #EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png" group-title="Sports",DAZN 
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/73771
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/73775
+#EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png" group-title="Sports",DAZN HD
+http://line.mag7070.eu:80/play/live.php?mac=A0:BB:3E:00:17:DA&stream=1745110&extension=ts&play_token=ETdLSFOopo
 #EXTINF:-1 tvg-id="BeinMax1" tvg-name="BeinMax1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Bein Max 1
 http://line.mag7070.eu:80/play/live.php?mac=A0:BB:3E:00:17:DA&stream=1745083&extension=ts&play_token=0gUKTUVhg7
 #EXTINF:-1 tvg-id="BeinMax2" tvg-name="BeinMax2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",Bein Max 2
 http://line.mag7070.eu:80/play/live.php?mac=A0:BB:3E:00:17:DA&stream=1745084&extension=ts&play_token=5sfv6ZRLO1
 #EXTINF:-1 tvg-id="Fussball1" tvg-name="Fussball1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Fussball TV 1 
 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850580.ts
+#EXTINF:-1 tvg-id="Fussball1" tvg-name="Fussball1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Fussball TV 1 4k
+http://line.mag7070.eu:80/play/live.php?mac=A0:BB:3E:00:17:DA&stream=1745095&extension=ts&play_token=mgEnWAFEdN
 #EXTINF:-1 tvg-id="Fussball2" tvg-name="Fussball2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Fussball TV 2 
 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850583.ts
 #EXTINF:-1 tvg-id="TRT1" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-hd-tr.png" group-title="Sports",TRT 1 
