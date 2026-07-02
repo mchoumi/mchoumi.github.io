@@ -152,15 +152,15 @@ http://rt-arab.secure.footprint.net:80/1104.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8 
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/264279.ts
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/57478
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 
 http://12k-service.org/live/Xbenrfbixr/32049c1vvu/582079.ts
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/582080.ts 
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8114 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/275762.ts
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8115
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/275804.ts
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8116
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
 http://line.mag7070.eu:80/play/live.php?mac=A0:BB:3E:00:17:DA&stream=900666&extension=ts&play_token=W2Or0A6n9j
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
@@ -168,9 +168,9 @@ http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=103662&ex
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/275759.ts
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/57479
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/275670.ts 
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8083 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
@@ -246,11 +246,11 @@ http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/1944369.ts
 #EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN MAX 2
 http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/1944370.ts
 #EXTINF:-1 tvg-id="BeinNews" tvg-name="DAZN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png" group-title="Sports",DAZN 
-http://dejatedemamadas.neospaxy.top:8080/51743950417706/78a858f38168/73776
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/73771
 #EXTINF:-1 tvg-id="BeinMax1" tvg-name="BeinMax1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Bein Max 1
-http://get.acccesclassico.qpon/live/Kld133/98886418/85206.ts
+http://line.mag7070.eu:80/play/live.php?mac=A0:BB:3E:00:17:DA&stream=1745083&extension=ts&play_token=0gUKTUVhg7
 #EXTINF:-1 tvg-id="BeinMax2" tvg-name="BeinMax2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",Bein Max 2
-http://get.acccesclassico.qpon/live/Kld133/98886418/85207.ts
+http://line.mag7070.eu:80/play/live.php?mac=A0:BB:3E:00:17:DA&stream=1745084&extension=ts&play_token=5sfv6ZRLO1
 #EXTINF:-1 tvg-id="Fussball1" tvg-name="Fussball1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Fussball TV 1 
 http://glassx42.xyz:8080/live/ThorstenB3k9E/PjLX3x8yj2/850580.ts
 #EXTINF:-1 tvg-id="Fussball2" tvg-name="Fussball2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsNews.png" group-title="Sports",Fussball TV 2 
