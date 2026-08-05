@@ -23,9 +23,9 @@ http://12k-service.org/live/Xbenrfbixr/32049c1vvu/250640.ts
 http://hlmtv.shop:8080/live/detarikbaygin/COHue3vIWS/135818.ts 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
-http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47820.ts 
+http://172.110.221.91:8080/live/JHicks248/pd4ctABKjaEx/20920.ts 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
-http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47813.ts
+http://172.110.221.91:8080/live/JHicks248/pd4ctABKjaEx/20936.ts
 #EXTINF:-1 tvg-id="SkyStore1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/741747 
 #EXTINF:-1 tvg-id="SkyStore2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
@@ -213,7 +213,7 @@ http://ktv.im:8080/live/William287263/Davidas7262636/51188.ts
 #EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Kids",beIN MOVIES KIDS
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/59080.ts
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Family
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47817.ts 
+http://172.110.221.91:8080/live/JHicks248/pd4ctABKjaEx/20925.ts 
 #EXTINF:-1 tvg-id="OSNFamiky" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Family
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/394059.ts
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids 
