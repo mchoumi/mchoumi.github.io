@@ -40,11 +40,11 @@ http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/741751
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=599152&extension=ts&play_token=wx9opTqBFN 
 #EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD 
-http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/27732.ts 
+http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48911.ts 
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD 
-http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/27737.ts 
+http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48929.ts 
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE 
-http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/15035.ts 
+http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48912.ts 
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY  
 http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/15038.ts 
 
@@ -62,20 +62,20 @@ http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/28553
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/28552 
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
-http://sl210.org:8080/live/GvmpT2gxKB/VkFub5FW8t/30076.ts 
+http://www.r56mail.bingo:80/live/xasez13/aHnr65d/682.ts 
 #EXTINF:-1 tvg-id="OSN TV Yahala Aflam.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA BILARABI 
 http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts 
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam 
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi.sa" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD 
-http://sl210.org:8080/live/GvmpT2gxKB/VkFub5FW8t/162587.ts 
+http://www.r56mail.bingo:80/live/xasez13/aHnr65d/2802.ts 
 #EXTINF:-1 tvg-id="Al Emarat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Al Emarat TV 
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803518.ts 
+http://www.r56mail.bingo:80/live/xasez13/aHnr65d/195315.ts 
 #EXTINF:-1 tvg-id="Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
-http://sl210.org:8080/live/GvmpT2gxKB/VkFub5FW8t/30098.ts 
+http://www.r56mail.bingo:80/live/xasez13/aHnr65d/681.ts 
 #EXTINF:-1 tvg-id="SAMA Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
-http://sl210.org:8080/live/GvmpT2gxKB/VkFub5FW8t/598.ts 
+http://www.r56mail.bingo:80/live/xasez13/aHnr65d/2803.ts 
 #EXTINF:-1 tvg-id="Sharjah TV.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV 
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2 
