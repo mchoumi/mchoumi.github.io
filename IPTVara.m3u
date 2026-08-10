@@ -154,11 +154,11 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/57478
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 
-http://proiptv.tn:1234/live/amina2025/123456789/209.ts
+http://103.176.90.143:80/play/live.php?mac=00:1A:79:76:66:be&stream=1972432&extension=ts&play_token=VVJgEhVjNL
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8114 
+http://103.176.90.143:80/play/live.php?mac=00:1A:79:76:66:be&stream=1972431&extension=ts&play_token=HHPUuIykMv 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8115
+http://103.176.90.143:80/play/live.php?mac=00:1A:79:76:66:be&stream=1972429&extension=ts&play_token=SJLGajUPzT
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8116
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
