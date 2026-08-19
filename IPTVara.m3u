@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://www.open-epg.com/files/saudiarabia1.xml.gz" 
 
 #EXTINF:-1 tvg-id="MBC 2 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
-http://yolomax.pro:80/live/TGBU65S/7HL6XS5/31263.ts
+http://hlmtv.shop:8080/live/ilkersoylemez/uqmAGP42gn/138483.ts
 #EXTINF:-1 tvg-id="MBC Max HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=1058042&extension=ts&play_token=FVuJzN3pWa
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
