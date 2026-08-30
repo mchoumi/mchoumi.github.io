@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="MBC 2 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/54382
 #EXTINF:-1 tvg-id="MBC Max HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
-http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=1058042&extension=ts&play_token=FVuJzN3pWa
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/54373
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/53053 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
@@ -40,13 +40,13 @@ http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/741751
 #EXTINF:-1 tvg-id="OSN Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Movies",OSN Movies Family 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=599152&extension=ts&play_token=wx9opTqBFN 
 #EXTINF:-1 tvg-id="OSN Hollywood" tvg-logo="https://mchoumi.github.io/LOGOs/OSNHollywood.png" group-title="Movies",OSN MOVIES Hollywood HD 
-http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48911.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125445 
 #EXTINF:-1 tvg-id="OSN Action" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES ACTION HD 
-http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48929.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125446 
 #EXTINF:-1 tvg-id="OSN Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/OSNAction.png" group-title="Movies",OSN MOVIES PREMIERE 
-http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48912.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125447 
 #EXTINF:-1 tvg-id="OSN Comedy" tvg-logo="https://mchoumi.github.io/LOGOs/OSNComedy.png" group-title="Movies",OSN COMEDY  
-http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/15038.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125451 
 
 #EXTINF:-1 tvg-id="HBO Max" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO Max 
 http://103.100.169.51:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
@@ -62,11 +62,11 @@ http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/28553
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/28552 
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="Movies",Dubai One
-http://www.r56mail.bingo:80/live/xasez13/aHnr65d/682.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/1274 
 #EXTINF:-1 tvg-id="OSN TV Yahala Aflam.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA BILARABI 
-http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125454 
 #EXTINF:-1 tvg-id="OSNYaHalaAlOula.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahala.png" group-title="Movies",OSN YAHALA Aflam 
-http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125453 
 
 #EXTINF:-1 tvg-id="Abu Dhabi.sa" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD 
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/2802.ts 
