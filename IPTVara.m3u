@@ -69,15 +69,15 @@ http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125454
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125453 
 
 #EXTINF:-1 tvg-id="Abu Dhabi.sa" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD 
-http://www.r56mail.bingo:80/live/xasez13/aHnr65d/2802.ts 
+http://eljawda.net:88//live/6645047731/6645047731/803517.ts 
 #EXTINF:-1 tvg-id="Al Emarat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Al Emarat TV 
-http://www.r56mail.bingo:80/live/xasez13/aHnr65d/195315.ts 
+http://eljawda.net:88//live/6645047731/6645047731/803518.ts 
 #EXTINF:-1 tvg-id="Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
-http://www.r56mail.bingo:80/live/xasez13/aHnr65d/681.ts 
+http://eljawda.net:88//live/6645047731/6645047731/7400.ts 
 #EXTINF:-1 tvg-id="SAMA Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
-http://www.r56mail.bingo:80/live/xasez13/aHnr65d/2803.ts 
+http://eljawda.net:88//live/6645047731/6645047731/7401.ts 
 #EXTINF:-1 tvg-id="Sharjah TV.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV 
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2 
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://mchoumi.github.io/LOGOs/NourDubai.png" group-title="Arabic",Noor Dubai 
@@ -162,9 +162,9 @@ http://103.176.90.143:80/play/live.php?mac=00:1A:79:76:66:be&stream=1972429&exte
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8116
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://best-vision.online/live/b6PlvnoKdvcoweV/VhLvnxNyza/311411.ts
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:00:66:FA&stream=106935&extension=ts&play_token=8yb15WWsTb
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://59520-mixer.cdn-o2.me/live/60025c21f9/8ebc369d962e/249836.ts
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/118334
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=103662&extension=ts&play_token=RFz4diLA15 
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
@@ -172,7 +172,7 @@ http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8131
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8083 
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:00:66:FA&stream=106935&extension=ts&play_token=8yb15WWsTb 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
