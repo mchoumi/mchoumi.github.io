@@ -23,9 +23,9 @@ http://12k-service.org/live/Xbenrfbixr/32049c1vvu/250640.ts
 http://hlmtv.shop:8080/live/detarikbaygin/COHue3vIWS/135818.ts 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
-http://94.102.49.81:80/live/Mft2w9quQGDA/Gez8CZ9KgF/190838.ts 
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:08:53:b8&stream=1169114&extension=ts&play_token=08JVDwDzMc 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
-http://94.102.49.81:80/live/Mft2w9quQGDA/Gez8CZ9KgF/190832.ts
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:08:53:b8&stream=1169116&extension=ts&play_token=0sKKz7A1sP
 #EXTINF:-1 tvg-id="SkyStore1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
 http://britishmedia.uk/live/Dannybing2373/aC7GfSN/4513743.ts 
 #EXTINF:-1 tvg-id="SkyStore2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
