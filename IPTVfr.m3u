@@ -33,21 +33,20 @@ http://noruqfx.top:8080/live/191703089055131/01703089055686/52832.ts
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/213441.ts 
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Backup
-http://www.r56mail.bingo:80/xasez13/aHnr65d/1149 
+http://89.187.185.76:8080/TF1/index.m3u8 
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Backup
-http://www.r56mail.bingo:80/xasez13/aHnr65d/1150 
+http://89.187.185.76:8080/France2/index.m3u8 
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 Backup
-http://www.r56mail.bingo:80/xasez13/aHnr65d/1151 
+http://89.187.185.76:8080/France3/index.m3u8 
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 Backup
-http://www.r56mail.bingo:80/xasez13/aHnr65d/1152 
+http://89.187.185.76:8080/France4/index.m3u8 
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 Backup
-http://www.r56mail.bingo:80/xasez13/aHnr65d/1153
+http://89.187.185.76:8080/France5/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Backup
-http://www.r56mail.bingo:80/xasez13/aHnr65d/1154
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 4K
-http://www.r56mail.bingo:80/xasez13/aHnr65d/37745
+http://89.187.185.76:8080/M6/index.m3u8
+
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Backup
-http://www.r56mail.bingo:80/xasez13/aHnr65d/1638
+http://89.187.185.76:8080/Arte/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
