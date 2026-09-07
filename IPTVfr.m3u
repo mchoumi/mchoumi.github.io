@@ -32,41 +32,38 @@ http://noruqfx.top:8080/live/191703089055131/01703089055686/52832.ts
 #EXTINF:-1 tvg-id="Algérie 6 HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/TV6.png" group-title="Arabic",Algerie TV6 
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/213441.ts 
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Backup
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Flussonic
 http://89.187.185.76:8080/TF1/index.m3u8 
-#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Backup
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Flussonic
 http://89.187.185.76:8080/France2/index.m3u8 
-#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 Backup
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 Flussonic
 http://89.187.185.76:8080/France3/index.m3u8 
-#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 Backup
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 Flussonic
 http://89.187.185.76:8080/France4/index.m3u8 
-#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 Backup
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 Flussonic
 http://89.187.185.76:8080/France5/index.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Backup
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Flussonic
 http://89.187.185.76:8080/M6/index.m3u8
-
-#EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Backup
+#EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Flussonic
 http://89.187.185.76:8080/Arte/index.m3u8
+#EXTINF:-1  tvg-id="TV5 Style" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png",TV5 Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1 Flussonic2
+http://5.180.164.197:8080/TF1/index.m3u8
+#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2 Flussonic2
+http://5.180.164.197:8080/France2/index.m3u8 
+#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3 Flussonic2
+http://5.180.164.197:8080/France3/index.m3u8 
+#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4 Flussonic2
+http://5.180.164.197:8080/France4/index.m3u8 
+#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 Flussonic2
+http://5.180.164.197:8080/France5/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 Flussonic2
+http://5.180.164.197:8080/M6/index.m3u8
+#EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Flussonic2
+http://5.180.164.197:8080/Arte/index.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="France",TF1
-http://eljawda.net:88//live/XSMCXDYPMM/ME1ETFQVPB/634532.ts 
-#EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France2.png" group-title="France",FRANCE 2
-http://eljawda.net:88//live/XSMCXDYPMM/ME1ETFQVPB/127275.ts 
-#EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="France",France 3
-http://eljawda.net:88//live/XSMCXDYPMM/ME1ETFQVPB/127276.ts 
-#EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France4.png" group-title="France",FRANCE 4
-http://eljawda.net:88//live/XSMCXDYPMM/ME1ETFQVPB/127278.ts 
-#EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5
-http://eljawda.net:88//live/XSMCXDYPMM/ME1ETFQVPB/127279.ts
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6
-http://eljawda.net:88//live/XSMCXDYPMM/ME1ETFQVPB/127282.ts
-#EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=103662&extension=ts&play_token=m1Gh0Cr7Ti
-#EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:1E:04:6A&stream=157580&extension=ts&play_token=V7LR1fobCp
-#EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://eljawda.net:88//live/XSMCXDYPMM/ME1ETFQVPB/127281.ts 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1724785 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
