@@ -14,13 +14,13 @@ https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx012/1080p-d/index.m3u8 
 
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
-http://hlmtv.shop:8080/live/detarikbaygin/COHue3vIWS/135821.ts
+http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/106908.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/569676.ts
+http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/569466.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
-http://12k-service.org/live/Xbenrfbixr/32049c1vvu/250640.ts
+http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/1687063.ts
 #EXTINF:-1 tvg-id="CanalPlus.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
-http://hlmtv.shop:8080/live/detarikbaygin/COHue3vIWS/135818.ts 
+http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/207152.ts 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://zoralatte.com:8080/live/Cruzvictor148/9354907121/47820.ts 
@@ -162,7 +162,7 @@ http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/131041
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8116
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:00:66:FA&stream=106935&extension=ts&play_token=8yb15WWsTb
+http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/412820.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/118334
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
