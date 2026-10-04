@@ -23,6 +23,10 @@ http://prime8k.co:80/movie/52e4c1a1d2a9/b310183aeb/205812.mp4
 #
 #EXTINF:-1 tvg-type="movie" tvg-id="531219" tvg-name="كيرة  والجن (2022)" group-title="ARABIC",كيرة  والجن (2022)
 http://99gopro.org:8080/movie/3143964631211525/8147257234/531321.mp4
+#EXTINF:-1 tvg-type="movie" tvg-id="531219" tvg-name="السادة الأفاضل (2025)" group-title="ARABIC",السادة الأفاضل (2025)
+http://99gopro.org:8080/movie/3143964631211525/8147257234/530705.mkv
+#EXTINF:-1 tvg-type="movie" tvg-id="531219" tvg-name="إن غاب القط" group-title="ARABIC",إن غاب القط
+http://99gopro.org:8080/movie/3143964631211525/8147257234/530711.mkv
 
 # ==========================================
 # LA CASA DE PAPEL - SEASON 1
