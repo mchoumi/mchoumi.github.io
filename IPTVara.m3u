@@ -162,7 +162,7 @@ http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/131041
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://mchoumi.github.io/LOGOs/France5.png" group-title="France",FRANCE 5 
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8116
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
-http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/412820.ts
+http://103.175.129.86:80/live/2JT312ZUWRKQSEZ/VawOAGeucN/106630.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style HD
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/118334
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/Style.png" group-title="France",TV5 Style 
@@ -174,11 +174,11 @@ http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8131
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:00:66:FA&stream=106935&extension=ts&play_token=8yb15WWsTb 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
-http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/58336 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
-http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/9769.ts 
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/29793 
 #EXTINF:-1 tvg-id="Science.et.vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie 
-http://mytv-extra.com:88/live/1827214806/9371309264/994.ts 
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8177 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275682&extension=ts&play_token=l6FUFiChcU 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
