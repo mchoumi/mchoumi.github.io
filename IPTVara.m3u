@@ -174,13 +174,7 @@ http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/6.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:00:66:FA&stream=106935&extension=ts&play_token=8yb15WWsTb 
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/58336 
-#EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
-http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/7077.ts 
-#EXTINF:-1 tvg-id="Science.et.vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="France",Science & Vie 
-http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1840.ts 
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:00:66:FA&stream=106935&extension=ts&play_token=8yb15WWsTb
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275682&extension=ts&play_token=l6FUFiChcU 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
@@ -207,6 +201,21 @@ http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319553
 http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319554
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Backup
 http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319548
+
+#EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="Documentary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-history-uk.png",Discovery Channel
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/130915
+#EXTINF:-1 tvg-id="National.Geographic.fr" group-title="Documentary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/national-geographic-uk.png",National Geographic
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/130913
+#EXTINF:-1 tvg-id="National.Geographic.Wild.fr" group-title="Documentary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/national-geographic-wild-uk.png",National Geographic Wild 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/130914
+#EXTINF:-1 tvg-id="Seasons.fr" group-title="Documentary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/seasons-fr.png",Seasons
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/131288
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="Documentary" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/677771 
+#EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="Documentary" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
+http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/7077.ts 
+#EXTINF:-1 tvg-id="Science.et.vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="Documentary",Science & Vie 
+http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1840.ts
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Majid.png" group-title="Kids":http-user-agent="",Majid TV 
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8 
