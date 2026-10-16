@@ -206,8 +206,8 @@ http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319548
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/130915
 #EXTINF:-1 tvg-id="National.Geographic.fr" group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/national-geographic-uk.png",National Geographic
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/130913
-#EXTINF:-1 tvg-id="National.Geographic.Wild.fr" group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/national-geographic-wild-uk.png",National Geographic Wild 
-http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/131270
+#EXTINF:-1 tvg-id="NatGeoWild.HD.uk" group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/national-geographic-wild-uk.png",National Geographic Wild 
+http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1176.ts
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="Documentary" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/677771 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="Documentary" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
