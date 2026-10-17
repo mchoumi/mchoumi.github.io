@@ -209,11 +209,11 @@ http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/130913
 #EXTINF:-1 tvg-id="NatGeoWild.HD.uk" group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/national-geographic-wild-uk.png",National Geographic Wild UK
 http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1176.ts
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk" group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-nature-light-uk.png",Sky Nature UK
-http://prime8k.co:80/live/ff05d3b858/46ac3c5480/162384.ts
+http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:B6:61:81&stream=164071&extension=ts&play_token=ME1sictrWd
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="Documentary" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/677771 
 #EXTINF:-1 tvg-id="Discovery.HD.uk" group-title="Documentary" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel UK
-http://prime8k.co:80/live/ff05d3b858/46ac3c5480/162375.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/100761 
 #EXTINF:-1 tvg-id="Science.et.vie.fr" tvg-logo="https://mchoumi.github.io/LOGOs/sciencevie.png" group-title="Documentary",Science & Vie 
 http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1840.ts
 #EXTINF:-1 tvg-id="Seasons.fr" group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/seasons-fr.png",Seasons
