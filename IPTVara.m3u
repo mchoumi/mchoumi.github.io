@@ -14,13 +14,13 @@ https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx012/1080p-d/index.m3u8 
 
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
-http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/106908.ts
+http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:0E:1f:55&stream=506612&extension=ts&play_token=adH6adtuMQ
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
-http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/569466.ts
+http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:0E:1f:55&stream=876361&extension=ts&play_token=PmSR41nM8d
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
-http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/1687063.ts
+http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:0E:1f:55&stream=863794&extension=ts&play_token=QqjYhPeZTz
 #EXTINF:-1 tvg-id="CanalPlus.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
-http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/207152.ts 
+http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:0E:1f:55&stream=506635&extension=ts&play_token=JmJLGsVUFX 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://zoralatte.com:8080/live/Cruzvictor148/9354907121/47820.ts 
@@ -174,7 +174,7 @@ http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="France",M6 
 http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/6.ts
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
-http://prime8k.co:80/live/ff05d3b858/46ac3c5480/106935.ts
+http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:0E:1f:55&stream=506632&extension=ts&play_token=ajxXbDuCI0
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275682&extension=ts&play_token=l6FUFiChcU 
 #EXTINF:-1 tvg-id="CANAL+.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France 
