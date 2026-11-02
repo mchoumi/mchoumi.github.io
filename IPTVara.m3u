@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://www.open-epg.com/files/saudiarabia1.xml.gz" 
 
 #EXTINF:-1 tvg-id="MBC 2 HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
-http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1787.ts
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/54382
 #EXTINF:-1 tvg-id="MBC Max HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
-http://acces4k.info:8089/live/5371246701492/2526961952873/160.ts
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/54373
 #EXTINF:-1 tvg-id="MBC Action HD.sa" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="Movies",MBC Action
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/53053 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
@@ -23,7 +23,7 @@ http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:0E:1f:55&stream=86379
 http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:0E:1f:55&stream=506635&extension=ts&play_token=JmJLGsVUFX 
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
-http://zoralatte.com:8080/live/Cruzvictor148/9354907121/47820.ts 
+http://zoralatte.com:8080/live/B6yeA5BGqt/8390778217/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
 http://zoralatte.com:8080/live/Cruzvictor148/9354907121/47813.ts
 #EXTINF:-1 tvg-id="SkyStore1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
@@ -69,13 +69,13 @@ http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125454
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125453 
 
 #EXTINF:-1 tvg-id="Abu Dhabi.sa" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiTV.png" group-title="Arabic",Abu Dhabi Oula HD 
-http://eljawda.net:88//live/6645047731/6645047731/803517.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/1440262 
 #EXTINF:-1 tvg-id="Al Emarat.sa" tvg-logo="https://mchoumi.github.io/LOGOs/EmaratTV.png" group-title="Arabic",Al Emarat TV 
-http://eljawda.net:88//live/6645047731/6645047731/803518.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/2192 
 #EXTINF:-1 tvg-id="Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="Arabic",Dubai TV 
-http://eljawda.net:88//live/6645047731/6645047731/7400.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/1277 
 #EXTINF:-1 tvg-id="SAMA Dubai.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.webp" group-title="Arabic",Sama Dubai 
-http://eljawda.net:88//live/6645047731/6645047731/7401.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/1273 
 #EXTINF:-1 tvg-id="Sharjah TV.sa" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="Arabic",Sharjah TV 
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV2.png" group-title="Arabic",Sharjah 2 
@@ -223,10 +223,10 @@ http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/131288
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8 
 #EXTINF:-1 tvg-id="Jeem.ae" tvg-logo="https://mchoumi.github.io/LOGOs/Jeem.png" group-title="Kids":http-user-agent="",Jeem TV 
 http://ktv.im:8080/live/William287263/Davidas7262636/51188.ts 
-#EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Kids",beIN MOVIES KIDS
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/59080.ts
+#EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-logo="https://mchoumi.github.io/LOGOs/beINPremiere.png" group-title="Kids",beIN MOVIES FAMILY
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/28550
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Family
-http://zoralatte.com:8080/live/Cruzvictor148/9354907121/47817.ts 
+http://zoralatte.com:8080/live/B6yeA5BGqt/8390778217/47817.ts 
 #EXTINF:-1 tvg-id="OSNFamiky" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Family
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/394059.ts
 #EXTINF:-1 tvg-id="OSNKids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNFamily.png" group-title="Kids":http-user-agent="",OSN Kids 
