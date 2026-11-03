@@ -25,7 +25,7 @@ http://line.mode-lion.online:80/play/live.php?mac=00:1A:79:0E:1f:55&stream=50663
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
 http://zoralatte.com:8080/live/B6yeA5BGqt/8390778217/47820.ts 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Action
-http://zoralatte.com:8080/live/Cruzvictor148/9354907121/47813.ts
+http://zoralatte.com:8080/live/B6yeA5BGqt/8390778217/47813.ts
 #EXTINF:-1 tvg-id="SkyStore1" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 1
 http://britishmedia.uk/live/Dannybing2373/aC7GfSN/4513743.ts 
 #EXTINF:-1 tvg-id="SkyStore2" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyStore Premier 2 
