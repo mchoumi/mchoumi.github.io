@@ -50,7 +50,7 @@ http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125451
 
 #EXTINF:-1 tvg-id="HBO Max" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO Max 
 http://103.100.169.51:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
-#EXTINF:-1 tvg-id="HBO Top" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO TOP10 
+#EXTINF:-1 tvg-id="HBO Top10" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/HBOCinema.png",HBO TOP10 
 http://103.100.169.51:80/8C09A29C30A04D6/Bic5rUaI2l/1446144
 
 #EXTINF:-1 tvg-id="Starzplay Action" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/starzplay.png",STARZPLAY Action
